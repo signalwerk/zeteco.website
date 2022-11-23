@@ -1,0 +1,1608 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Team:Stage:Sprinter-Kaiserslautern - ZeTeCo</title>
+    <script>
+      document.documentElement.className =
+        document.documentElement.className.replace(
+          /(^|\s)client-nojs(\s|$)/,
+          "$1client-js$2"
+        );
+    </script>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.config.set({
+          wgCanonicalNamespace: "",
+          wgCanonicalSpecialPageName: false,
+          wgNamespaceNumber: 0,
+          wgPageName: "Team:Stage:Sprinter-Kaiserslautern",
+          wgTitle: "Team:Stage:Sprinter-Kaiserslautern",
+          wgCurRevisionId: 2052,
+          wgRevisionId: 2052,
+          wgArticleId: 348,
+          wgIsArticle: true,
+          wgIsRedirect: false,
+          wgAction: "view",
+          wgUserName: null,
+          wgUserGroups: ["*"],
+          wgCategories: [],
+          wgBreakFrames: false,
+          wgPageContentLanguage: "en",
+          wgPageContentModel: "wikitext",
+          wgSeparatorTransformTable: ["", ""],
+          wgDigitTransformTable: ["", ""],
+          wgDefaultDateFormat: "dmy",
+          wgMonthNames: [
+            "",
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+          ],
+          wgMonthNamesShort: [
+            "",
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ],
+          wgRelevantPageName: "Team:Stage:Sprinter-Kaiserslautern",
+          wgRelevantArticleId: 348,
+          wgRequestId: "",
+          wgIsProbablyEditable: true,
+          wgRestrictionEdit: [],
+          wgRestrictionMove: [],
+          wgRedirectedFrom: "Sprinter-Kaiserslautern",
+          wgWikiEditorEnabledModules: {
+            toolbar: false,
+            dialogs: false,
+            preview: false,
+            publish: false,
+          },
+          wgBetaFeaturesFeatures: [],
+          wgMediaViewerOnClick: true,
+          wgMediaViewerEnabledByDefault: true,
+          wgPageFormsAutocompleteValues: [],
+          wgPageFormsAutocompleteOnAllChars: false,
+          wgPageFormsFieldProperties: [],
+          wgPageFormsCargoFields: [],
+          wgPageFormsDependentFields: [],
+          wgPageFormsGridValues: [],
+          wgPageFormsGridParams: [],
+          wgPageFormsShowOnSelect: [],
+          wgPageFormsScriptPath: "/extensions/PageForms",
+          edgValues: null,
+          wgPageFormsEDSettings: null,
+          wgCargoMapClusteringMinimum: 80,
+          wgCargoMonthNames: [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+          ],
+          wgCargoMonthNamesShort: [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ],
+          wgCargoWeekDays: [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+          ],
+          wgCargoWeekDaysShort: [
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+          ],
+          wgULSAcceptLanguageList: [],
+          wgULSCurrentAutonym: "English",
+          wgVisualEditor: {
+            pageLanguageCode: "en",
+            pageLanguageDir: "ltr",
+            usePageImages: false,
+            usePageDescriptions: false,
+          },
+          wgCategoryTreePageCategoryOptions:
+            '{"mode":0,"hideprefix":20,"showcount":true,"namespaces":false}',
+          wgInternalRedirectTargetUrl:
+            "/wiki/Team:Stage:Sprinter-Kaiserslautern",
+          wgVisualEditorToolbarScrollOffset: 0,
+          wgEditSubmitButtonLabelPublish: false,
+        });
+        mw.loader.state({
+          "site.styles": "ready",
+          noscript: "ready",
+          "user.styles": "ready",
+          "user.cssprefs": "ready",
+          user: "ready",
+          "user.options": "loading",
+          "user.tokens": "loading",
+          "ext.uls.pt": "ready",
+          "ext.visualEditor.desktopArticleTarget.noscript": "ready",
+          "mediawiki.legacy.shared": "ready",
+          "mediawiki.legacy.commonPrint": "ready",
+          "mediawiki.sectionAnchor": "ready",
+          "mediawiki.skinning.interface": "ready",
+          "skins.vector.styles": "ready",
+        });
+        mw.loader.implement(
+          "user.options@0j3lz3q",
+          function ($, jQuery, require, module) {
+            mw.user.options.set({ variant: "en" });
+          }
+        );
+        mw.loader.implement(
+          "user.tokens@0d8wvfv",
+          function ($, jQuery, require, module) {
+            mw.user.tokens.set({
+              editToken: "+\\",
+              patrolToken: "+\\",
+              watchToken: "+\\",
+              csrfToken: "+\\",
+            }); /*@nomin*/
+          }
+        );
+        mw.loader.load([
+          "mediawiki.action.view.redirect",
+          "mediawiki.page.startup",
+          "ext.uls.interface",
+          "ext.visualEditor.desktopArticleTarget.init",
+          "skins.vector.js",
+        ]);
+      });
+    </script>
+    <link
+      rel="stylesheet"
+      href="/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"
+    />
+    <script
+      async=""
+      src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"
+    ></script>
+    <meta name="ResourceLoaderDynamicStyles" content="" />
+    <link
+      rel="stylesheet"
+      href="/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"
+    />
+    <meta name="generator" content="MediaWiki 1.28.0" />
+    <link
+      rel="alternate"
+      type="application/x-wiki"
+      title="Edit"
+      href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit"
+    />
+    <link
+      rel="edit"
+      title="Edit"
+      href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit"
+    />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link
+      rel="search"
+      type="application/opensearchdescription+xml"
+      href="/opensearch_desc.php"
+      title="ZeTeCo (en)"
+    />
+    <link
+      rel="EditURI"
+      type="application/rsd+xml"
+      href="http://localhost/api.php?action=rsd"
+    />
+    <link
+      rel="copyright"
+      href="https://creativecommons.org/publicdomain/zero/1.0/"
+    />
+    <link
+      rel="alternate"
+      type="application/atom+xml"
+      title="ZeTeCo Atom feed"
+      href="/index.php?title=Special:RecentChanges&amp;feed=atom"
+    />
+    <link
+      rel="canonical"
+      href="http://localhost/wiki/Team:Stage:Sprinter-Kaiserslautern"
+    />
+  </head>
+  <body
+    class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Team_Stage_Sprinter-Kaiserslautern rootpage-Team_Stage_Sprinter-Kaiserslautern skin-vector action-view"
+  >
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top"></a>
+
+      <div class="mw-indicators"></div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        Team:Stage:Sprinter-Kaiserslautern
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub">From ZeTeCo</div>
+        <div id="contentSub">
+          <span class="mw-redirectedfrom"
+            >(Redirected from
+            <a
+              href="/index.php?title=Sprinter-Kaiserslautern&amp;redirect=no"
+              class="mw-redirect"
+              title="Sprinter-Kaiserslautern"
+              >Sprinter-Kaiserslautern</a
+            >)</span
+          >
+        </div>
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="#mw-head">navigation</a>,
+          <a href="#p-search">search</a>
+        </div>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div id="toc" class="toc">
+            <div id="toctitle"><h2>Contents</h2></div>
+            <ul>
+              <li class="toclevel-1 tocsection-1">
+                <a href="#Info"
+                  ><span class="tocnumber">1</span>
+                  <span class="toctext">Info</span></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-2">
+                <a href="#Fahrten"
+                  ><span class="tocnumber">2</span>
+                  <span class="toctext">Fahrten</span></a
+                >
+                <ul>
+                  <li class="toclevel-2 tocsection-3">
+                    <a href="#Donnerstag_13."
+                      ><span class="tocnumber">2.1</span>
+                      <span class="toctext">Donnerstag 13.</span></a
+                    >
+                    <ul>
+                      <li class="toclevel-3 tocsection-4">
+                        <a href="#Route"
+                          ><span class="tocnumber">2.1.1</span>
+                          <span class="toctext">Route</span></a
+                        >
+                      </li>
+                      <li class="toclevel-3 tocsection-5">
+                        <a href="#Cargo"
+                          ><span class="tocnumber">2.1.2</span>
+                          <span class="toctext">Cargo</span></a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="toclevel-2 tocsection-6">
+                    <a href="#Freitag_14._Hinfahrt"
+                      ><span class="tocnumber">2.2</span>
+                      <span class="toctext">Freitag 14. Hinfahrt</span></a
+                    >
+                    <ul>
+                      <li class="toclevel-3 tocsection-7">
+                        <a href="#Route_2"
+                          ><span class="tocnumber">2.2.1</span>
+                          <span class="toctext">Route</span></a
+                        >
+                      </li>
+                      <li class="toclevel-3 tocsection-8">
+                        <a href="#Cargo_2"
+                          ><span class="tocnumber">2.2.2</span>
+                          <span class="toctext">Cargo</span></a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="toclevel-2 tocsection-9">
+                    <a href="#Freitag_14._Mat._Tour"
+                      ><span class="tocnumber">2.3</span>
+                      <span class="toctext">Freitag 14. Mat. Tour</span></a
+                    >
+                    <ul>
+                      <li class="toclevel-3 tocsection-10">
+                        <a href="#Route_3"
+                          ><span class="tocnumber">2.3.1</span>
+                          <span class="toctext">Route</span></a
+                        >
+                      </li>
+                      <li class="toclevel-3 tocsection-11">
+                        <a href="#Cargo_3"
+                          ><span class="tocnumber">2.3.2</span>
+                          <span class="toctext">Cargo</span></a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="toclevel-2 tocsection-12">
+                    <a href="#Sonntag_16._-_Einsammeln_Occasion-Mat"
+                      ><span class="tocnumber">2.4</span>
+                      <span class="toctext"
+                        >Sonntag 16. - Einsammeln Occasion-Mat</span
+                      ></a
+                    >
+                    <ul>
+                      <li class="toclevel-3 tocsection-13">
+                        <a href="#Route_4"
+                          ><span class="tocnumber">2.4.1</span>
+                          <span class="toctext">Route</span></a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="toclevel-2 tocsection-14">
+                    <a href="#Montag_17._Vormittags_Winterthur"
+                      ><span class="tocnumber">2.5</span>
+                      <span class="toctext"
+                        >Montag 17. Vormittags Winterthur</span
+                      ></a
+                    >
+                    <ul>
+                      <li class="toclevel-3 tocsection-15">
+                        <a href="#Route_1_.28Sprinter.29"
+                          ><span class="tocnumber">2.5.1</span>
+                          <span class="toctext">Route 1 (Sprinter)</span></a
+                        >
+                      </li>
+                      <li class="toclevel-3 tocsection-16">
+                        <a href="#Cargo_4"
+                          ><span class="tocnumber">2.5.2</span>
+                          <span class="toctext">Cargo</span></a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="toclevel-2 tocsection-17">
+                    <a href="#Montag_17._Nachmittags_See-Base"
+                      ><span class="tocnumber">2.6</span>
+                      <span class="toctext"
+                        >Montag 17. Nachmittags See-Base</span
+                      ></a
+                    >
+                    <ul>
+                      <li class="toclevel-3 tocsection-18">
+                        <a href="#Route_5"
+                          ><span class="tocnumber">2.6.1</span>
+                          <span class="toctext">Route</span></a
+                        >
+                      </li>
+                      <li class="toclevel-3 tocsection-19">
+                        <a href="#Cargo_5"
+                          ><span class="tocnumber">2.6.2</span>
+                          <span class="toctext">Cargo</span></a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="toclevel-2 tocsection-20">
+                    <a href="#Mittwoch_19._Grenzlager"
+                      ><span class="tocnumber">2.7</span>
+                      <span class="toctext">Mittwoch 19. Grenzlager</span></a
+                    >
+                    <ul>
+                      <li class="toclevel-3 tocsection-21">
+                        <a href="#Route_6"
+                          ><span class="tocnumber">2.7.1</span>
+                          <span class="toctext">Route</span></a
+                        >
+                      </li>
+                      <li class="toclevel-3 tocsection-22">
+                        <a href="#Cargo_6"
+                          ><span class="tocnumber">2.7.2</span>
+                          <span class="toctext">Cargo</span></a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="toclevel-2 tocsection-23">
+                    <a href="#.3F._R.C3.BCcktransport_See-Base"
+                      ><span class="tocnumber">2.8</span>
+                      <span class="toctext">?. Rücktransport See-Base</span></a
+                    >
+                    <ul>
+                      <li class="toclevel-3 tocsection-24">
+                        <a href="#Route_7"
+                          ><span class="tocnumber">2.8.1</span>
+                          <span class="toctext">Route</span></a
+                        >
+                      </li>
+                      <li class="toclevel-3 tocsection-25">
+                        <a href="#Cargo_7"
+                          ><span class="tocnumber">2.8.2</span>
+                          <span class="toctext">Cargo</span></a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                  <li class="toclevel-2 tocsection-26">
+                    <a href="#28._R.C3.BCckfahrt"
+                      ><span class="tocnumber">2.9</span>
+                      <span class="toctext">28. Rückfahrt</span></a
+                    >
+                    <ul>
+                      <li class="toclevel-3 tocsection-27">
+                        <a href="#Route_8"
+                          ><span class="tocnumber">2.9.1</span>
+                          <span class="toctext">Route</span></a
+                        >
+                      </li>
+                      <li class="toclevel-3 tocsection-28">
+                        <a href="#Cargo_8"
+                          ><span class="tocnumber">2.9.2</span>
+                          <span class="toctext">Cargo</span></a
+                        >
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+
+          <h1>
+            <span class="mw-headline" id="Info">Info</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=1"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Info"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=1"
+                title="Edit section: Info"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h1>
+          <p>
+            Das
+            <a href="/wiki/Team:Stage" title="Team:Stage">Team:Stage</a> plant
+            in Kaiserslautern (DE) bei Europcar Business einen Lieferwagen
+            (Sprinter) zu mieten, um Material aus der Gegend zur Zeteco zu
+            fahren und während dem Camp einen Lieferwagen zu Verfügung zu haben.
+          </p>
+          <p>Fahrer: Hotaru und Skye</p>
+          <p>Hinfahrt: 14.7.</p>
+          <p>Rückfahrt: 28.7.</p>
+          <p>Kosten:</p>
+          <pre>14 tage: 734,71€
+10tage: 631,89€
+<i>jeweils inkl beliebig vielen Fahrern</i>
++ evtl 40CHF Vignette
++ ca 100-150€/CHF Diesel(wahrscheinlich weniger)
++ 50€ Anhängerkupplung
+</pre>
+          <p>
+            Das ist ein Sprinter, lang, hoch, 1.2t Zuladung, Europcar Business
+            Plus Firmentarif von Chaos inKL.
+          </p>
+          <h1>
+            <span class="mw-headline" id="Fahrten">Fahrten</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=2"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Fahrten"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=2"
+                title="Edit section: Fahrten"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h1>
+          <h2>
+            <span class="mw-headline" id="Donnerstag_13.">Donnerstag 13.</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=3"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Donnerstag 13."
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=3"
+                title="Edit section: Donnerstag 13."
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h2>
+          <h3>
+            <span class="mw-headline" id="Route">Route</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=4"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Route"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=4"
+                title="Edit section: Route"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <ul>
+            <li>Vermietung</li>
+            <li>Kaiserslautern (Comsound)</li>
+            <li>Kaiserslautern (Uni)</li>
+            <li>
+              Karlsruhe (Entropia Zelte; zugesagt auf Plenum:
+              <a
+                rel="nofollow"
+                class="external text"
+                href="https://entropia.de/Plenum:TOPS#einfache_Themen"
+                >Entropia Plenum vom 18.06.2017</a
+              >; <b>WICHTIG:</b> Rueckmeldung bis 5 Tage <b>vor</b> Abholung an
+              <a href="/wiki/User:Chris1911" title="User:Chris1911"
+                >User:chris1911</a
+              >, wann Ankunft in KA)
+            </li>
+          </ul>
+          <h3>
+            <span class="mw-headline" id="Cargo">Cargo</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=5"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Cargo"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=5"
+                title="Edit section: Cargo"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <ul>
+            <li>VA-Mat</li>
+            <li>Zelte Entropia</li>
+            <li>4-5 Palletrahmen</li>
+            <li>5-8x Epal</li>
+            <li>...</li>
+          </ul>
+          <h2>
+            <span class="mw-headline" id="Freitag_14._Hinfahrt"
+              >Freitag 14. Hinfahrt</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=6"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Freitag 14. Hinfahrt"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=6"
+                title="Edit section: Freitag 14. Hinfahrt"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h2>
+          <h3>
+            <span class="mw-headline" id="Route_2">Route</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=7"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Route"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=7"
+                title="Edit section: Route"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <ul>
+            <li>Zoll</li>
+            <li>Sandhofen (Raven auflesen)</li>
+            <li>Schaffhausen</li>
+          </ul>
+          <h3>
+            <span class="mw-headline" id="Cargo_2">Cargo</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=8"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Cargo"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=8"
+                title="Edit section: Cargo"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <ul>
+            <li>VA-Mat</li>
+            <li>Zelte Entropia</li>
+            <li>4-5 Palletrahmen</li>
+            <li>5-8x Epal</li>
+            <li>...</li>
+          </ul>
+          <h2>
+            <span class="mw-headline" id="Freitag_14._Mat._Tour"
+              >Freitag 14. Mat. Tour</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=9"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Freitag 14. Mat. Tour"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=9"
+                title="Edit section: Freitag 14. Mat. Tour"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h2>
+          <h3>
+            <span class="mw-headline" id="Route_3">Route</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=10"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Route"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=10"
+                title="Edit section: Route"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <ul>
+            <li>Grundhof</li>
+            <li>Winterthur (Raven)</li>
+            <li>ZH (Skye)</li>
+            <li>CCCZH</li>
+          </ul>
+          <h3>
+            <span class="mw-headline" id="Cargo_3">Cargo</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=11"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Cargo"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=11"
+                title="Edit section: Cargo"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <ul>
+            <li>Zeltmat</li>
+            <li>Misc</li>
+          </ul>
+          <h2>
+            <span class="mw-headline" id="Sonntag_16._-_Einsammeln_Occasion-Mat"
+              >Sonntag 16. - Einsammeln Occasion-Mat</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=12"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Sonntag 16. - Einsammeln Occasion-Mat"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=12"
+                title="Edit section: Sonntag 16. - Einsammeln Occasion-Mat"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h2>
+          <h3>
+            <span class="mw-headline" id="Route_4">Route</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=13"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Route"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=13"
+                title="Edit section: Route"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <ul>
+            <li>
+              <a
+                rel="nofollow"
+                class="external text"
+                href="https://www.google.ch/maps/dir/Griesbach,+Schaffhausen/Sulz/Markrain+242,+Leimbach/Griesbach,+Schaffhausen/@47.4746142,8.1621612,10.02z/data=!4m26!4m25!1m5!1m1!1s0x47907f077045e3af:0x4a1327466a885f74!2m2!1d8.6061123!2d47.7171883!1m5!1m1!1s0x479046bbf924d711:0x31f6dce278e473e8!2m2!1d8.0957858!2d47.5343627!1m5!1m1!1s0x47901857f766a98d:0xe98f94ade29274a8!2m2!1d8.1632255!2d47.2767707!1m5!1m1!1s0x47907f077045e3af:0x4a1327466a885f74!2m2!1d8.6061123!2d47.7171883!3e0?hl=de"
+                >Google Maps Trip: Sulz, Leimbach, Zürich ab/nach Griesbach</a
+              >
+            </li>
+            <li>
+              Abfahrt 10:00
+              <ul>
+                <li>
+                  Sulz: entweder um 11:00, oder 13:30 (je nach Termin ist die
+                  Fahrtrichtung bestimmt)
+                </li>
+                <li>
+                  Sonntag 16. Juli, 12:00 Markrain 242, 5733 Leimbach - Metal
+                  Frame Pool (gross)
+                </li>
+              </ul>
+            </li>
+            <li>Zurück rund 16:00</li>
+          </ul>
+          <h2>
+            <span class="mw-headline" id="Montag_17._Vormittags_Winterthur"
+              >Montag 17. Vormittags Winterthur</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=14"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Montag 17. Vormittags Winterthur"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=14"
+                title="Edit section: Montag 17. Vormittags Winterthur"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h2>
+          <h3>
+            <span class="mw-headline" id="Route_1_.28Sprinter.29"
+              >Route 1 (Sprinter)</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=15"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Route 1 (Sprinter)"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=15"
+                title="Edit section: Route 1 (Sprinter)"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <ul>
+            <li>
+              Camp
+              <ul>
+                <li>Claudio kurz vor 08:00 am Schaffhausen Bahnhof abladen?</li>
+              </ul>
+            </li>
+            <li>Hyposound</li>
+            <li>Raven</li>
+            <li>Camp</li>
+          </ul>
+          <h3>
+            <span class="mw-headline" id="Cargo_4">Cargo</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=16"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Cargo"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=16"
+                title="Edit section: Cargo"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <ul>
+            <li>VA-Mat</li>
+          </ul>
+          <h2>
+            <span class="mw-headline" id="Montag_17._Nachmittags_See-Base"
+              >Montag 17. Nachmittags See-Base</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=17"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Montag 17. Nachmittags See-Base"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=17"
+                title="Edit section: Montag 17. Nachmittags See-Base"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h2>
+          <h3>
+            <span class="mw-headline" id="Route_5">Route</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=18"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Route"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=18"
+                title="Edit section: Route"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <p>direkt</p>
+          <h3>
+            <span class="mw-headline" id="Cargo_5">Cargo</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=19"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Cargo"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=19"
+                title="Edit section: Cargo"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <ul>
+            <li>Bühnenpodeste</li>
+            <li>
+              <a href="/wiki/See-base" title="See-base">Village-Material</a>
+              <i>(Holzofen, 3D Drucker...)</i>
+            </li>
+          </ul>
+          <p><br /></p>
+          <h2>
+            <span class="mw-headline" id="Mittwoch_19._Grenzlager"
+              >Mittwoch 19. Grenzlager</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=20"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Mittwoch 19. Grenzlager"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=20"
+                title="Edit section: Mittwoch 19. Grenzlager"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h2>
+          <h3>
+            <span class="mw-headline" id="Route_6">Route</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=21"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Route"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=21"
+                title="Edit section: Route"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <ul>
+            <li>Jestetten Grenzlager 08h30-08h50 [Ladenöffnung 08h30]</li>
+            <li>Zollamt Jestetten-Hardt 09h10-09h50</li>
+            <li>Camp 10h20-11h20</li>
+          </ul>
+          <h3>
+            <span class="mw-headline" id="Cargo_6">Cargo</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=22"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Cargo"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=22"
+                title="Edit section: Cargo"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <ul>
+            <li>&nbsp;??</li>
+          </ul>
+          <h2>
+            <span class="mw-headline" id=".3F._R.C3.BCcktransport_See-Base"
+              >?. Rücktransport See-Base</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=23"
+                class="mw-editsection-visualeditor"
+                title="Edit section: ?. Rücktransport See-Base"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=23"
+                title="Edit section: ?. Rücktransport See-Base"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h2>
+          <h3>
+            <span class="mw-headline" id="Route_7">Route</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=24"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Route"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=24"
+                title="Edit section: Route"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <p>direkt</p>
+          <h3>
+            <span class="mw-headline" id="Cargo_7">Cargo</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=25"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Cargo"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=25"
+                title="Edit section: Cargo"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <ul>
+            <li>Bühnenpodeste</li>
+            <li>
+              <a href="/wiki/See-base" title="See-base">Village-Material</a>
+              <i>(Holzofen, 3D Drucker...)</i>
+            </li>
+          </ul>
+          <p><br /></p>
+          <h2>
+            <span class="mw-headline" id="28._R.C3.BCckfahrt"
+              >28. Rückfahrt</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=26"
+                class="mw-editsection-visualeditor"
+                title="Edit section: 28. Rückfahrt"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=26"
+                title="Edit section: 28. Rückfahrt"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h2>
+          <h3>
+            <span class="mw-headline" id="Route_8">Route</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=27"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Route"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=27"
+                title="Edit section: Route"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <ul>
+            <li>Schaffhausen</li>
+            <li>
+              Karlsruhe (Entropia Zelte; Rueckgabe am 27.07. erwartet -&gt;
+              SHA2017); Ansprechpartner:
+              <a href="/wiki/User:Chris1911" title="User:Chris1911"
+                >User:chris1911</a
+              >.
+            </li>
+            <li>Kaiserslautern (Uni)</li>
+            <li>Kaiserslautern (Comsound)</li>
+            <li>Vermietung</li>
+          </ul>
+          <h3>
+            <span class="mw-headline" id="Cargo_8">Cargo</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit&amp;vesection=28"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Cargo"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit&amp;section=28"
+                title="Edit section: Cargo"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <p><i>Siehe Hinfahrt</i></p>
+        </div>
+        <div class="printfooter">
+          Retrieved from "<a
+            dir="ltr"
+            href="http://localhost/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;oldid=2052"
+            >http://localhost/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;oldid=2052</a
+          >"
+        </div>
+        <div
+          id="catlinks"
+          class="catlinks catlinks-allhidden"
+          data-mw="interface"
+        ></div>
+        <div class="visualClear"></div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>Navigation menu</h2>
+
+      <div id="mw-head">
+        <div
+          id="p-personal"
+          role="navigation"
+          class=""
+          aria-labelledby="p-personal-label"
+        >
+          <h3 id="p-personal-label">Personal tools</h3>
+          <ul>
+            <li id="pt-uls" class="active">
+              <a href="#" class="uls-trigger autonym">English</a>
+            </li>
+            <li id="pt-anonuserpage">Not logged in</li>
+            <li id="pt-anontalk">
+              <a
+                href="/wiki/Special:MyTalk"
+                title="Discussion about edits from this IP address [n]"
+                accesskey="n"
+                >Talk</a
+              >
+            </li>
+            <li id="pt-anoncontribs">
+              <a
+                href="/wiki/Special:MyContributions"
+                title="A list of edits made from this IP address [y]"
+                accesskey="y"
+                >Contributions</a
+              >
+            </li>
+            <li id="pt-createaccount">
+              <a
+                href="/index.php?title=Special:CreateAccount&amp;returnto=Team%3AStage%3ASprinter-Kaiserslautern"
+                title="You are encouraged to create an account and log in; however, it is not mandatory"
+                >Create account</a
+              >
+            </li>
+            <li id="pt-login">
+              <a
+                href="/index.php?title=Special:UserLogin&amp;returnto=Team%3AStage%3ASprinter-Kaiserslautern"
+                title="You are encouraged to log in; however, it is not mandatory [o]"
+                accesskey="o"
+                >Log in</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div
+            id="p-namespaces"
+            role="navigation"
+            class="vectorTabs"
+            aria-labelledby="p-namespaces-label"
+          >
+            <h3 id="p-namespaces-label">Namespaces</h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <span
+                  ><a
+                    href="/wiki/Team:Stage:Sprinter-Kaiserslautern"
+                    title="View the content page [c]"
+                    accesskey="c"
+                    >Page</a
+                  ></span
+                >
+              </li>
+              <li id="ca-talk">
+                <span
+                  ><a
+                    href="/wiki/Talk:Team:Stage:Sprinter-Kaiserslautern"
+                    title="Discussion about the content page [t]"
+                    accesskey="t"
+                    rel="discussion"
+                    >Discussion</a
+                  ></span
+                >
+              </li>
+            </ul>
+          </div>
+          <div
+            id="p-variants"
+            role="navigation"
+            class="vectorMenu emptyPortlet"
+            aria-labelledby="p-variants-label"
+          >
+            <h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+            <div class="menu">
+              <ul></ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div
+            id="p-views"
+            role="navigation"
+            class="vectorTabs"
+            aria-labelledby="p-views-label"
+          >
+            <h3 id="p-views-label">Views</h3>
+            <ul>
+              <li id="ca-view" class="selected">
+                <span
+                  ><a href="/wiki/Team:Stage:Sprinter-Kaiserslautern"
+                    >Read</a
+                  ></span
+                >
+              </li>
+              <li id="ca-ve-edit">
+                <span
+                  ><a
+                    href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;veaction=edit"
+                    title="Edit this page [v]"
+                    accesskey="v"
+                    >Edit</a
+                  ></span
+                >
+              </li>
+              <li id="ca-edit" class="collapsible">
+                <span
+                  ><a
+                    href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=edit"
+                    title="Edit this page [e]"
+                    accesskey="e"
+                    >Edit source</a
+                  ></span
+                >
+              </li>
+              <li id="ca-history" class="collapsible">
+                <span
+                  ><a
+                    href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=history"
+                    title="Past revisions of this page [h]"
+                    accesskey="h"
+                    >View history</a
+                  ></span
+                >
+              </li>
+            </ul>
+          </div>
+          <div
+            id="p-cactions"
+            role="navigation"
+            class="vectorMenu emptyPortlet"
+            aria-labelledby="p-cactions-label"
+          >
+            <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+            <div class="menu">
+              <ul></ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">Search</label>
+            </h3>
+
+            <form action="/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input
+                  type="search"
+                  name="search"
+                  placeholder="Search ZeTeCo"
+                  title="Search ZeTeCo [f]"
+                  accesskey="f"
+                  id="searchInput"
+                /><input
+                  type="hidden"
+                  value="Special:Search"
+                  name="title"
+                /><input
+                  type="submit"
+                  name="fulltext"
+                  value="Search"
+                  title="Search the pages for this text"
+                  id="mw-searchButton"
+                  class="searchButton mw-fallbackSearchButton"
+                /><input
+                  type="submit"
+                  name="go"
+                  value="Go"
+                  title="Go to a page with this exact name if it exists"
+                  id="searchButton"
+                  class="searchButton"
+                />
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a
+            class="mw-wiki-logo"
+            href="/wiki/Main_Page"
+            title="Visit the main page"
+          ></a>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-navigation"
+          aria-labelledby="p-navigation-label"
+        >
+          <h3 id="p-navigation-label">Navigation</h3>
+
+          <div class="body">
+            <ul></ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-ZeTeCo"
+          aria-labelledby="p-ZeTeCo-label"
+        >
+          <h3 id="p-ZeTeCo-label">ZeTeCo</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a
+                  href="/wiki/Main_Page"
+                  title="Visit the main page [z]"
+                  accesskey="z"
+                  >Main page</a
+                >
+              </li>
+              <li id="n-FAQ"><a href="/wiki/Static:FAQ">FAQ</a></li>
+              <li id="n-Tickets">
+                <a href="https://tickets.zeteco.ch/" rel="nofollow">Tickets</a>
+              </li>
+              <li id="n-Travel"><a href="/wiki/Static:Travel">Travel</a></li>
+              <li id="n-Impressum">
+                <a href="/wiki/Static:Impressum">Impressum</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Vor_dem_Camp"
+          aria-labelledby="p-Vor_dem_Camp-label"
+        >
+          <h3 id="p-Vor_dem_Camp-label">Vor dem Camp</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-Teams"><a href="/wiki/Team">Teams</a></li>
+              <li id="n-Camp-Projekte">
+                <a href="/wiki/CampProjekte">Camp Projekte</a>
+              </li>
+              <li id="n-Camp-Villages">
+                <a href="/wiki/CampVillages">Camp Villages</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Wiki"
+          aria-labelledby="p-Wiki-label"
+        >
+          <h3 id="p-Wiki-label">Wiki</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-recentchanges">
+                <a
+                  href="/wiki/Special:RecentChanges"
+                  title="A list of recent changes in the wiki [r]"
+                  accesskey="r"
+                  >Recent changes</a
+                >
+              </li>
+              <li id="n-randompage">
+                <a
+                  href="/wiki/Special:Random"
+                  title="Load a random page [x]"
+                  accesskey="x"
+                  >Random page</a
+                >
+              </li>
+              <li id="n-help">
+                <a
+                  href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents"
+                  title="The place to find out"
+                  >Help</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Wiki_Development"
+          aria-labelledby="p-Wiki_Development-label"
+        >
+          <h3 id="p-Wiki_Development-label">Wiki Development</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-Cargo-Data">
+                <a href="/wiki/Special:CargoTables">Cargo Data</a>
+              </li>
+              <li id="n-Templates">
+                <a href="/wiki/Special:Templates">Templates</a>
+              </li>
+              <li id="n-List-of-Projects">
+                <a href="/wiki/Project">List of Projects</a>
+              </li>
+              <li id="n-Create-Orga-Project">
+                <a href="/wiki/Form:OrgaProject">Create Orga Project</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-tb"
+          aria-labelledby="p-tb-label"
+        >
+          <h3 id="p-tb-label">Tools</h3>
+
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a
+                  href="/wiki/Special:WhatLinksHere/Team:Stage:Sprinter-Kaiserslautern"
+                  title="A list of all wiki pages that link here [j]"
+                  accesskey="j"
+                  >What links here</a
+                >
+              </li>
+              <li id="t-recentchangeslinked">
+                <a
+                  href="/wiki/Special:RecentChangesLinked/Team:Stage:Sprinter-Kaiserslautern"
+                  rel="nofollow"
+                  title="Recent changes in pages linked from this page [k]"
+                  accesskey="k"
+                  >Related changes</a
+                >
+              </li>
+              <li id="t-upload">
+                <a
+                  href="/wiki/Special:UploadWizard"
+                  title="Upload files [u]"
+                  accesskey="u"
+                  >Upload file</a
+                >
+              </li>
+              <li id="t-specialpages">
+                <a
+                  href="/wiki/Special:SpecialPages"
+                  title="A list of all special pages [q]"
+                  accesskey="q"
+                  >Special pages</a
+                >
+              </li>
+              <li id="t-print">
+                <a
+                  href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;printable=yes"
+                  rel="alternate"
+                  title="Printable version of this page [p]"
+                  accesskey="p"
+                  >Printable version</a
+                >
+              </li>
+              <li id="t-permalink">
+                <a
+                  href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;oldid=2052"
+                  title="Permanent link to this revision of the page"
+                  >Permanent link</a
+                >
+              </li>
+              <li id="t-info">
+                <a
+                  href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=info"
+                  title="More information about this page"
+                  >Page information</a
+                >
+              </li>
+              <li id="t-cargopagevalueslink">
+                <a
+                  href="/index.php?title=Team:Stage:Sprinter-Kaiserslautern&amp;action=pagevalues"
+                  rel="cargo-pagevalues"
+                  >Page values</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+          This page was last modified on 15 July 2017, at 01:17.
+        </li>
+        <li id="footer-info-copyright">
+          Content is available under
+          <a
+            class="external"
+            rel="nofollow"
+            href="https://creativecommons.org/publicdomain/zero/1.0/"
+            >Creative Commons Zero (Public Domain)</a
+          >
+          unless otherwise noted.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="/wiki/ZeTeCo:Privacy_policy" title="ZeTeCo:Privacy policy"
+            >Privacy policy</a
+          >
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/ZeTeCo:About" title="ZeTeCo:About">About ZeTeCo</a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a
+            href="/wiki/ZeTeCo:General_disclaimer"
+            title="ZeTeCo:General disclaimer"
+            >Disclaimers</a
+          >
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://creativecommons.org/publicdomain/zero/1.0/"
+            ><img
+              src="/resources/assets/licenses/cc-0.png"
+              alt="Creative Commons Zero (Public Domain)"
+              width="88"
+              height="31"
+          /></a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/"
+            ><img
+              src="/resources/assets/poweredby_mediawiki_88x31.png"
+              alt="Powered by MediaWiki"
+              srcset="
+                /resources/assets/poweredby_mediawiki_132x47.png 1.5x,
+                /resources/assets/poweredby_mediawiki_176x62.png 2x
+              "
+              width="88"
+              height="31"
+          /></a>
+        </li>
+      </ul>
+      <div style="clear: both"></div>
+    </div>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.loader.load([
+          "mediawiki.toc",
+          "mediawiki.action.view.postEdit",
+          "site",
+          "mediawiki.user",
+          "mediawiki.hidpi",
+          "mediawiki.page.ready",
+          "mediawiki.searchSuggest",
+          "ext.Shariff",
+          "ext.uls.init",
+          "ext.uls.geoclient",
+          "ext.visualEditor.targetLoader",
+        ]);
+      });
+    </script>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.config.set({ wgBackendResponseTime: 0 });
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,1067 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Static:FAQ - ZeTeCo</title>
+    <script>
+      document.documentElement.className =
+        document.documentElement.className.replace(
+          /(^|\s)client-nojs(\s|$)/,
+          "$1client-js$2"
+        );
+    </script>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.config.set({
+          wgCanonicalNamespace: "Static",
+          wgCanonicalSpecialPageName: false,
+          wgNamespaceNumber: 142,
+          wgPageName: "Static:FAQ",
+          wgTitle: "FAQ",
+          wgCurRevisionId: 2068,
+          wgRevisionId: 2068,
+          wgArticleId: 308,
+          wgIsArticle: true,
+          wgIsRedirect: false,
+          wgAction: "view",
+          wgUserName: null,
+          wgUserGroups: ["*"],
+          wgCategories: [],
+          wgBreakFrames: false,
+          wgPageContentLanguage: "en",
+          wgPageContentModel: "wikitext",
+          wgSeparatorTransformTable: ["", ""],
+          wgDigitTransformTable: ["", ""],
+          wgDefaultDateFormat: "dmy",
+          wgMonthNames: [
+            "",
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+          ],
+          wgMonthNamesShort: [
+            "",
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ],
+          wgRelevantPageName: "Static:FAQ",
+          wgRelevantArticleId: 308,
+          wgRequestId: "",
+          wgIsProbablyEditable: false,
+          wgRestrictionEdit: [],
+          wgRestrictionMove: [],
+          wgWikiEditorEnabledModules: {
+            toolbar: false,
+            dialogs: false,
+            preview: false,
+            publish: false,
+          },
+          wgBetaFeaturesFeatures: [],
+          wgMediaViewerOnClick: true,
+          wgMediaViewerEnabledByDefault: true,
+          wgPageFormsAutocompleteValues: [],
+          wgPageFormsAutocompleteOnAllChars: false,
+          wgPageFormsFieldProperties: [],
+          wgPageFormsCargoFields: [],
+          wgPageFormsDependentFields: [],
+          wgPageFormsGridValues: [],
+          wgPageFormsGridParams: [],
+          wgPageFormsShowOnSelect: [],
+          wgPageFormsScriptPath: "/extensions/PageForms",
+          edgValues: null,
+          wgPageFormsEDSettings: null,
+          wgCargoMapClusteringMinimum: 80,
+          wgCargoMonthNames: [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+          ],
+          wgCargoMonthNamesShort: [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ],
+          wgCargoWeekDays: [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+          ],
+          wgCargoWeekDaysShort: [
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+          ],
+          wgULSAcceptLanguageList: [],
+          wgULSCurrentAutonym: "English",
+          wgVisualEditor: {
+            pageLanguageCode: "en",
+            pageLanguageDir: "ltr",
+            usePageImages: false,
+            usePageDescriptions: false,
+          },
+          wgCategoryTreePageCategoryOptions:
+            '{"mode":0,"hideprefix":20,"showcount":true,"namespaces":false}',
+          wgVisualEditorToolbarScrollOffset: 0,
+          wgEditSubmitButtonLabelPublish: false,
+        });
+        mw.loader.state({
+          "site.styles": "ready",
+          noscript: "ready",
+          "user.styles": "ready",
+          "user.cssprefs": "ready",
+          user: "ready",
+          "user.options": "loading",
+          "user.tokens": "loading",
+          "ext.uls.pt": "ready",
+          "ext.visualEditor.desktopArticleTarget.noscript": "ready",
+          "mediawiki.legacy.shared": "ready",
+          "mediawiki.legacy.commonPrint": "ready",
+          "mediawiki.sectionAnchor": "ready",
+          "mediawiki.skinning.interface": "ready",
+          "skins.vector.styles": "ready",
+        });
+        mw.loader.implement(
+          "user.options@0j3lz3q",
+          function ($, jQuery, require, module) {
+            mw.user.options.set({ variant: "en" });
+          }
+        );
+        mw.loader.implement(
+          "user.tokens@0d8wvfv",
+          function ($, jQuery, require, module) {
+            mw.user.tokens.set({
+              editToken: "+\\",
+              patrolToken: "+\\",
+              watchToken: "+\\",
+              csrfToken: "+\\",
+            }); /*@nomin*/
+          }
+        );
+        mw.loader.load([
+          "mediawiki.page.startup",
+          "ext.uls.interface",
+          "ext.visualEditor.desktopArticleTarget.init",
+          "skins.vector.js",
+        ]);
+      });
+    </script>
+    <link
+      rel="stylesheet"
+      href="/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"
+    />
+    <script
+      async=""
+      src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"
+    ></script>
+    <meta name="ResourceLoaderDynamicStyles" content="" />
+    <link
+      rel="stylesheet"
+      href="/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"
+    />
+    <meta name="generator" content="MediaWiki 1.28.0" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link
+      rel="search"
+      type="application/opensearchdescription+xml"
+      href="/opensearch_desc.php"
+      title="ZeTeCo (en)"
+    />
+    <link
+      rel="EditURI"
+      type="application/rsd+xml"
+      href="http://localhost/api.php?action=rsd"
+    />
+    <link
+      rel="copyright"
+      href="https://creativecommons.org/publicdomain/zero/1.0/"
+    />
+    <link
+      rel="alternate"
+      type="application/atom+xml"
+      title="ZeTeCo Atom feed"
+      href="/index.php?title=Special:RecentChanges&amp;feed=atom"
+    />
+  </head>
+  <body
+    class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-142 ns-subject page-Static_FAQ rootpage-Static_FAQ skin-vector action-view"
+  >
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top"></a>
+
+      <div class="mw-indicators"></div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">Static:FAQ</h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub">From ZeTeCo</div>
+        <div id="contentSub"></div>
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="#mw-head">navigation</a>,
+          <a href="#p-search">search</a>
+        </div>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <div id="toc" class="toc">
+            <div id="toctitle"><h2>Contents</h2></div>
+            <ul>
+              <li class="toclevel-1 tocsection-1">
+                <a href="#Wieso_sind_die_Tickets_so_teuer.3F"
+                  ><span class="tocnumber">1</span>
+                  <span class="toctext"
+                    >Wieso sind die Tickets so teuer?</span
+                  ></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-2">
+                <a href="#Ab_wann_kann_man_ankommen.3F"
+                  ><span class="tocnumber">2</span>
+                  <span class="toctext">Ab wann kann man ankommen?</span></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-3">
+                <a href="#Bis_wann_kann_man_bleiben.3F"
+                  ><span class="tocnumber">3</span>
+                  <span class="toctext">Bis wann kann man bleiben?</span></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-4">
+                <a href="#Wie_steht_es_mit_Photos_machen.3F"
+                  ><span class="tocnumber">4</span>
+                  <span class="toctext"
+                    >Wie steht es mit Photos machen?</span
+                  ></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-5">
+                <a href="#Stromversorgung.3F"
+                  ><span class="tocnumber">5</span>
+                  <span class="toctext">Stromversorgung?</span></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-6">
+                <a href="#Internet.3F"
+                  ><span class="tocnumber">6</span>
+                  <span class="toctext">Internet?</span></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-7">
+                <a href="#Was_muss_ich_mitbringen.3F"
+                  ><span class="tocnumber">7</span>
+                  <span class="toctext">Was muss ich mitbringen?</span></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-8">
+                <a href="#Wann_und_wo_gibt_es_was_zu_essen.3F"
+                  ><span class="tocnumber">8</span>
+                  <span class="toctext"
+                    >Wann und wo gibt es was zu essen?</span
+                  ></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-9">
+                <a href="#Gibt_es_vegetarisch.2Fvegane_Verpflegung"
+                  ><span class="tocnumber">9</span>
+                  <span class="toctext"
+                    >Gibt es vegetarisch/vegane Verpflegung</span
+                  ></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-10">
+                <a href="#Wie_werden_Lebensmittelallergien_gehandhabt.3F"
+                  ><span class="tocnumber">10</span>
+                  <span class="toctext"
+                    >Wie werden Lebensmittelallergien gehandhabt?</span
+                  ></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-11">
+                <a href="#Kann_man_Feuer_machen_bzw._grillen.3F"
+                  ><span class="tocnumber">11</span>
+                  <span class="toctext"
+                    >Kann man Feuer machen bzw. grillen?</span
+                  ></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-12">
+                <a href="#Kann_ich_mit_einem_Camper_kommen.3F"
+                  ><span class="tocnumber">12</span>
+                  <span class="toctext"
+                    >Kann ich mit einem Camper kommen?</span
+                  ></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-13">
+                <a href="#Kann_ich_meine_Kinder_mitbringen.3F"
+                  ><span class="tocnumber">13</span>
+                  <span class="toctext"
+                    >Kann ich meine Kinder mitbringen?</span
+                  ></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-14">
+                <a href="#D.C3.BCrfen_Hunde_mit_auf_die_ZeTeCo.3F"
+                  ><span class="tocnumber">14</span>
+                  <span class="toctext"
+                    >Dürfen Hunde mit auf die ZeTeCo?</span
+                  ></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-15">
+                <a
+                  href="#Gibt_es_einen_Lightning_Talk.2C_in_dem_Ihr_im_Voraus_.C3.BCber_das_Camp_erz.C3.A4hlt_habt.3F"
+                  ><span class="tocnumber">15</span>
+                  <span class="toctext"
+                    >Gibt es einen Lightning Talk, in dem Ihr im Voraus über das
+                    Camp erzählt habt?</span
+                  ></a
+                >
+              </li>
+            </ul>
+          </div>
+
+          <h4>
+            <span class="mw-headline" id="Wieso_sind_die_Tickets_so_teuer.3F"
+              >Wieso sind die Tickets so teuer?</span
+            >
+          </h4>
+          <p>
+            Leider befinden wir uns in der Schweiz, wo bekanntermaßen alles ein
+            bisschen teuer ist. Aber niemand soll deswegen eine Insolvenz
+            riskieren oder zu Hause bleiben müssen. Es ist auch möglich,
+            günstigere Tickets zu erwerben. Für Details dazu, siehe
+            <a href="/wiki/Ticketpreise" title="Ticketpreise">Ticketpreise</a>.
+          </p>
+          <h4>
+            <span class="mw-headline" id="Ab_wann_kann_man_ankommen.3F"
+              >Ab wann kann man ankommen?</span
+            >
+          </h4>
+          <p>
+            Wer beim Auf- und Abbau helfen möchte, kann prinzipiell von Mittwoch
+            bis Mittwoch (19.-26. Juli) dabei sein. Wer so motiviert ist, dass
+            er sogar noch früher kommen und mithelfen möchte, möge sich bitte
+            direkt mit uns
+            <a rel="nofollow" class="external text" href="mailto:info@zeteco.ch"
+              >in Verbindung setzen</a
+            >. Wer nicht beim Aufbau hilft, möge bitte frühestens am 20. (Do)
+            Abends kommen.
+          </p>
+          <h4>
+            <span class="mw-headline" id="Bis_wann_kann_man_bleiben.3F"
+              >Bis wann kann man bleiben?</span
+            >
+          </h4>
+          <p>
+            Ab Montagabend, 24. Juli, wird abgebaut. Wer beim Abbau helfen
+            möchte, darf gerne bis Mittwoch den 26. bleiben, oder evtl. sogar
+            noch länger. In dem Fall wendet ihr euch bitte direkt an die
+            <a rel="nofollow" class="external text" href="mailto:info@zeteco.ch"
+              >Orga</a
+            >.
+          </p>
+          <h4>
+            <span class="mw-headline" id="Wie_steht_es_mit_Photos_machen.3F"
+              >Wie steht es mit Photos machen?</span
+            >
+          </h4>
+          <p>
+            <b>tl;dr</b> Grundsätzlich haben wir die selbe Policy, wie sie auch
+            <a
+              rel="nofollow"
+              class="external text"
+              href="https://events.ccc.de/congress/2016/wiki/Static:FAQ#Other_Questions"
+              >auf dem CCC</a
+            >
+            gilt.<br /><br />
+            Das bedeutet: Nur, wenn alle auf dem Bild zu sehenden Menschen
+            <i>zuvor</i> ihr Einverständnis erklärt haben, dürfen Photos gemacht
+            werden. Somit sind Totalaufnahmen in die Menge leider nicht möglich.
+            <br />
+            Viele Photographen ziehen es vor, zuerst ein Photo zu machen, und
+            danach um Erlaubnis zu fragen, um die Spontaneität der Szene nicht
+            zu zerstören. Auch wenn wir diese Praxis verstehen, können wir sie
+            leider nicht zulassen, denn die Freiheit des Einzelnen wiegt
+            eindeutig mehr als ästhetische Fragen.
+          </p>
+          <h4>
+            <span class="mw-headline" id="Stromversorgung.3F"
+              >Stromversorgung?</span
+            >
+          </h4>
+          <p>
+            Es ist genug Strom für alle da, jeweils an den Datenfässern, die
+            übers Gelände verteilt sind. Ihr braucht outdoorfähige
+            Verlängerungskabel und Mehrfachstecker. Wenn ihr Geräte habt, die
+            eine etwas großzügigere Leitung benötigen, wendet euch bitte an die
+            <a href="/wiki/Team:Power" title="Team:Power">Power Ranger</a>.
+          </p>
+          <h4><span class="mw-headline" id="Internet.3F">Internet?</span></h4>
+          <p>
+            Es gibt Internet per W-Lan und Kabel. Für letzteres empfiehlt es
+            sich, ein langes Cat5 mitzubringen. Für weitere Fragen könnt ihr
+            euch an das
+            <a href="/wiki/Team:NOC" title="Team:NOC">NOC</a> wenden.
+          </p>
+          <h4>
+            <span class="mw-headline" id="Was_muss_ich_mitbringen.3F"
+              >Was muss ich mitbringen?</span
+            >
+          </h4>
+          <p>Speziell für die ZeTeCo benötigst du:</p>
+          <ul>
+            <li>ZeTeCo-Ticket</li>
+            <li>
+              Steckdosenwandler für
+              <a href="/wiki/Team:Power" title="Team:Power"
+                >Schweizer Steckdosen</a
+              >. Falls nicht vorhanden, können passende Kaltgerätekabel von den
+              <a href="/wiki/Team:Power" title="Team:Power">Power Rangers</a>
+              ausgeliehen werden.
+            </li>
+            <li>DECT-Telefon, falls vorhanden</li>
+            <li>LAN-Kabel für Direktverbindung zum Datenfass</li>
+            <li>Mehrfachstecker + Verlängerungskabel</li>
+          </ul>
+          <p>
+            <b>
+              Für eine ausführliche Packliste, siehe unter
+              <a href="/wiki/HowtoPack" title="HowtoPack">HowtoPack</a>.</b
+            >
+          </p>
+          <p><br /></p>
+          <h4>
+            <span class="mw-headline" id="Wann_und_wo_gibt_es_was_zu_essen.3F"
+              >Wann und wo gibt es was zu essen?</span
+            >
+          </h4>
+          <p>
+            Es wird vor Ort ausreichend Verpflegung zu kaufen geben. Siehe dazu
+            auch unter
+            <a href="/wiki/Verpflegung" title="Verpflegung">Verpflegung</a>.
+          </p>
+          <h4>
+            <span
+              class="mw-headline"
+              id="Gibt_es_vegetarisch.2Fvegane_Verpflegung"
+              >Gibt es vegetarisch/vegane Verpflegung</span
+            >
+          </h4>
+          <p>Ja, selbstverständlich.</p>
+          <h4>
+            <span
+              class="mw-headline"
+              id="Wie_werden_Lebensmittelallergien_gehandhabt.3F"
+              >Wie werden Lebensmittelallergien gehandhabt?</span
+            >
+          </h4>
+          <p>
+            Es wird eine Anmelde-Umfrage geben, in der Menschen eintragen
+            können, ob sie Fleisch essen, Allergien haben etc.
+            <a
+              rel="nofollow"
+              class="external autonumber"
+              href="https://du7f.koalatux.ch/IgQIgFkL6w-edHhThencHg"
+              >[1]</a
+            >
+          </p>
+          <h4>
+            <span class="mw-headline" id="Kann_man_Feuer_machen_bzw._grillen.3F"
+              >Kann man Feuer machen bzw. grillen?</span
+            >
+          </h4>
+          <p>
+            Es wird eine zentrale Feuer- bzw. Grillstelle geben, eigene Feuer
+            sind nicht erwünscht.
+          </p>
+          <h4>
+            <span class="mw-headline" id="Kann_ich_mit_einem_Camper_kommen.3F"
+              >Kann ich mit einem Camper kommen?</span
+            >
+          </h4>
+          <p>
+            Wohnmobile sind erlaubt und kosten nicht extra, aber es ist vor Ort
+            keine Abwasserentsorgung vorhanden.
+          </p>
+          <h4>
+            <span class="mw-headline" id="Kann_ich_meine_Kinder_mitbringen.3F"
+              >Kann ich meine Kinder mitbringen?</span
+            >
+          </h4>
+          <p>
+            Natürlich dürfen auch gerne Kinder zum ZeTeCo kommen. Unter 12
+            Jahren ist der Eintritt für sie
+            <a
+              rel="nofollow"
+              class="external text"
+              href="https://tickets.zeteco.ch/"
+              >kostenlos</a
+            >. Allerdings gibt es keinen extra Bereich, Programm oder sonstige
+            Dinge wie Wickelzelte für Kinder. Die Eltern müssen sich zu jeder
+            Zeit selbst um ihren Nachwuchs kümmern.
+          </p>
+          <h4>
+            <span
+              class="mw-headline"
+              id="D.C3.BCrfen_Hunde_mit_auf_die_ZeTeCo.3F"
+              >Dürfen Hunde mit auf die ZeTeCo?</span
+            >
+          </h4>
+          <p>
+            Als Begleithunde - zum Beispiel für Blinde - dürfen sie gerne
+            mitgebracht werden. Ansonsten bitte nicht.
+          </p>
+          <h4>
+            <span
+              class="mw-headline"
+              id="Gibt_es_einen_Lightning_Talk.2C_in_dem_Ihr_im_Voraus_.C3.BCber_das_Camp_erz.C3.A4hlt_habt.3F"
+              >Gibt es einen Lightning Talk, in dem Ihr im Voraus über das Camp
+              erzählt habt?</span
+            >
+          </h4>
+          <p>
+            Was für ein Zufall, dass du fragst! &nbsp;;) Ja, es gibt einen von
+            der GPN17:
+          </p>
+          <p>
+            <a
+              rel="nofollow"
+              class="external free"
+              href="https://youtu.be/Eb-lnyj6uiA"
+              >https://youtu.be/Eb-lnyj6uiA</a
+            >
+          </p>
+          <p>
+            und es gibt auch noch unser Crowdfunding-Filmchen, welches auch
+            einen Überblick verschafft:
+          </p>
+          <p>
+            <a
+              rel="nofollow"
+              class="external free"
+              href="https://www.youtube.com/watch?v=AoZmWgFenAE"
+              >https://www.youtube.com/watch?v=AoZmWgFenAE</a
+            >
+          </p>
+        </div>
+        <div class="printfooter">
+          Retrieved from "<a
+            dir="ltr"
+            href="http://localhost/index.php?title=Static:FAQ&amp;oldid=2068"
+            >http://localhost/index.php?title=Static:FAQ&amp;oldid=2068</a
+          >"
+        </div>
+        <div
+          id="catlinks"
+          class="catlinks catlinks-allhidden"
+          data-mw="interface"
+        ></div>
+        <div class="visualClear"></div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>Navigation menu</h2>
+
+      <div id="mw-head">
+        <div
+          id="p-personal"
+          role="navigation"
+          class=""
+          aria-labelledby="p-personal-label"
+        >
+          <h3 id="p-personal-label">Personal tools</h3>
+          <ul>
+            <li id="pt-uls" class="active">
+              <a href="#" class="uls-trigger autonym">English</a>
+            </li>
+            <li id="pt-anonuserpage">Not logged in</li>
+            <li id="pt-anontalk">
+              <a
+                href="/wiki/Special:MyTalk"
+                title="Discussion about edits from this IP address [n]"
+                accesskey="n"
+                >Talk</a
+              >
+            </li>
+            <li id="pt-anoncontribs">
+              <a
+                href="/wiki/Special:MyContributions"
+                title="A list of edits made from this IP address [y]"
+                accesskey="y"
+                >Contributions</a
+              >
+            </li>
+            <li id="pt-createaccount">
+              <a
+                href="/index.php?title=Special:CreateAccount&amp;returnto=Static%3AFAQ"
+                title="You are encouraged to create an account and log in; however, it is not mandatory"
+                >Create account</a
+              >
+            </li>
+            <li id="pt-login">
+              <a
+                href="/index.php?title=Special:UserLogin&amp;returnto=Static%3AFAQ"
+                title="You are encouraged to log in; however, it is not mandatory [o]"
+                accesskey="o"
+                >Log in</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div
+            id="p-namespaces"
+            role="navigation"
+            class="vectorTabs"
+            aria-labelledby="p-namespaces-label"
+          >
+            <h3 id="p-namespaces-label">Namespaces</h3>
+            <ul>
+              <li id="ca-nstab-static" class="selected">
+                <span><a href="/wiki/Static:FAQ">Static</a></span>
+              </li>
+              <li id="ca-talk">
+                <span
+                  ><a
+                    href="/wiki/Static_talk:FAQ"
+                    title="Discussion about the content page [t]"
+                    accesskey="t"
+                    rel="discussion"
+                    >Discussion</a
+                  ></span
+                >
+              </li>
+            </ul>
+          </div>
+          <div
+            id="p-variants"
+            role="navigation"
+            class="vectorMenu emptyPortlet"
+            aria-labelledby="p-variants-label"
+          >
+            <h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+            <div class="menu">
+              <ul></ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div
+            id="p-views"
+            role="navigation"
+            class="vectorTabs"
+            aria-labelledby="p-views-label"
+          >
+            <h3 id="p-views-label">Views</h3>
+            <ul>
+              <li id="ca-view" class="selected">
+                <span><a href="/wiki/Static:FAQ">Read</a></span>
+              </li>
+              <li id="ca-viewsource">
+                <span
+                  ><a
+                    href="/index.php?title=Static:FAQ&amp;action=edit"
+                    title="This page is protected.
+You can view its source [e]"
+                    accesskey="e"
+                    >View source</a
+                  ></span
+                >
+              </li>
+              <li id="ca-history" class="collapsible">
+                <span
+                  ><a
+                    href="/index.php?title=Static:FAQ&amp;action=history"
+                    title="Past revisions of this page [h]"
+                    accesskey="h"
+                    >View history</a
+                  ></span
+                >
+              </li>
+            </ul>
+          </div>
+          <div
+            id="p-cactions"
+            role="navigation"
+            class="vectorMenu emptyPortlet"
+            aria-labelledby="p-cactions-label"
+          >
+            <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+            <div class="menu">
+              <ul></ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">Search</label>
+            </h3>
+
+            <form action="/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input
+                  type="search"
+                  name="search"
+                  placeholder="Search ZeTeCo"
+                  title="Search ZeTeCo [f]"
+                  accesskey="f"
+                  id="searchInput"
+                /><input
+                  type="hidden"
+                  value="Special:Search"
+                  name="title"
+                /><input
+                  type="submit"
+                  name="fulltext"
+                  value="Search"
+                  title="Search the pages for this text"
+                  id="mw-searchButton"
+                  class="searchButton mw-fallbackSearchButton"
+                /><input
+                  type="submit"
+                  name="go"
+                  value="Go"
+                  title="Go to a page with this exact name if it exists"
+                  id="searchButton"
+                  class="searchButton"
+                />
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a
+            class="mw-wiki-logo"
+            href="/wiki/Main_Page"
+            title="Visit the main page"
+          ></a>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-navigation"
+          aria-labelledby="p-navigation-label"
+        >
+          <h3 id="p-navigation-label">Navigation</h3>
+
+          <div class="body">
+            <ul></ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-ZeTeCo"
+          aria-labelledby="p-ZeTeCo-label"
+        >
+          <h3 id="p-ZeTeCo-label">ZeTeCo</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a
+                  href="/wiki/Main_Page"
+                  title="Visit the main page [z]"
+                  accesskey="z"
+                  >Main page</a
+                >
+              </li>
+              <li id="n-FAQ"><a href="/wiki/Static:FAQ">FAQ</a></li>
+              <li id="n-Tickets">
+                <a href="https://tickets.zeteco.ch/" rel="nofollow">Tickets</a>
+              </li>
+              <li id="n-Travel"><a href="/wiki/Static:Travel">Travel</a></li>
+              <li id="n-Impressum">
+                <a href="/wiki/Static:Impressum">Impressum</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Vor_dem_Camp"
+          aria-labelledby="p-Vor_dem_Camp-label"
+        >
+          <h3 id="p-Vor_dem_Camp-label">Vor dem Camp</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-Teams"><a href="/wiki/Team">Teams</a></li>
+              <li id="n-Camp-Projekte">
+                <a href="/wiki/CampProjekte">Camp Projekte</a>
+              </li>
+              <li id="n-Camp-Villages">
+                <a href="/wiki/CampVillages">Camp Villages</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Wiki"
+          aria-labelledby="p-Wiki-label"
+        >
+          <h3 id="p-Wiki-label">Wiki</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-recentchanges">
+                <a
+                  href="/wiki/Special:RecentChanges"
+                  title="A list of recent changes in the wiki [r]"
+                  accesskey="r"
+                  >Recent changes</a
+                >
+              </li>
+              <li id="n-randompage">
+                <a
+                  href="/wiki/Special:Random"
+                  title="Load a random page [x]"
+                  accesskey="x"
+                  >Random page</a
+                >
+              </li>
+              <li id="n-help">
+                <a
+                  href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents"
+                  title="The place to find out"
+                  >Help</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Wiki_Development"
+          aria-labelledby="p-Wiki_Development-label"
+        >
+          <h3 id="p-Wiki_Development-label">Wiki Development</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-Cargo-Data">
+                <a href="/wiki/Special:CargoTables">Cargo Data</a>
+              </li>
+              <li id="n-Templates">
+                <a href="/wiki/Special:Templates">Templates</a>
+              </li>
+              <li id="n-List-of-Projects">
+                <a href="/wiki/Project">List of Projects</a>
+              </li>
+              <li id="n-Create-Orga-Project">
+                <a href="/wiki/Form:OrgaProject">Create Orga Project</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-tb"
+          aria-labelledby="p-tb-label"
+        >
+          <h3 id="p-tb-label">Tools</h3>
+
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a
+                  href="/wiki/Special:WhatLinksHere/Static:FAQ"
+                  title="A list of all wiki pages that link here [j]"
+                  accesskey="j"
+                  >What links here</a
+                >
+              </li>
+              <li id="t-recentchangeslinked">
+                <a
+                  href="/wiki/Special:RecentChangesLinked/Static:FAQ"
+                  rel="nofollow"
+                  title="Recent changes in pages linked from this page [k]"
+                  accesskey="k"
+                  >Related changes</a
+                >
+              </li>
+              <li id="t-upload">
+                <a
+                  href="/wiki/Special:UploadWizard"
+                  title="Upload files [u]"
+                  accesskey="u"
+                  >Upload file</a
+                >
+              </li>
+              <li id="t-specialpages">
+                <a
+                  href="/wiki/Special:SpecialPages"
+                  title="A list of all special pages [q]"
+                  accesskey="q"
+                  >Special pages</a
+                >
+              </li>
+              <li id="t-print">
+                <a
+                  href="/index.php?title=Static:FAQ&amp;printable=yes"
+                  rel="alternate"
+                  title="Printable version of this page [p]"
+                  accesskey="p"
+                  >Printable version</a
+                >
+              </li>
+              <li id="t-permalink">
+                <a
+                  href="/index.php?title=Static:FAQ&amp;oldid=2068"
+                  title="Permanent link to this revision of the page"
+                  >Permanent link</a
+                >
+              </li>
+              <li id="t-info">
+                <a
+                  href="/index.php?title=Static:FAQ&amp;action=info"
+                  title="More information about this page"
+                  >Page information</a
+                >
+              </li>
+              <li id="t-cargopagevalueslink">
+                <a
+                  href="/index.php?title=Static:FAQ&amp;action=pagevalues"
+                  rel="cargo-pagevalues"
+                  >Page values</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+          This page was last modified on 20 July 2017, at 12:15.
+        </li>
+        <li id="footer-info-copyright">
+          Content is available under
+          <a
+            class="external"
+            rel="nofollow"
+            href="https://creativecommons.org/publicdomain/zero/1.0/"
+            >Creative Commons Zero (Public Domain)</a
+          >
+          unless otherwise noted.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="/wiki/ZeTeCo:Privacy_policy" title="ZeTeCo:Privacy policy"
+            >Privacy policy</a
+          >
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/ZeTeCo:About" title="ZeTeCo:About">About ZeTeCo</a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a
+            href="/wiki/ZeTeCo:General_disclaimer"
+            title="ZeTeCo:General disclaimer"
+            >Disclaimers</a
+          >
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://creativecommons.org/publicdomain/zero/1.0/"
+            ><img
+              src="/resources/assets/licenses/cc-0.png"
+              alt="Creative Commons Zero (Public Domain)"
+              width="88"
+              height="31"
+          /></a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/"
+            ><img
+              src="/resources/assets/poweredby_mediawiki_88x31.png"
+              alt="Powered by MediaWiki"
+              srcset="
+                /resources/assets/poweredby_mediawiki_132x47.png 1.5x,
+                /resources/assets/poweredby_mediawiki_176x62.png 2x
+              "
+              width="88"
+              height="31"
+          /></a>
+        </li>
+      </ul>
+      <div style="clear: both"></div>
+    </div>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.loader.load([
+          "mediawiki.toc",
+          "mediawiki.action.view.postEdit",
+          "site",
+          "mediawiki.user",
+          "mediawiki.hidpi",
+          "mediawiki.page.ready",
+          "mediawiki.searchSuggest",
+          "ext.Shariff",
+          "ext.uls.init",
+          "ext.uls.geoclient",
+          "ext.visualEditor.targetLoader",
+        ]);
+      });
+    </script>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.config.set({ wgBackendResponseTime: 0 });
+      });
+    </script>
+  </body>
+</html>

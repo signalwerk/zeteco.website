@@ -1,0 +1,22 @@
+{
+  "domains": [
+    "localhost"
+  ],
+  "reject": {},
+  "toLoad": {},
+  "toProcess": {},
+  "loaded": {
+    "http://localhost/wiki/": {
+      "status": "REDIRECT",
+      "mime": "text/html",
+      "responseUrl": "http://localhost/wiki/Main_Page",
+      "fsPath": "localhost/wiki/Main_Page.html"
+    },
+    "http://localhost/wiki/Main_Page": {
+      "status": "DOWNLOADED",
+      "mime": "text/html",
+      "responseUrl": "http://localhost/wiki/Main_Page",
+      "fsPath": "localhost/wiki/Main_Page.html"
+    }
+  }
+}

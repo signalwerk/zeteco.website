@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Location - ZeTeCo</title>
+    <script>
+      document.documentElement.className =
+        document.documentElement.className.replace(
+          /(^|\s)client-nojs(\s|$)/,
+          "$1client-js$2"
+        );
+    </script>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.config.set({
+          wgCanonicalNamespace: "",
+          wgCanonicalSpecialPageName: false,
+          wgNamespaceNumber: 0,
+          wgPageName: "Location",
+          wgTitle: "Location",
+          wgCurRevisionId: 2075,
+          wgRevisionId: 2075,
+          wgArticleId: 2,
+          wgIsArticle: true,
+          wgIsRedirect: false,
+          wgAction: "view",
+          wgUserName: null,
+          wgUserGroups: ["*"],
+          wgCategories: [],
+          wgBreakFrames: false,
+          wgPageContentLanguage: "en",
+          wgPageContentModel: "wikitext",
+          wgSeparatorTransformTable: ["", ""],
+          wgDigitTransformTable: ["", ""],
+          wgDefaultDateFormat: "dmy",
+          wgMonthNames: [
+            "",
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+          ],
+          wgMonthNamesShort: [
+            "",
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ],
+          wgRelevantPageName: "Location",
+          wgRelevantArticleId: 2,
+          wgRequestId: "",
+          wgIsProbablyEditable: true,
+          wgRestrictionEdit: [],
+          wgRestrictionMove: [],
+          wgWikiEditorEnabledModules: {
+            toolbar: false,
+            dialogs: false,
+            preview: false,
+            publish: false,
+          },
+          wgBetaFeaturesFeatures: [],
+          wgMediaViewerOnClick: true,
+          wgMediaViewerEnabledByDefault: true,
+          wgPageFormsAutocompleteValues: [],
+          wgPageFormsAutocompleteOnAllChars: false,
+          wgPageFormsFieldProperties: [],
+          wgPageFormsCargoFields: [],
+          wgPageFormsDependentFields: [],
+          wgPageFormsGridValues: [],
+          wgPageFormsGridParams: [],
+          wgPageFormsShowOnSelect: [],
+          wgPageFormsScriptPath: "/extensions/PageForms",
+          edgValues: null,
+          wgPageFormsEDSettings: null,
+          wgCargoMapClusteringMinimum: 80,
+          wgCargoMonthNames: [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+          ],
+          wgCargoMonthNamesShort: [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ],
+          wgCargoWeekDays: [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+          ],
+          wgCargoWeekDaysShort: [
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+          ],
+          wgULSAcceptLanguageList: [],
+          wgULSCurrentAutonym: "English",
+          wgVisualEditor: {
+            pageLanguageCode: "en",
+            pageLanguageDir: "ltr",
+            usePageImages: false,
+            usePageDescriptions: false,
+          },
+          wgCategoryTreePageCategoryOptions:
+            '{"mode":0,"hideprefix":20,"showcount":true,"namespaces":false}',
+          wgVisualEditorToolbarScrollOffset: 0,
+          wgEditSubmitButtonLabelPublish: false,
+        });
+        mw.loader.state({
+          "site.styles": "ready",
+          noscript: "ready",
+          "user.styles": "ready",
+          "user.cssprefs": "ready",
+          user: "ready",
+          "user.options": "loading",
+          "user.tokens": "loading",
+          "ext.uls.pt": "ready",
+          "ext.visualEditor.desktopArticleTarget.noscript": "ready",
+          "mediawiki.legacy.shared": "ready",
+          "mediawiki.legacy.commonPrint": "ready",
+          "mediawiki.sectionAnchor": "ready",
+          "mediawiki.skinning.interface": "ready",
+          "skins.vector.styles": "ready",
+        });
+        mw.loader.implement(
+          "user.options@0j3lz3q",
+          function ($, jQuery, require, module) {
+            mw.user.options.set({ variant: "en" });
+          }
+        );
+        mw.loader.implement(
+          "user.tokens@0d8wvfv",
+          function ($, jQuery, require, module) {
+            mw.user.tokens.set({
+              editToken: "+\\",
+              patrolToken: "+\\",
+              watchToken: "+\\",
+              csrfToken: "+\\",
+            }); /*@nomin*/
+          }
+        );
+        mw.loader.load([
+          "mediawiki.page.startup",
+          "mmv.head",
+          "ext.uls.interface",
+          "ext.visualEditor.desktopArticleTarget.init",
+          "skins.vector.js",
+        ]);
+      });
+    </script>
+    <link
+      rel="stylesheet"
+      href="/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"
+    />
+    <script
+      async=""
+      src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"
+    ></script>
+    <meta name="ResourceLoaderDynamicStyles" content="" />
+    <link
+      rel="stylesheet"
+      href="/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"
+    />
+    <meta name="generator" content="MediaWiki 1.28.0" />
+    <link
+      rel="alternate"
+      type="application/x-wiki"
+      title="Edit"
+      href="/index.php?title=Location&amp;action=edit"
+    />
+    <link
+      rel="edit"
+      title="Edit"
+      href="/index.php?title=Location&amp;action=edit"
+    />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link
+      rel="search"
+      type="application/opensearchdescription+xml"
+      href="/opensearch_desc.php"
+      title="ZeTeCo (en)"
+    />
+    <link
+      rel="EditURI"
+      type="application/rsd+xml"
+      href="http://localhost/api.php?action=rsd"
+    />
+    <link
+      rel="copyright"
+      href="https://creativecommons.org/publicdomain/zero/1.0/"
+    />
+    <link
+      rel="alternate"
+      type="application/atom+xml"
+      title="ZeTeCo Atom feed"
+      href="/index.php?title=Special:RecentChanges&amp;feed=atom"
+    />
+  </head>
+  <body
+    class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Location rootpage-Location skin-vector action-view"
+  >
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top"></a>
+
+      <div class="mw-indicators"></div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">Location</h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub">From ZeTeCo</div>
+        <div id="contentSub"></div>
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="#mw-head">navigation</a>,
+          <a href="#p-search">search</a>
+        </div>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <p>
+            Das Gelände <b>Griesbach</b> ist in etwa 1 km Luftlinie von der
+            Stadt Schaffhausen (Schweiz) entfernt.
+          </p>
+          <p>
+            <b>Lat / Lon:</b>
+            <a
+              rel="nofollow"
+              class="external text"
+              href="https://www.google.ch/maps/place/47%C2%B042'44.5%22N+8%C2%B036'43.4%22E/@47.7123796,8.6115105,160m/data=!3m1!1e3!4m12!1m6!4m5!1m0!1m3!2m2!1d8.6120556!2d47.7123611!3m4!1s0x0:0x0!8m2!3d47.7123611!4d8.6120556"
+              >47.712376, 8.612063</a
+            >
+          </p>
+          <div id="toc" class="toc">
+            <div id="toctitle"><h2>Contents</h2></div>
+            <ul>
+              <li class="toclevel-1 tocsection-1">
+                <a href="#Datum"
+                  ><span class="tocnumber">1</span>
+                  <span class="toctext">Datum</span></a
+                >
+              </li>
+              <li class="toclevel-1 tocsection-2">
+                <a href="#Anreise"
+                  ><span class="tocnumber">2</span>
+                  <span class="toctext">Anreise</span></a
+                >
+                <ul>
+                  <li class="toclevel-2 tocsection-3">
+                    <a href="#.C3.96ffentlicher_Verkehr"
+                      ><span class="tocnumber">2.1</span>
+                      <span class="toctext">Öffentlicher Verkehr</span></a
+                    >
+                  </li>
+                  <li class="toclevel-2 tocsection-4">
+                    <a href="#Mit_dem_Auto"
+                      ><span class="tocnumber">2.2</span>
+                      <span class="toctext">Mit dem Auto</span></a
+                    >
+                  </li>
+                  <li class="toclevel-2 tocsection-5">
+                    <a href="#Mit_dem_Shuttle"
+                      ><span class="tocnumber">2.3</span>
+                      <span class="toctext">Mit dem Shuttle</span></a
+                    >
+                  </li>
+                </ul>
+              </li>
+              <li class="toclevel-1 tocsection-6">
+                <a href="#Fotos_vom_Gel.C3.A4nde"
+                  ><span class="tocnumber">3</span>
+                  <span class="toctext">Fotos vom Gelände</span></a
+                >
+              </li>
+            </ul>
+          </div>
+
+          <h2>
+            <span class="mw-headline" id="Datum">Datum</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Location&amp;veaction=edit&amp;vesection=1"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Datum"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Location&amp;action=edit&amp;section=1"
+                title="Edit section: Datum"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h2>
+          <p>
+            Das Camp findet zwischen dem 21. bis am 24. Juli 2017 statt; vorher
+            und danach findet den Aufbau und der Abbau statt.
+          </p>
+          <p>Das Gelände ist von Mittwoch bis Mittwoch für uns reserviert.</p>
+          <h2>
+            <span class="mw-headline" id="Anreise">Anreise</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Location&amp;veaction=edit&amp;vesection=2"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Anreise"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Location&amp;action=edit&amp;section=2"
+                title="Edit section: Anreise"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h2>
+          <h3>
+            <span class="mw-headline" id=".C3.96ffentlicher_Verkehr"
+              >Öffentlicher Verkehr</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Location&amp;veaction=edit&amp;vesection=3"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Öffentlicher Verkehr"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Location&amp;action=edit&amp;section=3"
+                title="Edit section: Öffentlicher Verkehr"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <p>Vom Bahnhof Schaffhausen sind es 4 km / 1h Fussweg.</p>
+          <p>Mit dem Taxi sind es 10 min. Siehe auch unten: Shuttlebus</p>
+          <h3>
+            <span class="mw-headline" id="Mit_dem_Auto">Mit dem Auto</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Location&amp;veaction=edit&amp;vesection=4"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Mit dem Auto"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Location&amp;action=edit&amp;section=4"
+                title="Edit section: Mit dem Auto"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <p>Es ist möglich, direkt auf das ZeTeCo Gelände zu fahren.</p>
+          <p>Wir haben Parkmöglichkeiten für Autos und Wohnwagen.</p>
+          <p>
+            Die Strasse (für das Navigationsgerät) heisst
+            <b>Griesbach, 8200 Schaffhausen</b>.
+          </p>
+          <h3>
+            <span class="mw-headline" id="Mit_dem_Shuttle">Mit dem Shuttle</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Location&amp;veaction=edit&amp;vesection=5"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Mit dem Shuttle"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Location&amp;action=edit&amp;section=5"
+                title="Edit section: Mit dem Shuttle"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h3>
+          <p>
+            Wir werden auch Fahrten mit einem Shuttlebus organisieren, wir
+            bitten aber grundsätzlich um Voranmeldung
+            <s>über unser Ticket-System</s> bei @bluetonyum im
+            <a
+              rel="nofollow"
+              class="external text"
+              href="https://zeteco.slack.com/messages/general"
+              >Slack</a
+            >, damit wir die Nachfrage und damit die notwendigen Fahrer
+            abschätzen können.
+          </p>
+          <h2>
+            <span class="mw-headline" id="Fotos_vom_Gel.C3.A4nde"
+              >Fotos vom Gelände</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=Location&amp;veaction=edit&amp;vesection=6"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Fotos vom Gelände"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=Location&amp;action=edit&amp;section=6"
+                title="Edit section: Fotos vom Gelände"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h2>
+          <table
+            style="width: 100%; margin: 0px; border: 0px; background: #f2f2f2"
+            cellspacing="10"
+          >
+            <tbody>
+              <tr>
+                <td
+                  style="
+                    vertical-align: top;
+                    width: 20%;
+                    padding: 10px;
+                    border: 20px;
+                  "
+                >
+                  <p>
+                    <a href="/wiki/File:Zeteco_gelaende.png" class="image"
+                      ><img
+                        alt="Zeteco gelaende.png"
+                        src="/images/thumb/6/68/Zeteco_gelaende.png/379px-Zeteco_gelaende.png"
+                        width="379"
+                        height="250"
+                        srcset="
+                          /images/thumb/6/68/Zeteco_gelaende.png/568px-Zeteco_gelaende.png 1.5x,
+                          /images/thumb/6/68/Zeteco_gelaende.png/757px-Zeteco_gelaende.png 2x
+                        "
+                        data-file-width="3331"
+                        data-file-height="2201"
+                    /></a>
+                  </p>
+                  <p>
+                    <br />
+                    <a
+                      href="/wiki/File:Dirt_Road_in_Griesbach,_Schaffhausen,_CH.jpg"
+                      class="image"
+                      ><img
+                        alt="Dirt Road in Griesbach, Schaffhausen, CH.jpg"
+                        src="/images/thumb/8/8e/Dirt_Road_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/166px-Dirt_Road_in_Griesbach%2C_Schaffhausen%2C_CH.jpg"
+                        width="166"
+                        height="250"
+                        srcset="
+                          /images/thumb/8/8e/Dirt_Road_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/250px-Dirt_Road_in_Griesbach%2C_Schaffhausen%2C_CH.jpg 1.5x,
+                          /images/thumb/8/8e/Dirt_Road_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/333px-Dirt_Road_in_Griesbach%2C_Schaffhausen%2C_CH.jpg 2x
+                        "
+                        data-file-width="3648"
+                        data-file-height="5472"
+                    /></a>
+                    <a
+                      href="/wiki/File:Camp_4_in_Griesbach,_Schaffhausen,_CH.jpg"
+                      class="image"
+                      ><img
+                        alt="Camp 4 in Griesbach, Schaffhausen, CH.jpg"
+                        src="/images/thumb/c/c9/Camp_4_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/375px-Camp_4_in_Griesbach%2C_Schaffhausen%2C_CH.jpg"
+                        width="375"
+                        height="250"
+                        srcset="
+                          /images/thumb/c/c9/Camp_4_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/563px-Camp_4_in_Griesbach%2C_Schaffhausen%2C_CH.jpg 1.5x,
+                          /images/thumb/c/c9/Camp_4_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/750px-Camp_4_in_Griesbach%2C_Schaffhausen%2C_CH.jpg 2x
+                        "
+                        data-file-width="5472"
+                        data-file-height="3648"
+                    /></a>
+                    <a
+                      href="/wiki/File:Camp_5_in_Griesbach,_Schaffhausen,_CH.jpg"
+                      class="image"
+                      ><img
+                        alt="Camp 5 in Griesbach, Schaffhausen, CH.jpg"
+                        src="/images/thumb/e/e2/Camp_5_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/375px-Camp_5_in_Griesbach%2C_Schaffhausen%2C_CH.jpg"
+                        width="375"
+                        height="250"
+                        srcset="
+                          /images/thumb/e/e2/Camp_5_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/563px-Camp_5_in_Griesbach%2C_Schaffhausen%2C_CH.jpg 1.5x,
+                          /images/thumb/e/e2/Camp_5_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/750px-Camp_5_in_Griesbach%2C_Schaffhausen%2C_CH.jpg 2x
+                        "
+                        data-file-width="5472"
+                        data-file-height="3648"
+                    /></a>
+                  </p>
+                  <p>
+                    <a
+                      href="/wiki/File:Camp_2_in_Griesbach,_Schaffhausen,_CH.jpg"
+                      class="image"
+                      ><img
+                        alt="Camp 2 in Griesbach, Schaffhausen, CH.jpg"
+                        src="/images/thumb/c/c6/Camp_2_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/375px-Camp_2_in_Griesbach%2C_Schaffhausen%2C_CH.jpg"
+                        width="375"
+                        height="250"
+                        srcset="
+                          /images/thumb/c/c6/Camp_2_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/563px-Camp_2_in_Griesbach%2C_Schaffhausen%2C_CH.jpg 1.5x,
+                          /images/thumb/c/c6/Camp_2_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/750px-Camp_2_in_Griesbach%2C_Schaffhausen%2C_CH.jpg 2x
+                        "
+                        data-file-width="5472"
+                        data-file-height="3648"
+                    /></a>
+                    <a
+                      href="/wiki/File:Camp_3_in_Griesbach,_Schaffhausen,_CH.jpg"
+                      class="image"
+                      ><img
+                        alt="Camp 3 in Griesbach, Schaffhausen, CH.jpg"
+                        src="/images/thumb/d/d1/Camp_3_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/375px-Camp_3_in_Griesbach%2C_Schaffhausen%2C_CH.jpg"
+                        width="375"
+                        height="250"
+                        srcset="
+                          /images/thumb/d/d1/Camp_3_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/563px-Camp_3_in_Griesbach%2C_Schaffhausen%2C_CH.jpg 1.5x,
+                          /images/thumb/d/d1/Camp_3_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/750px-Camp_3_in_Griesbach%2C_Schaffhausen%2C_CH.jpg 2x
+                        "
+                        data-file-width="5472"
+                        data-file-height="3648"
+                    /></a>
+                    <a
+                      href="/wiki/File:Camp_1_in_Griesbach,_Schaffhausen,_CH.jpg"
+                      class="image"
+                      ><img
+                        alt="Camp 1 in Griesbach, Schaffhausen, CH.jpg"
+                        src="/images/thumb/5/50/Camp_1_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/166px-Camp_1_in_Griesbach%2C_Schaffhausen%2C_CH.jpg"
+                        width="166"
+                        height="250"
+                        srcset="
+                          /images/thumb/5/50/Camp_1_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/250px-Camp_1_in_Griesbach%2C_Schaffhausen%2C_CH.jpg 1.5x,
+                          /images/thumb/5/50/Camp_1_in_Griesbach%2C_Schaffhausen%2C_CH.jpg/333px-Camp_1_in_Griesbach%2C_Schaffhausen%2C_CH.jpg 2x
+                        "
+                        data-file-width="3648"
+                        data-file-height="5472"
+                    /></a>
+                  </p>
+                  <p>
+                    Diese und weitere Fotos vom ZeTeCo Scouting sind
+                    <a
+                      rel="nofollow"
+                      class="external text"
+                      href="https://www.flickr.com/photos/blackwingtours/sets/72157678822375231"
+                      >auch auf Flickr</a
+                    >.
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="printfooter">
+          Retrieved from "<a
+            dir="ltr"
+            href="http://localhost/index.php?title=Location&amp;oldid=2075"
+            >http://localhost/index.php?title=Location&amp;oldid=2075</a
+          >"
+        </div>
+        <div
+          id="catlinks"
+          class="catlinks catlinks-allhidden"
+          data-mw="interface"
+        ></div>
+        <div class="visualClear"></div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>Navigation menu</h2>
+
+      <div id="mw-head">
+        <div
+          id="p-personal"
+          role="navigation"
+          class=""
+          aria-labelledby="p-personal-label"
+        >
+          <h3 id="p-personal-label">Personal tools</h3>
+          <ul>
+            <li id="pt-uls" class="active">
+              <a href="#" class="uls-trigger autonym">English</a>
+            </li>
+            <li id="pt-anonuserpage">Not logged in</li>
+            <li id="pt-anontalk">
+              <a
+                href="/wiki/Special:MyTalk"
+                title="Discussion about edits from this IP address [n]"
+                accesskey="n"
+                >Talk</a
+              >
+            </li>
+            <li id="pt-anoncontribs">
+              <a
+                href="/wiki/Special:MyContributions"
+                title="A list of edits made from this IP address [y]"
+                accesskey="y"
+                >Contributions</a
+              >
+            </li>
+            <li id="pt-createaccount">
+              <a
+                href="/index.php?title=Special:CreateAccount&amp;returnto=Location"
+                title="You are encouraged to create an account and log in; however, it is not mandatory"
+                >Create account</a
+              >
+            </li>
+            <li id="pt-login">
+              <a
+                href="/index.php?title=Special:UserLogin&amp;returnto=Location"
+                title="You are encouraged to log in; however, it is not mandatory [o]"
+                accesskey="o"
+                >Log in</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div
+            id="p-namespaces"
+            role="navigation"
+            class="vectorTabs"
+            aria-labelledby="p-namespaces-label"
+          >
+            <h3 id="p-namespaces-label">Namespaces</h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <span
+                  ><a
+                    href="/wiki/Location"
+                    title="View the content page [c]"
+                    accesskey="c"
+                    >Page</a
+                  ></span
+                >
+              </li>
+              <li id="ca-talk">
+                <span
+                  ><a
+                    href="/wiki/Talk:Location"
+                    title="Discussion about the content page [t]"
+                    accesskey="t"
+                    rel="discussion"
+                    >Discussion</a
+                  ></span
+                >
+              </li>
+            </ul>
+          </div>
+          <div
+            id="p-variants"
+            role="navigation"
+            class="vectorMenu emptyPortlet"
+            aria-labelledby="p-variants-label"
+          >
+            <h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+            <div class="menu">
+              <ul></ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div
+            id="p-views"
+            role="navigation"
+            class="vectorTabs"
+            aria-labelledby="p-views-label"
+          >
+            <h3 id="p-views-label">Views</h3>
+            <ul>
+              <li id="ca-view" class="selected">
+                <span><a href="/wiki/Location">Read</a></span>
+              </li>
+              <li id="ca-ve-edit">
+                <span
+                  ><a
+                    href="/index.php?title=Location&amp;veaction=edit"
+                    title="Edit this page [v]"
+                    accesskey="v"
+                    >Edit</a
+                  ></span
+                >
+              </li>
+              <li id="ca-edit" class="collapsible">
+                <span
+                  ><a
+                    href="/index.php?title=Location&amp;action=edit"
+                    title="Edit this page [e]"
+                    accesskey="e"
+                    >Edit source</a
+                  ></span
+                >
+              </li>
+              <li id="ca-history" class="collapsible">
+                <span
+                  ><a
+                    href="/index.php?title=Location&amp;action=history"
+                    title="Past revisions of this page [h]"
+                    accesskey="h"
+                    >View history</a
+                  ></span
+                >
+              </li>
+            </ul>
+          </div>
+          <div
+            id="p-cactions"
+            role="navigation"
+            class="vectorMenu emptyPortlet"
+            aria-labelledby="p-cactions-label"
+          >
+            <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+            <div class="menu">
+              <ul></ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">Search</label>
+            </h3>
+
+            <form action="/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input
+                  type="search"
+                  name="search"
+                  placeholder="Search ZeTeCo"
+                  title="Search ZeTeCo [f]"
+                  accesskey="f"
+                  id="searchInput"
+                /><input
+                  type="hidden"
+                  value="Special:Search"
+                  name="title"
+                /><input
+                  type="submit"
+                  name="fulltext"
+                  value="Search"
+                  title="Search the pages for this text"
+                  id="mw-searchButton"
+                  class="searchButton mw-fallbackSearchButton"
+                /><input
+                  type="submit"
+                  name="go"
+                  value="Go"
+                  title="Go to a page with this exact name if it exists"
+                  id="searchButton"
+                  class="searchButton"
+                />
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a
+            class="mw-wiki-logo"
+            href="/wiki/Main_Page"
+            title="Visit the main page"
+          ></a>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-navigation"
+          aria-labelledby="p-navigation-label"
+        >
+          <h3 id="p-navigation-label">Navigation</h3>
+
+          <div class="body">
+            <ul></ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-ZeTeCo"
+          aria-labelledby="p-ZeTeCo-label"
+        >
+          <h3 id="p-ZeTeCo-label">ZeTeCo</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a
+                  href="/wiki/Main_Page"
+                  title="Visit the main page [z]"
+                  accesskey="z"
+                  >Main page</a
+                >
+              </li>
+              <li id="n-FAQ"><a href="/wiki/Static:FAQ">FAQ</a></li>
+              <li id="n-Tickets">
+                <a href="https://tickets.zeteco.ch/" rel="nofollow">Tickets</a>
+              </li>
+              <li id="n-Travel"><a href="/wiki/Static:Travel">Travel</a></li>
+              <li id="n-Impressum">
+                <a href="/wiki/Static:Impressum">Impressum</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Vor_dem_Camp"
+          aria-labelledby="p-Vor_dem_Camp-label"
+        >
+          <h3 id="p-Vor_dem_Camp-label">Vor dem Camp</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-Teams"><a href="/wiki/Team">Teams</a></li>
+              <li id="n-Camp-Projekte">
+                <a href="/wiki/CampProjekte">Camp Projekte</a>
+              </li>
+              <li id="n-Camp-Villages">
+                <a href="/wiki/CampVillages">Camp Villages</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Wiki"
+          aria-labelledby="p-Wiki-label"
+        >
+          <h3 id="p-Wiki-label">Wiki</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-recentchanges">
+                <a
+                  href="/wiki/Special:RecentChanges"
+                  title="A list of recent changes in the wiki [r]"
+                  accesskey="r"
+                  >Recent changes</a
+                >
+              </li>
+              <li id="n-randompage">
+                <a
+                  href="/wiki/Special:Random"
+                  title="Load a random page [x]"
+                  accesskey="x"
+                  >Random page</a
+                >
+              </li>
+              <li id="n-help">
+                <a
+                  href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents"
+                  title="The place to find out"
+                  >Help</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Wiki_Development"
+          aria-labelledby="p-Wiki_Development-label"
+        >
+          <h3 id="p-Wiki_Development-label">Wiki Development</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-Cargo-Data">
+                <a href="/wiki/Special:CargoTables">Cargo Data</a>
+              </li>
+              <li id="n-Templates">
+                <a href="/wiki/Special:Templates">Templates</a>
+              </li>
+              <li id="n-List-of-Projects">
+                <a href="/wiki/Project">List of Projects</a>
+              </li>
+              <li id="n-Create-Orga-Project">
+                <a href="/wiki/Form:OrgaProject">Create Orga Project</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-tb"
+          aria-labelledby="p-tb-label"
+        >
+          <h3 id="p-tb-label">Tools</h3>
+
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a
+                  href="/wiki/Special:WhatLinksHere/Location"
+                  title="A list of all wiki pages that link here [j]"
+                  accesskey="j"
+                  >What links here</a
+                >
+              </li>
+              <li id="t-recentchangeslinked">
+                <a
+                  href="/wiki/Special:RecentChangesLinked/Location"
+                  rel="nofollow"
+                  title="Recent changes in pages linked from this page [k]"
+                  accesskey="k"
+                  >Related changes</a
+                >
+              </li>
+              <li id="t-upload">
+                <a
+                  href="/wiki/Special:UploadWizard"
+                  title="Upload files [u]"
+                  accesskey="u"
+                  >Upload file</a
+                >
+              </li>
+              <li id="t-specialpages">
+                <a
+                  href="/wiki/Special:SpecialPages"
+                  title="A list of all special pages [q]"
+                  accesskey="q"
+                  >Special pages</a
+                >
+              </li>
+              <li id="t-print">
+                <a
+                  href="/index.php?title=Location&amp;printable=yes"
+                  rel="alternate"
+                  title="Printable version of this page [p]"
+                  accesskey="p"
+                  >Printable version</a
+                >
+              </li>
+              <li id="t-permalink">
+                <a
+                  href="/index.php?title=Location&amp;oldid=2075"
+                  title="Permanent link to this revision of the page"
+                  >Permanent link</a
+                >
+              </li>
+              <li id="t-info">
+                <a
+                  href="/index.php?title=Location&amp;action=info"
+                  title="More information about this page"
+                  >Page information</a
+                >
+              </li>
+              <li id="t-cargopagevalueslink">
+                <a
+                  href="/index.php?title=Location&amp;action=pagevalues"
+                  rel="cargo-pagevalues"
+                  >Page values</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+          This page was last modified on 21 July 2017, at 21:21.
+        </li>
+        <li id="footer-info-copyright">
+          Content is available under
+          <a
+            class="external"
+            rel="nofollow"
+            href="https://creativecommons.org/publicdomain/zero/1.0/"
+            >Creative Commons Zero (Public Domain)</a
+          >
+          unless otherwise noted.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="/wiki/ZeTeCo:Privacy_policy" title="ZeTeCo:Privacy policy"
+            >Privacy policy</a
+          >
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/ZeTeCo:About" title="ZeTeCo:About">About ZeTeCo</a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a
+            href="/wiki/ZeTeCo:General_disclaimer"
+            title="ZeTeCo:General disclaimer"
+            >Disclaimers</a
+          >
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://creativecommons.org/publicdomain/zero/1.0/"
+            ><img
+              src="/resources/assets/licenses/cc-0.png"
+              alt="Creative Commons Zero (Public Domain)"
+              width="88"
+              height="31"
+          /></a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/"
+            ><img
+              src="/resources/assets/poweredby_mediawiki_88x31.png"
+              alt="Powered by MediaWiki"
+              srcset="
+                /resources/assets/poweredby_mediawiki_132x47.png 1.5x,
+                /resources/assets/poweredby_mediawiki_176x62.png 2x
+              "
+              width="88"
+              height="31"
+          /></a>
+        </li>
+      </ul>
+      <div style="clear: both"></div>
+    </div>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.loader.load([
+          "mediawiki.toc",
+          "mediawiki.action.view.postEdit",
+          "site",
+          "mediawiki.user",
+          "mediawiki.hidpi",
+          "mediawiki.page.ready",
+          "mediawiki.searchSuggest",
+          "ext.Shariff",
+          "mmv.bootstrap.autostart",
+          "ext.uls.init",
+          "ext.uls.geoclient",
+          "ext.visualEditor.targetLoader",
+        ]);
+      });
+    </script>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.config.set({ wgBackendResponseTime: 0 });
+      });
+    </script>
+  </body>
+</html>

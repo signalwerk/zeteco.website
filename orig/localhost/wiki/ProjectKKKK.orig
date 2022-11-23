@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>ProjectKKKK - ZeTeCo</title>
+    <script>
+      document.documentElement.className =
+        document.documentElement.className.replace(
+          /(^|\s)client-nojs(\s|$)/,
+          "$1client-js$2"
+        );
+    </script>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.config.set({
+          wgCanonicalNamespace: "",
+          wgCanonicalSpecialPageName: false,
+          wgNamespaceNumber: 0,
+          wgPageName: "ProjectKKKK",
+          wgTitle: "ProjectKKKK",
+          wgCurRevisionId: 617,
+          wgRevisionId: 617,
+          wgArticleId: 134,
+          wgIsArticle: true,
+          wgIsRedirect: false,
+          wgAction: "view",
+          wgUserName: null,
+          wgUserGroups: ["*"],
+          wgCategories: [],
+          wgBreakFrames: false,
+          wgPageContentLanguage: "en",
+          wgPageContentModel: "wikitext",
+          wgSeparatorTransformTable: ["", ""],
+          wgDigitTransformTable: ["", ""],
+          wgDefaultDateFormat: "dmy",
+          wgMonthNames: [
+            "",
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+          ],
+          wgMonthNamesShort: [
+            "",
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ],
+          wgRelevantPageName: "ProjectKKKK",
+          wgRelevantArticleId: 134,
+          wgRequestId: "",
+          wgIsProbablyEditable: true,
+          wgRestrictionEdit: [],
+          wgRestrictionMove: [],
+          wgWikiEditorEnabledModules: {
+            toolbar: false,
+            dialogs: false,
+            preview: false,
+            publish: false,
+          },
+          wgBetaFeaturesFeatures: [],
+          wgMediaViewerOnClick: true,
+          wgMediaViewerEnabledByDefault: true,
+          wgPageFormsAutocompleteValues: [],
+          wgPageFormsAutocompleteOnAllChars: false,
+          wgPageFormsFieldProperties: [],
+          wgPageFormsCargoFields: [],
+          wgPageFormsDependentFields: [],
+          wgPageFormsGridValues: [],
+          wgPageFormsGridParams: [],
+          wgPageFormsShowOnSelect: [],
+          wgPageFormsScriptPath: "/extensions/PageForms",
+          edgValues: null,
+          wgPageFormsEDSettings: null,
+          wgCargoMapClusteringMinimum: 80,
+          wgCargoMonthNames: [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+          ],
+          wgCargoMonthNamesShort: [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ],
+          wgCargoWeekDays: [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+          ],
+          wgCargoWeekDaysShort: [
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+          ],
+          wgULSAcceptLanguageList: [],
+          wgULSCurrentAutonym: "English",
+          wgVisualEditor: {
+            pageLanguageCode: "en",
+            pageLanguageDir: "ltr",
+            usePageImages: false,
+            usePageDescriptions: false,
+          },
+          wgCategoryTreePageCategoryOptions:
+            '{"mode":0,"hideprefix":20,"showcount":true,"namespaces":false}',
+          wgVisualEditorToolbarScrollOffset: 0,
+          wgEditSubmitButtonLabelPublish: false,
+        });
+        mw.loader.state({
+          "site.styles": "ready",
+          noscript: "ready",
+          "user.styles": "ready",
+          "user.cssprefs": "ready",
+          user: "ready",
+          "user.options": "loading",
+          "user.tokens": "loading",
+          "ext.uls.pt": "ready",
+          "ext.visualEditor.desktopArticleTarget.noscript": "ready",
+          "mediawiki.legacy.shared": "ready",
+          "mediawiki.legacy.commonPrint": "ready",
+          "mediawiki.sectionAnchor": "ready",
+          "mediawiki.skinning.interface": "ready",
+          "skins.vector.styles": "ready",
+        });
+        mw.loader.implement(
+          "user.options@0j3lz3q",
+          function ($, jQuery, require, module) {
+            mw.user.options.set({ variant: "en" });
+          }
+        );
+        mw.loader.implement(
+          "user.tokens@0d8wvfv",
+          function ($, jQuery, require, module) {
+            mw.user.tokens.set({
+              editToken: "+\\",
+              patrolToken: "+\\",
+              watchToken: "+\\",
+              csrfToken: "+\\",
+            }); /*@nomin*/
+          }
+        );
+        mw.loader.load([
+          "mediawiki.page.startup",
+          "ext.uls.interface",
+          "ext.visualEditor.desktopArticleTarget.init",
+          "skins.vector.js",
+        ]);
+      });
+    </script>
+    <link
+      rel="stylesheet"
+      href="/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"
+    />
+    <script
+      async=""
+      src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"
+    ></script>
+    <meta name="ResourceLoaderDynamicStyles" content="" />
+    <link
+      rel="stylesheet"
+      href="/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"
+    />
+    <meta name="generator" content="MediaWiki 1.28.0" />
+    <link
+      rel="alternate"
+      type="application/x-wiki"
+      title="Edit"
+      href="/index.php?title=ProjectKKKK&amp;action=edit"
+    />
+    <link
+      rel="edit"
+      title="Edit"
+      href="/index.php?title=ProjectKKKK&amp;action=edit"
+    />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link
+      rel="search"
+      type="application/opensearchdescription+xml"
+      href="/opensearch_desc.php"
+      title="ZeTeCo (en)"
+    />
+    <link
+      rel="EditURI"
+      type="application/rsd+xml"
+      href="http://localhost/api.php?action=rsd"
+    />
+    <link
+      rel="copyright"
+      href="https://creativecommons.org/publicdomain/zero/1.0/"
+    />
+    <link
+      rel="alternate"
+      type="application/atom+xml"
+      title="ZeTeCo Atom feed"
+      href="/index.php?title=Special:RecentChanges&amp;feed=atom"
+    />
+  </head>
+  <body
+    class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-ProjectKKKK rootpage-ProjectKKKK skin-vector action-view"
+  >
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top"></a>
+
+      <div class="mw-indicators"></div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">ProjectKKKK</h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub">From ZeTeCo</div>
+        <div id="contentSub"></div>
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="#mw-head">navigation</a>,
+          <a href="#p-search">search</a>
+        </div>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <p><br /></p>
+          <table
+            style="
+              width: 30em;
+              font-size: 90%;
+              border: 1px solid #aaaaaa;
+              background-color: #f9f9f9;
+              color: black;
+              margin-bottom: 0.5em;
+              margin-left: 1em;
+              padding: 0.2em;
+              float: right;
+              clear: right;
+              text-align: left;
+            "
+          >
+            <tbody>
+              <tr>
+                <th
+                  style="text-align: center; background-color: #ccccff"
+                  colspan="2"
+                >
+                  <span style="font-size: larger">ProjectKKKK</span>
+                </th>
+              </tr>
+              <tr>
+                <th>Beschreibung</th>
+                <td>Lighting Talks</td>
+              </tr>
+              <tr>
+                <th>Priorität</th>
+                <td>Keine definiert (99, Niedrig)</td>
+              </tr>
+              <tr>
+                <th>Delegiert an Team</th>
+                <td>
+                  <a href="/wiki/Team:Promo" title="Team:Promo">Team:Promo</a>
+                </td>
+              </tr>
+
+              <tr>
+                <th
+                  style="text-align: center; background-color: #ccccff"
+                  colspan="2"
+                >
+                  <span style="font-size: larger"
+                    >Zu informieren über den Projektverlauf</span
+                  >
+                </th>
+              </tr>
+              <tr>
+                <td colspan="2">Niemand</td>
+              </tr>
+              <tr>
+                <th
+                  style="text-align: center; background-color: #ccccff"
+                  colspan="2"
+                >
+                  <span style="font-size: larger">Berater des Projekts</span>
+                </th>
+              </tr>
+              <tr>
+                <td colspan="2">Keine Berater</td>
+              </tr>
+            </tbody>
+          </table>
+          <p><br /></p>
+          <h2>
+            <span class="mw-headline" id="Lighting_Talks">Lighting Talks</span
+            ><span class="mw-editsection"
+              ><span class="mw-editsection-bracket">[</span
+              ><a
+                href="/index.php?title=ProjectKKKK&amp;veaction=edit&amp;vesection=1"
+                class="mw-editsection-visualeditor"
+                title="Edit section: Lighting Talks"
+                >edit</a
+              ><span class="mw-editsection-divider"> | </span
+              ><a
+                href="/index.php?title=ProjectKKKK&amp;action=edit&amp;section=1"
+                title="Edit section: Lighting Talks"
+                >edit source</a
+              ><span class="mw-editsection-bracket">]</span></span
+            >
+          </h2>
+          <p>
+            Lighting Talks in Vorstellung erwähnen Auf Twitter mit hashtag
+            #LightningTalk
+          </p>
+        </div>
+        <div class="printfooter">
+          Retrieved from "<a
+            dir="ltr"
+            href="http://localhost/index.php?title=ProjectKKKK&amp;oldid=617"
+            >http://localhost/index.php?title=ProjectKKKK&amp;oldid=617</a
+          >"
+        </div>
+        <div
+          id="catlinks"
+          class="catlinks catlinks-allhidden"
+          data-mw="interface"
+        ></div>
+        <div class="visualClear"></div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>Navigation menu</h2>
+
+      <div id="mw-head">
+        <div
+          id="p-personal"
+          role="navigation"
+          class=""
+          aria-labelledby="p-personal-label"
+        >
+          <h3 id="p-personal-label">Personal tools</h3>
+          <ul>
+            <li id="pt-uls" class="active">
+              <a href="#" class="uls-trigger autonym">English</a>
+            </li>
+            <li id="pt-anonuserpage">Not logged in</li>
+            <li id="pt-anontalk">
+              <a
+                href="/wiki/Special:MyTalk"
+                title="Discussion about edits from this IP address [n]"
+                accesskey="n"
+                >Talk</a
+              >
+            </li>
+            <li id="pt-anoncontribs">
+              <a
+                href="/wiki/Special:MyContributions"
+                title="A list of edits made from this IP address [y]"
+                accesskey="y"
+                >Contributions</a
+              >
+            </li>
+            <li id="pt-createaccount">
+              <a
+                href="/index.php?title=Special:CreateAccount&amp;returnto=ProjectKKKK"
+                title="You are encouraged to create an account and log in; however, it is not mandatory"
+                >Create account</a
+              >
+            </li>
+            <li id="pt-login">
+              <a
+                href="/index.php?title=Special:UserLogin&amp;returnto=ProjectKKKK"
+                title="You are encouraged to log in; however, it is not mandatory [o]"
+                accesskey="o"
+                >Log in</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div
+            id="p-namespaces"
+            role="navigation"
+            class="vectorTabs"
+            aria-labelledby="p-namespaces-label"
+          >
+            <h3 id="p-namespaces-label">Namespaces</h3>
+            <ul>
+              <li id="ca-nstab-main" class="selected">
+                <span
+                  ><a
+                    href="/wiki/ProjectKKKK"
+                    title="View the content page [c]"
+                    accesskey="c"
+                    >Page</a
+                  ></span
+                >
+              </li>
+              <li id="ca-talk" class="new">
+                <span
+                  ><a
+                    href="/index.php?title=Talk:ProjectKKKK&amp;action=edit&amp;redlink=1"
+                    title="Discussion about the content page [t]"
+                    accesskey="t"
+                    rel="discussion"
+                    >Discussion</a
+                  ></span
+                >
+              </li>
+            </ul>
+          </div>
+          <div
+            id="p-variants"
+            role="navigation"
+            class="vectorMenu emptyPortlet"
+            aria-labelledby="p-variants-label"
+          >
+            <h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+            <div class="menu">
+              <ul></ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div
+            id="p-views"
+            role="navigation"
+            class="vectorTabs"
+            aria-labelledby="p-views-label"
+          >
+            <h3 id="p-views-label">Views</h3>
+            <ul>
+              <li id="ca-view" class="selected">
+                <span><a href="/wiki/ProjectKKKK">Read</a></span>
+              </li>
+              <li id="ca-ve-edit">
+                <span
+                  ><a
+                    href="/index.php?title=ProjectKKKK&amp;veaction=edit"
+                    title="Edit this page [v]"
+                    accesskey="v"
+                    >Edit</a
+                  ></span
+                >
+              </li>
+              <li id="ca-edit" class="collapsible">
+                <span
+                  ><a
+                    href="/index.php?title=ProjectKKKK&amp;action=edit"
+                    title="Edit this page [e]"
+                    accesskey="e"
+                    >Edit source</a
+                  ></span
+                >
+              </li>
+              <li id="ca-history" class="collapsible">
+                <span
+                  ><a
+                    href="/index.php?title=ProjectKKKK&amp;action=history"
+                    title="Past revisions of this page [h]"
+                    accesskey="h"
+                    >View history</a
+                  ></span
+                >
+              </li>
+            </ul>
+          </div>
+          <div
+            id="p-cactions"
+            role="navigation"
+            class="vectorMenu emptyPortlet"
+            aria-labelledby="p-cactions-label"
+          >
+            <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+            <div class="menu">
+              <ul></ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">Search</label>
+            </h3>
+
+            <form action="/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input
+                  type="search"
+                  name="search"
+                  placeholder="Search ZeTeCo"
+                  title="Search ZeTeCo [f]"
+                  accesskey="f"
+                  id="searchInput"
+                /><input
+                  type="hidden"
+                  value="Special:Search"
+                  name="title"
+                /><input
+                  type="submit"
+                  name="fulltext"
+                  value="Search"
+                  title="Search the pages for this text"
+                  id="mw-searchButton"
+                  class="searchButton mw-fallbackSearchButton"
+                /><input
+                  type="submit"
+                  name="go"
+                  value="Go"
+                  title="Go to a page with this exact name if it exists"
+                  id="searchButton"
+                  class="searchButton"
+                />
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a
+            class="mw-wiki-logo"
+            href="/wiki/Main_Page"
+            title="Visit the main page"
+          ></a>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-navigation"
+          aria-labelledby="p-navigation-label"
+        >
+          <h3 id="p-navigation-label">Navigation</h3>
+
+          <div class="body">
+            <ul></ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-ZeTeCo"
+          aria-labelledby="p-ZeTeCo-label"
+        >
+          <h3 id="p-ZeTeCo-label">ZeTeCo</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a
+                  href="/wiki/Main_Page"
+                  title="Visit the main page [z]"
+                  accesskey="z"
+                  >Main page</a
+                >
+              </li>
+              <li id="n-FAQ"><a href="/wiki/Static:FAQ">FAQ</a></li>
+              <li id="n-Tickets">
+                <a href="https://tickets.zeteco.ch/" rel="nofollow">Tickets</a>
+              </li>
+              <li id="n-Travel"><a href="/wiki/Static:Travel">Travel</a></li>
+              <li id="n-Impressum">
+                <a href="/wiki/Static:Impressum">Impressum</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Vor_dem_Camp"
+          aria-labelledby="p-Vor_dem_Camp-label"
+        >
+          <h3 id="p-Vor_dem_Camp-label">Vor dem Camp</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-Teams"><a href="/wiki/Team">Teams</a></li>
+              <li id="n-Camp-Projekte">
+                <a href="/wiki/CampProjekte">Camp Projekte</a>
+              </li>
+              <li id="n-Camp-Villages">
+                <a href="/wiki/CampVillages">Camp Villages</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Wiki"
+          aria-labelledby="p-Wiki-label"
+        >
+          <h3 id="p-Wiki-label">Wiki</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-recentchanges">
+                <a
+                  href="/wiki/Special:RecentChanges"
+                  title="A list of recent changes in the wiki [r]"
+                  accesskey="r"
+                  >Recent changes</a
+                >
+              </li>
+              <li id="n-randompage">
+                <a
+                  href="/wiki/Special:Random"
+                  title="Load a random page [x]"
+                  accesskey="x"
+                  >Random page</a
+                >
+              </li>
+              <li id="n-help">
+                <a
+                  href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents"
+                  title="The place to find out"
+                  >Help</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Wiki_Development"
+          aria-labelledby="p-Wiki_Development-label"
+        >
+          <h3 id="p-Wiki_Development-label">Wiki Development</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-Cargo-Data">
+                <a href="/wiki/Special:CargoTables">Cargo Data</a>
+              </li>
+              <li id="n-Templates">
+                <a href="/wiki/Special:Templates">Templates</a>
+              </li>
+              <li id="n-List-of-Projects">
+                <a href="/wiki/Project">List of Projects</a>
+              </li>
+              <li id="n-Create-Orga-Project">
+                <a href="/wiki/Form:OrgaProject">Create Orga Project</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-tb"
+          aria-labelledby="p-tb-label"
+        >
+          <h3 id="p-tb-label">Tools</h3>
+
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a
+                  href="/wiki/Special:WhatLinksHere/ProjectKKKK"
+                  title="A list of all wiki pages that link here [j]"
+                  accesskey="j"
+                  >What links here</a
+                >
+              </li>
+              <li id="t-recentchangeslinked">
+                <a
+                  href="/wiki/Special:RecentChangesLinked/ProjectKKKK"
+                  rel="nofollow"
+                  title="Recent changes in pages linked from this page [k]"
+                  accesskey="k"
+                  >Related changes</a
+                >
+              </li>
+              <li id="t-upload">
+                <a
+                  href="/wiki/Special:UploadWizard"
+                  title="Upload files [u]"
+                  accesskey="u"
+                  >Upload file</a
+                >
+              </li>
+              <li id="t-specialpages">
+                <a
+                  href="/wiki/Special:SpecialPages"
+                  title="A list of all special pages [q]"
+                  accesskey="q"
+                  >Special pages</a
+                >
+              </li>
+              <li id="t-print">
+                <a
+                  href="/index.php?title=ProjectKKKK&amp;printable=yes"
+                  rel="alternate"
+                  title="Printable version of this page [p]"
+                  accesskey="p"
+                  >Printable version</a
+                >
+              </li>
+              <li id="t-permalink">
+                <a
+                  href="/index.php?title=ProjectKKKK&amp;oldid=617"
+                  title="Permanent link to this revision of the page"
+                  >Permanent link</a
+                >
+              </li>
+              <li id="t-info">
+                <a
+                  href="/index.php?title=ProjectKKKK&amp;action=info"
+                  title="More information about this page"
+                  >Page information</a
+                >
+              </li>
+              <li id="t-cargopagevalueslink">
+                <a
+                  href="/index.php?title=ProjectKKKK&amp;action=pagevalues"
+                  rel="cargo-pagevalues"
+                  >Page values</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+          This page was last modified on 3 March 2017, at 05:25.
+        </li>
+        <li id="footer-info-copyright">
+          Content is available under
+          <a
+            class="external"
+            rel="nofollow"
+            href="https://creativecommons.org/publicdomain/zero/1.0/"
+            >Creative Commons Zero (Public Domain)</a
+          >
+          unless otherwise noted.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="/wiki/ZeTeCo:Privacy_policy" title="ZeTeCo:Privacy policy"
+            >Privacy policy</a
+          >
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/ZeTeCo:About" title="ZeTeCo:About">About ZeTeCo</a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a
+            href="/wiki/ZeTeCo:General_disclaimer"
+            title="ZeTeCo:General disclaimer"
+            >Disclaimers</a
+          >
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://creativecommons.org/publicdomain/zero/1.0/"
+            ><img
+              src="/resources/assets/licenses/cc-0.png"
+              alt="Creative Commons Zero (Public Domain)"
+              width="88"
+              height="31"
+          /></a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/"
+            ><img
+              src="/resources/assets/poweredby_mediawiki_88x31.png"
+              alt="Powered by MediaWiki"
+              srcset="
+                /resources/assets/poweredby_mediawiki_132x47.png 1.5x,
+                /resources/assets/poweredby_mediawiki_176x62.png 2x
+              "
+              width="88"
+              height="31"
+          /></a>
+        </li>
+      </ul>
+      <div style="clear: both"></div>
+    </div>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.loader.load([
+          "mediawiki.action.view.postEdit",
+          "site",
+          "mediawiki.user",
+          "mediawiki.hidpi",
+          "mediawiki.page.ready",
+          "mediawiki.searchSuggest",
+          "ext.Shariff",
+          "ext.uls.init",
+          "ext.uls.geoclient",
+          "ext.visualEditor.targetLoader",
+        ]);
+      });
+    </script>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.config.set({ wgBackendResponseTime: 0 });
+      });
+    </script>
+  </body>
+</html>

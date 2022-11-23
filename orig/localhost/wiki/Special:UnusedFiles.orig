@@ -1,0 +1,1027 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Unused files - ZeTeCo</title>
+    <script>
+      document.documentElement.className =
+        document.documentElement.className.replace(
+          /(^|\s)client-nojs(\s|$)/,
+          "$1client-js$2"
+        );
+    </script>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.config.set({
+          wgCanonicalNamespace: "Special",
+          wgCanonicalSpecialPageName: "Unusedimages",
+          wgNamespaceNumber: -1,
+          wgPageName: "Special:UnusedFiles",
+          wgTitle: "UnusedFiles",
+          wgCurRevisionId: 0,
+          wgRevisionId: 0,
+          wgArticleId: 0,
+          wgIsArticle: false,
+          wgIsRedirect: false,
+          wgAction: "view",
+          wgUserName: null,
+          wgUserGroups: ["*"],
+          wgCategories: [],
+          wgBreakFrames: false,
+          wgPageContentLanguage: "en",
+          wgPageContentModel: "wikitext",
+          wgSeparatorTransformTable: ["", ""],
+          wgDigitTransformTable: ["", ""],
+          wgDefaultDateFormat: "dmy",
+          wgMonthNames: [
+            "",
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+          ],
+          wgMonthNamesShort: [
+            "",
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ],
+          wgRelevantPageName: "Special:UnusedFiles",
+          wgRelevantArticleId: 0,
+          wgRequestId: "",
+          wgIsProbablyEditable: false,
+          wgWikiEditorEnabledModules: {
+            toolbar: false,
+            dialogs: false,
+            preview: false,
+            publish: false,
+          },
+          wgBetaFeaturesFeatures: [],
+          wgMediaViewerOnClick: true,
+          wgMediaViewerEnabledByDefault: true,
+          wgPageFormsAutocompleteValues: [],
+          wgPageFormsAutocompleteOnAllChars: false,
+          wgPageFormsFieldProperties: [],
+          wgPageFormsCargoFields: [],
+          wgPageFormsDependentFields: [],
+          wgPageFormsGridValues: [],
+          wgPageFormsGridParams: [],
+          wgPageFormsShowOnSelect: [],
+          wgPageFormsScriptPath: "/extensions/PageForms",
+          edgValues: null,
+          wgPageFormsEDSettings: null,
+          wgCargoMapClusteringMinimum: 80,
+          wgCargoMonthNames: [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+          ],
+          wgCargoMonthNamesShort: [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ],
+          wgCargoWeekDays: [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+          ],
+          wgCargoWeekDaysShort: [
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+          ],
+          wgULSAcceptLanguageList: [],
+          wgULSCurrentAutonym: "English",
+          wgVisualEditor: {
+            pageLanguageCode: "en",
+            pageLanguageDir: "ltr",
+            usePageImages: false,
+            usePageDescriptions: false,
+          },
+          wgCategoryTreePageCategoryOptions:
+            '{"mode":0,"hideprefix":20,"showcount":true,"namespaces":false}',
+          wgVisualEditorToolbarScrollOffset: 0,
+          wgEditSubmitButtonLabelPublish: false,
+        });
+        mw.loader.state({
+          "site.styles": "ready",
+          noscript: "ready",
+          "user.styles": "ready",
+          "user.cssprefs": "ready",
+          user: "ready",
+          "user.options": "loading",
+          "user.tokens": "loading",
+          "mediawiki.page.gallery.styles": "ready",
+          "ext.uls.pt": "ready",
+          "ext.visualEditor.desktopArticleTarget.noscript": "ready",
+          "mediawiki.legacy.shared": "ready",
+          "mediawiki.legacy.commonPrint": "ready",
+          "mediawiki.sectionAnchor": "ready",
+          "mediawiki.skinning.interface": "ready",
+          "skins.vector.styles": "ready",
+        });
+        mw.loader.implement(
+          "user.options@0j3lz3q",
+          function ($, jQuery, require, module) {
+            mw.user.options.set({ variant: "en" });
+          }
+        );
+        mw.loader.implement(
+          "user.tokens@0d8wvfv",
+          function ($, jQuery, require, module) {
+            mw.user.tokens.set({
+              editToken: "+\\",
+              patrolToken: "+\\",
+              watchToken: "+\\",
+              csrfToken: "+\\",
+            }); /*@nomin*/
+          }
+        );
+        mw.loader.load([
+          "mediawiki.page.startup",
+          "mmv.head",
+          "ext.uls.interface",
+          "ext.visualEditor.desktopArticleTarget.init",
+          "skins.vector.js",
+        ]);
+      });
+    </script>
+    <link
+      rel="stylesheet"
+      href="/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"
+    />
+    <script
+      async=""
+      src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"
+    ></script>
+    <meta name="ResourceLoaderDynamicStyles" content="" />
+    <link
+      rel="stylesheet"
+      href="/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"
+    />
+    <meta name="generator" content="MediaWiki 1.28.0" />
+    <meta name="robots" content="noindex,nofollow" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link
+      rel="search"
+      type="application/opensearchdescription+xml"
+      href="/opensearch_desc.php"
+      title="ZeTeCo (en)"
+    />
+    <link
+      rel="EditURI"
+      type="application/rsd+xml"
+      href="http://localhost/api.php?action=rsd"
+    />
+    <link
+      rel="copyright"
+      href="https://creativecommons.org/publicdomain/zero/1.0/"
+    />
+    <link
+      rel="alternate"
+      type="application/atom+xml"
+      title="ZeTeCo Atom feed"
+      href="/index.php?title=Special:RecentChanges&amp;feed=atom"
+    />
+  </head>
+  <body
+    class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Unusedimages page-Special_UnusedFiles rootpage-Special_UnusedFiles skin-vector action-view"
+  >
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top"></a>
+
+      <div class="mw-indicators"></div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">Unused files</h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="contentSub"></div>
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="#mw-head">navigation</a>,
+          <a href="#p-search">search</a>
+        </div>
+        <div id="mw-content-text">
+          <div class="mw-spcontent">
+            <p>
+              The following files exist but are not embedded in any page. Please
+              note that other web sites may link to a file with a direct URL,
+              and so may still be listed here despite being in active use.
+            </p>
+            <p>
+              Showing below up to <strong>10</strong> results in range #<strong
+                >1</strong
+              >
+              to #<strong>10</strong>.
+            </p>
+            <p>
+              View (previous 50 | next 50) (<a
+                href="/index.php?title=Special:UnusedFiles&amp;limit=20&amp;offset=0"
+                title="Show 20 results per page"
+                class="mw-numlink"
+                >20</a
+              >
+              |
+              <a
+                href="/index.php?title=Special:UnusedFiles&amp;limit=50&amp;offset=0"
+                title="Show 50 results per page"
+                class="mw-numlink"
+                >50</a
+              >
+              |
+              <a
+                href="/index.php?title=Special:UnusedFiles&amp;limit=100&amp;offset=0"
+                title="Show 100 results per page"
+                class="mw-numlink"
+                >100</a
+              >
+              |
+              <a
+                href="/index.php?title=Special:UnusedFiles&amp;limit=250&amp;offset=0"
+                title="Show 250 results per page"
+                class="mw-numlink"
+                >250</a
+              >
+              |
+              <a
+                href="/index.php?title=Special:UnusedFiles&amp;limit=500&amp;offset=0"
+                title="Show 500 results per page"
+                class="mw-numlink"
+                >500</a
+              >)
+            </p>
+            <ul class="gallery mw-gallery-traditional">
+              <li class="gallerybox" style="width: 155px">
+                <div style="width: 155px">
+                  <div class="thumb" style="width: 150px">
+                    <div style="margin: 21.5px auto">
+                      <a href="/wiki/File:Badge.png" class="image"
+                        ><img
+                          alt="Badge.png"
+                          src="/images/thumb/8/8b/Badge.png/120px-Badge.png"
+                          width="120"
+                          height="107"
+                          srcset="
+                            /images/thumb/8/8b/Badge.png/180px-Badge.png 1.5x,
+                            /images/thumb/8/8b/Badge.png/240px-Badge.png 2x
+                          "
+                          data-file-width="676"
+                          data-file-height="601"
+                      /></a>
+                    </div>
+                  </div>
+                  <div class="gallerytext">
+                    <a
+                      href="/wiki/File:Badge.png"
+                      class="galleryfilename galleryfilename-truncate"
+                      title="File:Badge.png"
+                      >Badge.png</a
+                    >
+                    54 KB<br />
+                  </div>
+                </div>
+              </li>
+              <li class="gallerybox" style="width: 155px">
+                <div style="width: 155px">
+                  <div class="thumb" style="width: 150px">
+                    <div style="margin: 15px auto">
+                      <a
+                        href="/wiki/File:Zeteco_flurplanung_0421.pdf"
+                        class="image"
+                        ><img
+                          alt="Zeteco flurplanung 0421.pdf"
+                          src="/resources/assets/file-type-icons/fileicon-pdf.png"
+                          width="120"
+                          height="120"
+                          data-file-width="0"
+                          data-file-height="0"
+                      /></a>
+                    </div>
+                  </div>
+                  <div class="gallerytext">
+                    <a
+                      href="/wiki/File:Zeteco_flurplanung_0421.pdf"
+                      class="galleryfilename galleryfilename-truncate"
+                      title="File:Zeteco flurplanung 0421.pdf"
+                      >Zeteco flurplanung 0421.pdf</a
+                    >
+                    684 KB<br />
+                  </div>
+                </div>
+              </li>
+              <li class="gallerybox" style="width: 155px">
+                <div style="width: 155px">
+                  <div class="thumb" style="width: 150px">
+                    <div style="margin: 16px auto">
+                      <a href="/wiki/File:921949702_v1_3.jpg" class="image"
+                        ><img
+                          alt="921949702 v1 3.jpg"
+                          src="/images/thumb/8/86/921949702_v1_3.jpg/120px-921949702_v1_3.jpg"
+                          width="120"
+                          height="118"
+                          srcset="
+                            /images/thumb/8/86/921949702_v1_3.jpg/180px-921949702_v1_3.jpg 1.5x,
+                            /images/thumb/8/86/921949702_v1_3.jpg/240px-921949702_v1_3.jpg 2x
+                          "
+                          data-file-width="600"
+                          data-file-height="590"
+                      /></a>
+                    </div>
+                  </div>
+                  <div class="gallerytext">
+                    <a
+                      href="/wiki/File:921949702_v1_3.jpg"
+                      class="galleryfilename galleryfilename-truncate"
+                      title="File:921949702 v1 3.jpg"
+                      >921949702 v1 3.jpg</a
+                    >
+                    32 KB<br />
+                  </div>
+                </div>
+              </li>
+              <li class="gallerybox" style="width: 155px">
+                <div style="width: 155px">
+                  <div class="thumb" style="width: 150px">
+                    <div style="margin: 15px auto">
+                      <a href="/wiki/File:921949702_v1_4.jpg" class="image"
+                        ><img
+                          alt="921949702 v1 4.jpg"
+                          src="/images/thumb/8/87/921949702_v1_4.jpg/120px-921949702_v1_4.jpg"
+                          width="120"
+                          height="120"
+                          srcset="
+                            /images/thumb/8/87/921949702_v1_4.jpg/180px-921949702_v1_4.jpg 1.5x,
+                            /images/thumb/8/87/921949702_v1_4.jpg/240px-921949702_v1_4.jpg 2x
+                          "
+                          data-file-width="265"
+                          data-file-height="265"
+                      /></a>
+                    </div>
+                  </div>
+                  <div class="gallerytext">
+                    <a
+                      href="/wiki/File:921949702_v1_4.jpg"
+                      class="galleryfilename galleryfilename-truncate"
+                      title="File:921949702 v1 4.jpg"
+                      >921949702 v1 4.jpg</a
+                    >
+                    6 KB<br />
+                  </div>
+                </div>
+              </li>
+              <li class="gallerybox" style="width: 155px">
+                <div style="width: 155px">
+                  <div class="thumb" style="width: 150px">
+                    <div style="margin: 30px auto">
+                      <a href="/wiki/File:921949702_v1_5.jpg" class="image"
+                        ><img
+                          alt="921949702 v1 5.jpg"
+                          src="/images/thumb/9/9a/921949702_v1_5.jpg/120px-921949702_v1_5.jpg"
+                          width="120"
+                          height="90"
+                          srcset="
+                            /images/thumb/9/9a/921949702_v1_5.jpg/180px-921949702_v1_5.jpg 1.5x,
+                            /images/thumb/9/9a/921949702_v1_5.jpg/240px-921949702_v1_5.jpg 2x
+                          "
+                          data-file-width="523"
+                          data-file-height="392"
+                      /></a>
+                    </div>
+                  </div>
+                  <div class="gallerytext">
+                    <a
+                      href="/wiki/File:921949702_v1_5.jpg"
+                      class="galleryfilename galleryfilename-truncate"
+                      title="File:921949702 v1 5.jpg"
+                      >921949702 v1 5.jpg</a
+                    >
+                    17 KB<br />
+                  </div>
+                </div>
+              </li>
+              <li class="gallerybox" style="width: 155px">
+                <div style="width: 155px">
+                  <div class="thumb" style="width: 150px">
+                    <div style="margin: 35px auto">
+                      <a href="/wiki/File:921949702_v1_2.jpg" class="image"
+                        ><img
+                          alt="921949702 v1 2.jpg"
+                          src="/images/thumb/b/bb/921949702_v1_2.jpg/120px-921949702_v1_2.jpg"
+                          width="120"
+                          height="80"
+                          srcset="
+                            /images/thumb/b/bb/921949702_v1_2.jpg/180px-921949702_v1_2.jpg 1.5x,
+                            /images/thumb/b/bb/921949702_v1_2.jpg/240px-921949702_v1_2.jpg 2x
+                          "
+                          data-file-width="487"
+                          data-file-height="324"
+                      /></a>
+                    </div>
+                  </div>
+                  <div class="gallerytext">
+                    <a
+                      href="/wiki/File:921949702_v1_2.jpg"
+                      class="galleryfilename galleryfilename-truncate"
+                      title="File:921949702 v1 2.jpg"
+                      >921949702 v1 2.jpg</a
+                    >
+                    29 KB<br />
+                  </div>
+                </div>
+              </li>
+              <li class="gallerybox" style="width: 155px">
+                <div style="width: 155px">
+                  <div class="thumb" style="width: 150px">
+                    <div style="margin: 15px auto">
+                      <a href="/wiki/File:921949702_v1_6.jpg" class="image"
+                        ><img
+                          alt="921949702 v1 6.jpg"
+                          src="/images/thumb/1/17/921949702_v1_6.jpg/120px-921949702_v1_6.jpg"
+                          width="120"
+                          height="120"
+                          srcset="
+                            /images/thumb/1/17/921949702_v1_6.jpg/180px-921949702_v1_6.jpg 1.5x,
+                            /images/1/17/921949702_v1_6.jpg                                2x
+                          "
+                          data-file-width="225"
+                          data-file-height="225"
+                      /></a>
+                    </div>
+                  </div>
+                  <div class="gallerytext">
+                    <a
+                      href="/wiki/File:921949702_v1_6.jpg"
+                      class="galleryfilename galleryfilename-truncate"
+                      title="File:921949702 v1 6.jpg"
+                      >921949702 v1 6.jpg</a
+                    >
+                    10 KB<br />
+                  </div>
+                </div>
+              </li>
+              <li class="gallerybox" style="width: 155px">
+                <div style="width: 155px">
+                  <div class="thumb" style="width: 150px">
+                    <div style="margin: 15px auto">
+                      <a
+                        href="/wiki/File:Button_Fix_for_Badge_Flashing_Problem.jpg"
+                        class="image"
+                        ><img
+                          alt="Button Fix for Badge Flashing Problem.jpg"
+                          src="/images/thumb/0/06/Button_Fix_for_Badge_Flashing_Problem.jpg/99px-Button_Fix_for_Badge_Flashing_Problem.jpg"
+                          width="99"
+                          height="120"
+                          srcset="
+                            /images/thumb/0/06/Button_Fix_for_Badge_Flashing_Problem.jpg/148px-Button_Fix_for_Badge_Flashing_Problem.jpg 1.5x,
+                            /images/thumb/0/06/Button_Fix_for_Badge_Flashing_Problem.jpg/197px-Button_Fix_for_Badge_Flashing_Problem.jpg 2x
+                          "
+                          data-file-width="536"
+                          data-file-height="652"
+                      /></a>
+                    </div>
+                  </div>
+                  <div class="gallerytext">
+                    <a
+                      href="/wiki/File:Button_Fix_for_Badge_Flashing_Problem.jpg"
+                      class="galleryfilename galleryfilename-truncate"
+                      title="File:Button Fix for Badge Flashing Problem.jpg"
+                      >Button Fix for Badge Flashing Problem.jpg</a
+                    >
+                    126 KB<br />
+                  </div>
+                </div>
+              </li>
+              <li class="gallerybox" style="width: 155px">
+                <div style="width: 155px">
+                  <div class="thumb" style="width: 150px">
+                    <div style="margin: 15.5px auto">
+                      <a href="/wiki/File:Badge-up-front.jpg" class="image"
+                        ><img
+                          alt="Badge-up-front.jpg"
+                          src="/images/thumb/8/85/Badge-up-front.jpg/120px-Badge-up-front.jpg"
+                          width="120"
+                          height="119"
+                          srcset="
+                            /images/thumb/8/85/Badge-up-front.jpg/180px-Badge-up-front.jpg 1.5x,
+                            /images/thumb/8/85/Badge-up-front.jpg/240px-Badge-up-front.jpg 2x
+                          "
+                          data-file-width="2663"
+                          data-file-height="2649"
+                      /></a>
+                    </div>
+                  </div>
+                  <div class="gallerytext">
+                    <a
+                      href="/wiki/File:Badge-up-front.jpg"
+                      class="galleryfilename galleryfilename-truncate"
+                      title="File:Badge-up-front.jpg"
+                      >Badge-up-front.jpg</a
+                    >
+                    2.88 MB<br />
+                  </div>
+                </div>
+              </li>
+              <li class="gallerybox" style="width: 155px">
+                <div style="width: 155px">
+                  <div class="thumb" style="width: 150px">
+                    <div style="margin: 15px auto">
+                      <a
+                        href="/wiki/File:ZeTeCo_Abrechnungsformular_v1.pdf"
+                        class="image"
+                        ><img
+                          alt="ZeTeCo Abrechnungsformular v1.pdf"
+                          src="/resources/assets/file-type-icons/fileicon-pdf.png"
+                          width="120"
+                          height="120"
+                          data-file-width="0"
+                          data-file-height="0"
+                      /></a>
+                    </div>
+                  </div>
+                  <div class="gallerytext">
+                    <a
+                      href="/wiki/File:ZeTeCo_Abrechnungsformular_v1.pdf"
+                      class="galleryfilename galleryfilename-truncate"
+                      title="File:ZeTeCo Abrechnungsformular v1.pdf"
+                      >ZeTeCo Abrechnungsformular v1.pdf</a
+                    >
+                    55 KB<br />
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <p>
+              View (previous 50 | next 50) (<a
+                href="/index.php?title=Special:UnusedFiles&amp;limit=20&amp;offset=0"
+                title="Show 20 results per page"
+                class="mw-numlink"
+                >20</a
+              >
+              |
+              <a
+                href="/index.php?title=Special:UnusedFiles&amp;limit=50&amp;offset=0"
+                title="Show 50 results per page"
+                class="mw-numlink"
+                >50</a
+              >
+              |
+              <a
+                href="/index.php?title=Special:UnusedFiles&amp;limit=100&amp;offset=0"
+                title="Show 100 results per page"
+                class="mw-numlink"
+                >100</a
+              >
+              |
+              <a
+                href="/index.php?title=Special:UnusedFiles&amp;limit=250&amp;offset=0"
+                title="Show 250 results per page"
+                class="mw-numlink"
+                >250</a
+              >
+              |
+              <a
+                href="/index.php?title=Special:UnusedFiles&amp;limit=500&amp;offset=0"
+                title="Show 500 results per page"
+                class="mw-numlink"
+                >500</a
+              >)
+            </p>
+          </div>
+        </div>
+        <div class="printfooter">
+          Retrieved from "<a
+            dir="ltr"
+            href="http://localhost/wiki/Special:UnusedFiles"
+            >http://localhost/wiki/Special:UnusedFiles</a
+          >"
+        </div>
+        <div
+          id="catlinks"
+          class="catlinks catlinks-allhidden"
+          data-mw="interface"
+        ></div>
+        <div class="visualClear"></div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>Navigation menu</h2>
+
+      <div id="mw-head">
+        <div
+          id="p-personal"
+          role="navigation"
+          class=""
+          aria-labelledby="p-personal-label"
+        >
+          <h3 id="p-personal-label">Personal tools</h3>
+          <ul>
+            <li id="pt-uls" class="active">
+              <a href="#" class="uls-trigger autonym">English</a>
+            </li>
+            <li id="pt-anonuserpage">Not logged in</li>
+            <li id="pt-anontalk">
+              <a
+                href="/wiki/Special:MyTalk"
+                title="Discussion about edits from this IP address [n]"
+                accesskey="n"
+                >Talk</a
+              >
+            </li>
+            <li id="pt-anoncontribs">
+              <a
+                href="/wiki/Special:MyContributions"
+                title="A list of edits made from this IP address [y]"
+                accesskey="y"
+                >Contributions</a
+              >
+            </li>
+            <li id="pt-createaccount">
+              <a
+                href="/index.php?title=Special:CreateAccount&amp;returnto=Special%3AUnusedFiles"
+                title="You are encouraged to create an account and log in; however, it is not mandatory"
+                >Create account</a
+              >
+            </li>
+            <li id="pt-login">
+              <a
+                href="/index.php?title=Special:UserLogin&amp;returnto=Special%3AUnusedFiles"
+                title="You are encouraged to log in; however, it is not mandatory [o]"
+                accesskey="o"
+                >Log in</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div
+            id="p-namespaces"
+            role="navigation"
+            class="vectorTabs"
+            aria-labelledby="p-namespaces-label"
+          >
+            <h3 id="p-namespaces-label">Namespaces</h3>
+            <ul>
+              <li id="ca-nstab-special" class="selected">
+                <span
+                  ><a
+                    href="/wiki/Special:UnusedFiles"
+                    title="This is a special page, and it cannot be edited"
+                    >Special page</a
+                  ></span
+                >
+              </li>
+            </ul>
+          </div>
+          <div
+            id="p-variants"
+            role="navigation"
+            class="vectorMenu emptyPortlet"
+            aria-labelledby="p-variants-label"
+          >
+            <h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+            <div class="menu">
+              <ul></ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div
+            id="p-views"
+            role="navigation"
+            class="vectorTabs emptyPortlet"
+            aria-labelledby="p-views-label"
+          >
+            <h3 id="p-views-label">Views</h3>
+            <ul></ul>
+          </div>
+          <div
+            id="p-cactions"
+            role="navigation"
+            class="vectorMenu emptyPortlet"
+            aria-labelledby="p-cactions-label"
+          >
+            <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+            <div class="menu">
+              <ul></ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">Search</label>
+            </h3>
+
+            <form action="/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input
+                  type="search"
+                  name="search"
+                  placeholder="Search ZeTeCo"
+                  title="Search ZeTeCo [f]"
+                  accesskey="f"
+                  id="searchInput"
+                /><input
+                  type="hidden"
+                  value="Special:Search"
+                  name="title"
+                /><input
+                  type="submit"
+                  name="fulltext"
+                  value="Search"
+                  title="Search the pages for this text"
+                  id="mw-searchButton"
+                  class="searchButton mw-fallbackSearchButton"
+                /><input
+                  type="submit"
+                  name="go"
+                  value="Go"
+                  title="Go to a page with this exact name if it exists"
+                  id="searchButton"
+                  class="searchButton"
+                />
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a
+            class="mw-wiki-logo"
+            href="/wiki/Main_Page"
+            title="Visit the main page"
+          ></a>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-navigation"
+          aria-labelledby="p-navigation-label"
+        >
+          <h3 id="p-navigation-label">Navigation</h3>
+
+          <div class="body">
+            <ul></ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-ZeTeCo"
+          aria-labelledby="p-ZeTeCo-label"
+        >
+          <h3 id="p-ZeTeCo-label">ZeTeCo</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a
+                  href="/wiki/Main_Page"
+                  title="Visit the main page [z]"
+                  accesskey="z"
+                  >Main page</a
+                >
+              </li>
+              <li id="n-FAQ"><a href="/wiki/Static:FAQ">FAQ</a></li>
+              <li id="n-Tickets">
+                <a href="https://tickets.zeteco.ch/" rel="nofollow">Tickets</a>
+              </li>
+              <li id="n-Travel"><a href="/wiki/Static:Travel">Travel</a></li>
+              <li id="n-Impressum">
+                <a href="/wiki/Static:Impressum">Impressum</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Vor_dem_Camp"
+          aria-labelledby="p-Vor_dem_Camp-label"
+        >
+          <h3 id="p-Vor_dem_Camp-label">Vor dem Camp</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-Teams"><a href="/wiki/Team">Teams</a></li>
+              <li id="n-Camp-Projekte">
+                <a href="/wiki/CampProjekte">Camp Projekte</a>
+              </li>
+              <li id="n-Camp-Villages">
+                <a href="/wiki/CampVillages">Camp Villages</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Wiki"
+          aria-labelledby="p-Wiki-label"
+        >
+          <h3 id="p-Wiki-label">Wiki</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-recentchanges">
+                <a
+                  href="/wiki/Special:RecentChanges"
+                  title="A list of recent changes in the wiki [r]"
+                  accesskey="r"
+                  >Recent changes</a
+                >
+              </li>
+              <li id="n-randompage">
+                <a
+                  href="/wiki/Special:Random"
+                  title="Load a random page [x]"
+                  accesskey="x"
+                  >Random page</a
+                >
+              </li>
+              <li id="n-help">
+                <a
+                  href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents"
+                  title="The place to find out"
+                  >Help</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Wiki_Development"
+          aria-labelledby="p-Wiki_Development-label"
+        >
+          <h3 id="p-Wiki_Development-label">Wiki Development</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-Cargo-Data">
+                <a href="/wiki/Special:CargoTables">Cargo Data</a>
+              </li>
+              <li id="n-Templates">
+                <a href="/wiki/Special:Templates">Templates</a>
+              </li>
+              <li id="n-List-of-Projects">
+                <a href="/wiki/Project">List of Projects</a>
+              </li>
+              <li id="n-Create-Orga-Project">
+                <a href="/wiki/Form:OrgaProject">Create Orga Project</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-tb"
+          aria-labelledby="p-tb-label"
+        >
+          <h3 id="p-tb-label">Tools</h3>
+
+          <div class="body">
+            <ul>
+              <li id="t-upload">
+                <a
+                  href="/wiki/Special:UploadWizard"
+                  title="Upload files [u]"
+                  accesskey="u"
+                  >Upload file</a
+                >
+              </li>
+              <li id="t-specialpages">
+                <a
+                  href="/wiki/Special:SpecialPages"
+                  title="A list of all special pages [q]"
+                  accesskey="q"
+                  >Special pages</a
+                >
+              </li>
+              <li id="t-print">
+                <a
+                  href="/index.php?title=Special:UnusedFiles&amp;printable=yes"
+                  rel="alternate"
+                  title="Printable version of this page [p]"
+                  accesskey="p"
+                  >Printable version</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="/wiki/ZeTeCo:Privacy_policy" title="ZeTeCo:Privacy policy"
+            >Privacy policy</a
+          >
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/ZeTeCo:About" title="ZeTeCo:About">About ZeTeCo</a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a
+            href="/wiki/ZeTeCo:General_disclaimer"
+            title="ZeTeCo:General disclaimer"
+            >Disclaimers</a
+          >
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://creativecommons.org/publicdomain/zero/1.0/"
+            ><img
+              src="/resources/assets/licenses/cc-0.png"
+              alt="Creative Commons Zero (Public Domain)"
+              width="88"
+              height="31"
+          /></a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/"
+            ><img
+              src="/resources/assets/poweredby_mediawiki_88x31.png"
+              alt="Powered by MediaWiki"
+              srcset="
+                /resources/assets/poweredby_mediawiki_132x47.png 1.5x,
+                /resources/assets/poweredby_mediawiki_176x62.png 2x
+              "
+              width="88"
+              height="31"
+          /></a>
+        </li>
+      </ul>
+      <div style="clear: both"></div>
+    </div>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.loader.load([
+          "site",
+          "mediawiki.user",
+          "mediawiki.hidpi",
+          "mediawiki.page.ready",
+          "mediawiki.searchSuggest",
+          "ext.Shariff",
+          "mmv.bootstrap.autostart",
+          "ext.uls.init",
+          "ext.uls.geoclient",
+          "ext.visualEditor.targetLoader",
+        ]);
+      });
+    </script>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.config.set({ wgBackendResponseTime: 0 });
+      });
+    </script>
+  </body>
+</html>

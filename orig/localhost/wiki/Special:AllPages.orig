@@ -1,0 +1,1203 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>All pages - ZeTeCo</title>
+    <script>
+      document.documentElement.className =
+        document.documentElement.className.replace(
+          /(^|\s)client-nojs(\s|$)/,
+          "$1client-js$2"
+        );
+    </script>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.config.set({
+          wgCanonicalNamespace: "Special",
+          wgCanonicalSpecialPageName: "Allpages",
+          wgNamespaceNumber: -1,
+          wgPageName: "Special:AllPages",
+          wgTitle: "AllPages",
+          wgCurRevisionId: 0,
+          wgRevisionId: 0,
+          wgArticleId: 0,
+          wgIsArticle: false,
+          wgIsRedirect: false,
+          wgAction: "view",
+          wgUserName: null,
+          wgUserGroups: ["*"],
+          wgCategories: [],
+          wgBreakFrames: false,
+          wgPageContentLanguage: "en",
+          wgPageContentModel: "wikitext",
+          wgSeparatorTransformTable: ["", ""],
+          wgDigitTransformTable: ["", ""],
+          wgDefaultDateFormat: "dmy",
+          wgMonthNames: [
+            "",
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+          ],
+          wgMonthNamesShort: [
+            "",
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ],
+          wgRelevantPageName: "Special:AllPages",
+          wgRelevantArticleId: 0,
+          wgRequestId: "",
+          wgIsProbablyEditable: false,
+          wgWikiEditorEnabledModules: {
+            toolbar: false,
+            dialogs: false,
+            preview: false,
+            publish: false,
+          },
+          wgBetaFeaturesFeatures: [],
+          wgMediaViewerOnClick: true,
+          wgMediaViewerEnabledByDefault: true,
+          wgPageFormsAutocompleteValues: [],
+          wgPageFormsAutocompleteOnAllChars: false,
+          wgPageFormsFieldProperties: [],
+          wgPageFormsCargoFields: [],
+          wgPageFormsDependentFields: [],
+          wgPageFormsGridValues: [],
+          wgPageFormsGridParams: [],
+          wgPageFormsShowOnSelect: [],
+          wgPageFormsScriptPath: "/extensions/PageForms",
+          edgValues: null,
+          wgPageFormsEDSettings: null,
+          wgCargoMapClusteringMinimum: 80,
+          wgCargoMonthNames: [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+          ],
+          wgCargoMonthNamesShort: [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ],
+          wgCargoWeekDays: [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+          ],
+          wgCargoWeekDaysShort: [
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+          ],
+          wgULSAcceptLanguageList: [],
+          wgULSCurrentAutonym: "English",
+          wgVisualEditor: {
+            pageLanguageCode: "en",
+            pageLanguageDir: "ltr",
+            usePageImages: false,
+            usePageDescriptions: false,
+          },
+          wgCategoryTreePageCategoryOptions:
+            '{"mode":0,"hideprefix":20,"showcount":true,"namespaces":false}',
+          wgVisualEditorToolbarScrollOffset: 0,
+          wgEditSubmitButtonLabelPublish: false,
+        });
+        mw.loader.state({
+          "site.styles": "ready",
+          noscript: "ready",
+          "user.styles": "ready",
+          "user.cssprefs": "ready",
+          user: "ready",
+          "user.options": "loading",
+          "user.tokens": "loading",
+          "mediawiki.special": "ready",
+          "mediawiki.htmlform.styles": "ready",
+          "ext.uls.pt": "ready",
+          "ext.visualEditor.desktopArticleTarget.noscript": "ready",
+          "mediawiki.legacy.shared": "ready",
+          "mediawiki.legacy.commonPrint": "ready",
+          "mediawiki.sectionAnchor": "ready",
+          "mediawiki.skinning.interface": "ready",
+          "skins.vector.styles": "ready",
+        });
+        mw.loader.implement(
+          "user.options@0j3lz3q",
+          function ($, jQuery, require, module) {
+            mw.user.options.set({ variant: "en" });
+          }
+        );
+        mw.loader.implement(
+          "user.tokens@0d8wvfv",
+          function ($, jQuery, require, module) {
+            mw.user.tokens.set({
+              editToken: "+\\",
+              patrolToken: "+\\",
+              watchToken: "+\\",
+              csrfToken: "+\\",
+            }); /*@nomin*/
+          }
+        );
+        mw.loader.load([
+          "mediawiki.page.startup",
+          "ext.uls.interface",
+          "ext.visualEditor.desktopArticleTarget.init",
+          "skins.vector.js",
+        ]);
+      });
+    </script>
+    <link
+      rel="stylesheet"
+      href="/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%2Cspecial%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"
+    />
+    <script
+      async=""
+      src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"
+    ></script>
+    <meta name="ResourceLoaderDynamicStyles" content="" />
+    <link
+      rel="stylesheet"
+      href="/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"
+    />
+    <meta name="generator" content="MediaWiki 1.28.0" />
+    <meta name="robots" content="noindex,nofollow" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link
+      rel="search"
+      type="application/opensearchdescription+xml"
+      href="/opensearch_desc.php"
+      title="ZeTeCo (en)"
+    />
+    <link
+      rel="EditURI"
+      type="application/rsd+xml"
+      href="http://localhost/api.php?action=rsd"
+    />
+    <link
+      rel="copyright"
+      href="https://creativecommons.org/publicdomain/zero/1.0/"
+    />
+    <link
+      rel="alternate"
+      type="application/atom+xml"
+      title="ZeTeCo Atom feed"
+      href="/index.php?title=Special:RecentChanges&amp;feed=atom"
+    />
+  </head>
+  <body
+    class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Special_AllPages rootpage-Special_AllPages skin-vector action-view"
+  >
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top"></a>
+
+      <div class="mw-indicators"></div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">All pages</h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="contentSub"></div>
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="#mw-head">navigation</a>,
+          <a href="#p-search">search</a>
+        </div>
+        <div id="mw-content-text">
+          <form
+            action="/wiki/Special:AllPages"
+            method="get"
+            class="visualClear"
+          >
+            <fieldset>
+              <legend>All pages</legend>
+              <table>
+                <tbody>
+                  <tr class="mw-htmlform-field-HTMLTextField">
+                    <td class="mw-label">
+                      <label for="nsfrom">Display pages starting at:</label>
+                    </td>
+                    <td class="mw-input">
+                      <input id="nsfrom" name="from" size="30" />
+                    </td>
+                  </tr>
+                  <tr class="mw-htmlform-field-HTMLTextField">
+                    <td class="mw-label">
+                      <label for="nsto">Display pages ending at:</label>
+                    </td>
+                    <td class="mw-input">
+                      <input id="nsto" name="to" size="30" />
+                    </td>
+                  </tr>
+                  <tr class="mw-htmlform-field-HTMLSelectNamespace">
+                    <td class="mw-label">
+                      <label for="namespace">Namespace:</label>
+                    </td>
+                    <td class="mw-input">
+                      <select
+                        class="namespaceselector"
+                        id="namespace"
+                        name="namespace"
+                      >
+                        <option value="0">(Main)</option>
+                        <option value="1">Talk</option>
+                        <option value="2">User</option>
+                        <option value="3">User talk</option>
+                        <option value="4">ZeTeCo</option>
+                        <option value="5">ZeTeCo talk</option>
+                        <option value="6">File</option>
+                        <option value="7">File talk</option>
+                        <option value="8">MediaWiki</option>
+                        <option value="9">MediaWiki talk</option>
+                        <option value="10">Template</option>
+                        <option value="11">Template talk</option>
+                        <option value="12">Help</option>
+                        <option value="13">Help talk</option>
+                        <option value="14">Category</option>
+                        <option value="15">Category talk</option>
+                        <option value="106">Form</option>
+                        <option value="107">Form talk</option>
+                        <option value="122">Orga</option>
+                        <option value="123">Orga talk</option>
+                        <option value="124">Aufbau</option>
+                        <option value="125">Aufbau talk</option>
+                        <option value="142">Static</option>
+                        <option value="143">Static talk</option>
+                        <option value="274">Widget</option>
+                        <option value="275">Widget talk</option>
+                        <option value="460">Campaign</option>
+                        <option value="461">Campaign talk</option>
+                        <option value="1198">Translations</option>
+                        <option value="1199">Translations talk</option>
+                      </select>
+                    </td>
+                  </tr>
+                  <tr class="mw-htmlform-field-HTMLCheckField">
+                    <td class="mw-label"><label>&nbsp;</label></td>
+                    <td class="mw-input">
+                      <input
+                        name="hideredirects"
+                        type="checkbox"
+                        value="1"
+                        id="hidredirects"
+                      />&nbsp;<label for="hidredirects">Hide redirects</label>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <span class="mw-htmlform-submit-buttons">
+                <input class="mw-htmlform-submit" type="submit" value="Go" />
+              </span>
+            </fieldset>
+          </form>
+          <div class="mw-allpages-body">
+            <ul class="mw-allpages-chunk">
+              <li>
+                <a
+                  href="/wiki/Aktionsplan_Hitzewelle"
+                  title="Aktionsplan Hitzewelle"
+                  >Aktionsplan Hitzewelle</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Anwesenheit" title="Anwesenheit">Anwesenheit</a>
+              </li>
+              <li><a href="/wiki/Aufbau" title="Aufbau">Aufbau</a></li>
+              <li><a href="/wiki/Badge" title="Badge">Badge</a></li>
+              <li><a href="/wiki/Bank" title="Bank">Bank</a></li>
+              <li>
+                <a href="/wiki/CampAnnounce" title="CampAnnounce"
+                  >CampAnnounce</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/CampProjekte" title="CampProjekte"
+                  >CampProjekte</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/CampVillages" title="CampVillages"
+                  >CampVillages</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Crowdfunding" title="Crowdfunding"
+                  >Crowdfunding</a
+                >
+              </li>
+              <li class="allpagesredirect">
+                <a href="/wiki/Deko" class="mw-redirect" title="Deko">Deko</a>
+              </li>
+              <li><a href="/wiki/Design" title="Design">Design</a></li>
+              <li>
+                <a href="/wiki/Diezel_Sun" title="Diezel Sun">Diezel Sun</a>
+              </li>
+              <li><a href="/wiki/FAQ" title="FAQ">FAQ</a></li>
+              <li>
+                <a href="/wiki/FahrplanApp" title="FahrplanApp">FahrplanApp</a>
+              </li>
+              <li>
+                <a href="/wiki/Flurplanung" title="Flurplanung">Flurplanung</a>
+              </li>
+              <li><a href="/wiki/Frab" title="Frab">Frab</a></li>
+              <li>
+                <a
+                  href="/wiki/Gr%C3%BCndungsprotokoll"
+                  title="Gründungsprotokoll"
+                  >Gründungsprotokoll</a
+                >
+              </li>
+              <li><a href="/wiki/Handbook" title="Handbook">Handbook</a></li>
+              <li>
+                <a href="/wiki/HowtoGetThere" title="HowtoGetThere"
+                  >HowtoGetThere</a
+                >
+              </li>
+              <li><a href="/wiki/HowtoPack" title="HowtoPack">HowtoPack</a></li>
+              <li><a href="/wiki/H%E2%82%82OC" title="H₂OC">H₂OC</a></li>
+              <li class="allpagesredirect">
+                <a href="/wiki/Impressum" class="mw-redirect" title="Impressum"
+                  >Impressum</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/InfoBeamer" title="InfoBeamer">InfoBeamer</a>
+              </li>
+              <li><a href="/wiki/Internet" title="Internet">Internet</a></li>
+              <li><a href="/wiki/Kueche" title="Kueche">Kueche</a></li>
+              <li><a href="/wiki/List" title="List">List</a></li>
+              <li>
+                <a
+                  href="/wiki/List_of_candidates_for_speakers,_artists,_caterers"
+                  title="List of candidates for speakers, artists, caterers"
+                  >List of candidates for speakers, artists, caterers</a
+                >
+              </li>
+              <li><a href="/wiki/LoRaWAN" title="LoRaWAN">LoRaWAN</a></li>
+              <li><a href="/wiki/Location" title="Location">Location</a></li>
+              <li>
+                <a href="/wiki/Lokale_Verkabelung" title="Lokale Verkabelung"
+                  >Lokale Verkabelung</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Lost-and-Found" title="Lost-and-Found"
+                  >Lost-and-Found</a
+                >
+              </li>
+              <li><a href="/wiki/Main" title="Main">Main</a></li>
+              <li class="allpagesredirect">
+                <a href="/wiki/Main_Page" class="mw-redirect" title="Main Page"
+                  >Main Page</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Media_Texte" title="Media Texte">Media Texte</a>
+              </li>
+              <li>
+                <a href="/wiki/Medienspiegel" title="Medienspiegel"
+                  >Medienspiegel</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Meeting-170525-GPN" title="Meeting-170525-GPN"
+                  >Meeting-170525-GPN</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Meeting_2017-01-21" title="Meeting 2017-01-21"
+                  >Meeting 2017-01-21</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Meeting_2017-03-03" title="Meeting 2017-03-03"
+                  >Meeting 2017-03-03</a
+                >
+              </li>
+              <li><a href="/wiki/Mitmachen" title="Mitmachen">Mitmachen</a></li>
+              <li class="allpagesredirect">
+                <a
+                  href="/wiki/Notfallplan"
+                  class="mw-redirect"
+                  title="Notfallplan"
+                  >Notfallplan</a
+                >
+              </li>
+              <li><a href="/wiki/ORLY" title="ORLY">ORLY</a></li>
+              <li>
+                <a href="/wiki/Odenwilusenz" title="Odenwilusenz"
+                  >Odenwilusenz</a
+                >
+              </li>
+              <li><a href="/wiki/Office" title="Office">Office</a></li>
+              <li><a href="/wiki/Orga" title="Orga">Orga</a></li>
+              <li>
+                <a href="/wiki/OrgaQuestions" title="OrgaQuestions"
+                  >OrgaQuestions</a
+                >
+              </li>
+              <li><a href="/wiki/Packliste" title="Packliste">Packliste</a></li>
+              <li><a href="/wiki/Pool" title="Pool">Pool</a></li>
+              <li><a href="/wiki/Pretix" title="Pretix">Pretix</a></li>
+              <li><a href="/wiki/Project" title="Project">Project</a></li>
+              <li>
+                <a href="/wiki/ProjectAEIM" title="ProjectAEIM">ProjectAEIM</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectAbfall" title="ProjectAbfall"
+                  >ProjectAbfall</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/ProjectAufbau" title="ProjectAufbau"
+                  >ProjectAufbau</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/ProjectBDFH" title="ProjectBDFH">ProjectBDFH</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectCDEF" title="ProjectCDEF">ProjectCDEF</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectCEGI" title="ProjectCEGI">ProjectCEGI</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectCGKO" title="ProjectCGKO">ProjectCGKO</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectDDDD" title="ProjectDDDD">ProjectDDDD</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectDFHJ" title="ProjectDFHJ">ProjectDFHJ</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectDHLP" title="ProjectDHLP">ProjectDHLP</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectEIMQ" title="ProjectEIMQ">ProjectEIMQ</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectFFFF" title="ProjectFFFF">ProjectFFFF</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectFGHI" title="ProjectFGHI">ProjectFGHI</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectFHJL" title="ProjectFHJL">ProjectFHJL</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectFILO" title="ProjectFILO">ProjectFILO</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectFJNR" title="ProjectFJNR">ProjectFJNR</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectGIKM" title="ProjectGIKM">ProjectGIKM</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectGJMP" title="ProjectGJMP">ProjectGJMP</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectIIII" title="ProjectIIII">ProjectIIII</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectJLNP" title="ProjectJLNP">ProjectJLNP</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectJMPS" title="ProjectJMPS">ProjectJMPS</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectKKKK" title="ProjectKKKK">ProjectKKKK</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectKMOQ" title="ProjectKMOQ">ProjectKMOQ</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectKNQT" title="ProjectKNQT">ProjectKNQT</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectPPPP" title="ProjectPPPP">ProjectPPPP</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectPRTV" title="ProjectPRTV">ProjectPRTV</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectQSUW" title="ProjectQSUW">ProjectQSUW</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectRTVX" title="ProjectRTVX">ProjectRTVX</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectReport" title="ProjectReport"
+                  >ProjectReport</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/ProjectSECU" title="ProjectSECU">ProjectSECU</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectSSSS" title="ProjectSSSS">ProjectSSSS</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectSUWY" title="ProjectSUWY">ProjectSUWY</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectSVYB" title="ProjectSVYB">ProjectSVYB</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectTTTT" title="ProjectTTTT">ProjectTTTT</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectTVXZ" title="ProjectTVXZ">ProjectTVXZ</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectVVVV" title="ProjectVVVV">ProjectVVVV</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectWZCF" title="ProjectWZCF">ProjectWZCF</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectXADG" title="ProjectXADG">ProjectXADG</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectYACE" title="ProjectYACE">ProjectYACE</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectYBEH" title="ProjectYBEH">ProjectYBEH</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectYZAB" title="ProjectYZAB">ProjectYZAB</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectZBDF" title="ProjectZBDF">ProjectZBDF</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectZCFI" title="ProjectZCFI">ProjectZCFI</a>
+              </li>
+              <li>
+                <a href="/wiki/ProjectZZZZ" title="ProjectZZZZ">ProjectZZZZ</a>
+              </li>
+              <li class="allpagesredirect">
+                <a
+                  href="/wiki/ProjectsOverview"
+                  class="mw-redirect"
+                  title="ProjectsOverview"
+                  >ProjectsOverview</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/ProjectsScratch" title="ProjectsScratch"
+                  >ProjectsScratch</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Protokoll_07.12.16" title="Protokoll 07.12.16"
+                  >Protokoll 07.12.16</a
+                >
+              </li>
+              <li>
+                <a
+                  href="/wiki/Protokoll_15.11.2017"
+                  title="Protokoll 15.11.2017"
+                  >Protokoll 15.11.2017</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Protokoll_2.9.2018" title="Protokoll 2.9.2018"
+                  >Protokoll 2.9.2018</a
+                >
+              </li>
+              <li><a href="/wiki/See-base" title="See-base">See-base</a></li>
+              <li><a href="/wiki/Shuttle" title="Shuttle">Shuttle</a></li>
+              <li>
+                <a href="/wiki/Signalisation" title="Signalisation"
+                  >Signalisation</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Slack-IRC_Howto" title="Slack-IRC Howto"
+                  >Slack-IRC Howto</a
+                >
+              </li>
+              <li class="allpagesredirect">
+                <a
+                  href="/wiki/Sprinter-Kaiserslautern"
+                  class="mw-redirect"
+                  title="Sprinter-Kaiserslautern"
+                  >Sprinter-Kaiserslautern</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Stromverteilung" title="Stromverteilung"
+                  >Stromverteilung</a
+                >
+              </li>
+              <li><a href="/wiki/Team" title="Team">Team</a></li>
+              <li class="allpagesredirect">
+                <a href="/wiki/Team:" class="mw-redirect" title="Team:"
+                  >Team:</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Team:Admin" title="Team:Admin">Team:Admin</a>
+              </li>
+              <li><a href="/wiki/Team:Bar" title="Team:Bar">Team:Bar</a></li>
+              <li><a href="/wiki/Team:CERT" title="Team:CERT">Team:CERT</a></li>
+              <li>
+                <a href="/wiki/Team:Content" title="Team:Content"
+                  >Team:Content</a
+                >
+              </li>
+              <li class="allpagesredirect">
+                <a href="/wiki/Team:Deco" class="mw-redirect" title="Team:Deco"
+                  >Team:Deco</a
+                >
+              </li>
+              <li><a href="/wiki/Team:Deko" title="Team:Deko">Team:Deko</a></li>
+              <li>
+                <a href="/wiki/Team:Funding" title="Team:Funding"
+                  >Team:Funding</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Team:Gastro" title="Team:Gastro">Team:Gastro</a>
+              </li>
+              <li>
+                <a href="/wiki/Team:Infodesk" title="Team:Infodesk"
+                  >Team:Infodesk</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Team:Lounge" title="Team:Lounge">Team:Lounge</a>
+              </li>
+              <li><a href="/wiki/Team:NOC" title="Team:NOC">Team:NOC</a></li>
+              <li><a href="/wiki/Team:POC" title="Team:POC">Team:POC</a></li>
+              <li>
+                <a href="/wiki/Team:Power" title="Team:Power">Team:Power</a>
+              </li>
+              <li>
+                <a href="/wiki/Team:Promo" title="Team:Promo">Team:Promo</a>
+              </li>
+              <li><a href="/wiki/Team:ROC" title="Team:ROC">Team:ROC</a></li>
+              <li>
+                <a href="/wiki/Team:Sanit%C3%A4r" title="Team:Sanitär"
+                  >Team:Sanitär</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Team:Signs" title="Team:Signs">Team:Signs</a>
+              </li>
+              <li>
+                <a href="/wiki/Team:Stage" title="Team:Stage">Team:Stage</a>
+              </li>
+              <li>
+                <a
+                  href="/wiki/Team:Stage:Sprinter-Kaiserslautern"
+                  title="Team:Stage:Sprinter-Kaiserslautern"
+                  >Team:Stage:Sprinter-Kaiserslautern</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Team:Tickets" title="Team:Tickets"
+                  >Team:Tickets</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Team:Video" title="Team:Video">Team:Video</a>
+              </li>
+              <li><a href="/wiki/Team:Web" title="Team:Web">Team:Web</a></li>
+              <li class="allpagesredirect">
+                <a
+                  href="/wiki/TeamOverview"
+                  class="mw-redirect"
+                  title="TeamOverview"
+                  >TeamOverview</a
+                >
+              </li>
+              <li class="allpagesredirect">
+                <a href="/wiki/Teams" class="mw-redirect" title="Teams"
+                  >Teams</a
+                >
+              </li>
+              <li><a href="/wiki/Theme" title="Theme">Theme</a></li>
+              <li>
+                <a href="/wiki/Ticketpreise" title="Ticketpreise"
+                  >Ticketpreise</a
+                >
+              </li>
+              <li><a href="/wiki/Timetable" title="Timetable">Timetable</a></li>
+              <li>
+                <a href="/wiki/Vereinsstatuten" title="Vereinsstatuten"
+                  >Vereinsstatuten</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/Verpflegung" title="Verpflegung">Verpflegung</a>
+              </li>
+              <li>
+                <a
+                  href="/wiki/Verpflegung_Drittanbieter"
+                  title="Verpflegung Drittanbieter"
+                  >Verpflegung Drittanbieter</a
+                >
+              </li>
+              <li><a href="/wiki/WLAN" title="WLAN">WLAN</a></li>
+              <li><a href="/wiki/Web_Texte" title="Web Texte">Web Texte</a></li>
+              <li class="allpagesredirect">
+                <a href="/wiki/Werbung" class="mw-redirect" title="Werbung"
+                  >Werbung</a
+                >
+              </li>
+              <li>
+                <a href="/wiki/ZeTeCo_Webserver" title="ZeTeCo Webserver"
+                  >ZeTeCo Webserver</a
+                >
+              </li>
+              <li><a href="/wiki/Zelte" title="Zelte">Zelte</a></li>
+              <li><a href="/wiki/ZollZeugs" title="ZollZeugs">ZollZeugs</a></li>
+              <li>
+                <a
+                  href="/wiki/Zurich_Session_Test_1"
+                  title="Zurich Session Test 1"
+                  >Zurich Session Test 1</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="printfooter">
+          Retrieved from "<a
+            dir="ltr"
+            href="http://localhost/wiki/Special:AllPages"
+            >http://localhost/wiki/Special:AllPages</a
+          >"
+        </div>
+        <div
+          id="catlinks"
+          class="catlinks catlinks-allhidden"
+          data-mw="interface"
+        ></div>
+        <div class="visualClear"></div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>Navigation menu</h2>
+
+      <div id="mw-head">
+        <div
+          id="p-personal"
+          role="navigation"
+          class=""
+          aria-labelledby="p-personal-label"
+        >
+          <h3 id="p-personal-label">Personal tools</h3>
+          <ul>
+            <li id="pt-uls" class="active">
+              <a href="#" class="uls-trigger autonym">English</a>
+            </li>
+            <li id="pt-anonuserpage">Not logged in</li>
+            <li id="pt-anontalk">
+              <a
+                href="/wiki/Special:MyTalk"
+                title="Discussion about edits from this IP address [n]"
+                accesskey="n"
+                >Talk</a
+              >
+            </li>
+            <li id="pt-anoncontribs">
+              <a
+                href="/wiki/Special:MyContributions"
+                title="A list of edits made from this IP address [y]"
+                accesskey="y"
+                >Contributions</a
+              >
+            </li>
+            <li id="pt-createaccount">
+              <a
+                href="/index.php?title=Special:CreateAccount&amp;returnto=Special%3AAllPages"
+                title="You are encouraged to create an account and log in; however, it is not mandatory"
+                >Create account</a
+              >
+            </li>
+            <li id="pt-login">
+              <a
+                href="/index.php?title=Special:UserLogin&amp;returnto=Special%3AAllPages"
+                title="You are encouraged to log in; however, it is not mandatory [o]"
+                accesskey="o"
+                >Log in</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div
+            id="p-namespaces"
+            role="navigation"
+            class="vectorTabs"
+            aria-labelledby="p-namespaces-label"
+          >
+            <h3 id="p-namespaces-label">Namespaces</h3>
+            <ul>
+              <li id="ca-nstab-special" class="selected">
+                <span
+                  ><a
+                    href="/wiki/Special:AllPages"
+                    title="This is a special page, and it cannot be edited"
+                    >Special page</a
+                  ></span
+                >
+              </li>
+            </ul>
+          </div>
+          <div
+            id="p-variants"
+            role="navigation"
+            class="vectorMenu emptyPortlet"
+            aria-labelledby="p-variants-label"
+          >
+            <h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+            <div class="menu">
+              <ul></ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div
+            id="p-views"
+            role="navigation"
+            class="vectorTabs emptyPortlet"
+            aria-labelledby="p-views-label"
+          >
+            <h3 id="p-views-label">Views</h3>
+            <ul></ul>
+          </div>
+          <div
+            id="p-cactions"
+            role="navigation"
+            class="vectorMenu emptyPortlet"
+            aria-labelledby="p-cactions-label"
+          >
+            <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+            <div class="menu">
+              <ul></ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">Search</label>
+            </h3>
+
+            <form action="/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input
+                  type="search"
+                  name="search"
+                  placeholder="Search ZeTeCo"
+                  title="Search ZeTeCo [f]"
+                  accesskey="f"
+                  id="searchInput"
+                /><input
+                  type="hidden"
+                  value="Special:Search"
+                  name="title"
+                /><input
+                  type="submit"
+                  name="fulltext"
+                  value="Search"
+                  title="Search the pages for this text"
+                  id="mw-searchButton"
+                  class="searchButton mw-fallbackSearchButton"
+                /><input
+                  type="submit"
+                  name="go"
+                  value="Go"
+                  title="Go to a page with this exact name if it exists"
+                  id="searchButton"
+                  class="searchButton"
+                />
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a
+            class="mw-wiki-logo"
+            href="/wiki/Main_Page"
+            title="Visit the main page"
+          ></a>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-navigation"
+          aria-labelledby="p-navigation-label"
+        >
+          <h3 id="p-navigation-label">Navigation</h3>
+
+          <div class="body">
+            <ul></ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-ZeTeCo"
+          aria-labelledby="p-ZeTeCo-label"
+        >
+          <h3 id="p-ZeTeCo-label">ZeTeCo</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a
+                  href="/wiki/Main_Page"
+                  title="Visit the main page [z]"
+                  accesskey="z"
+                  >Main page</a
+                >
+              </li>
+              <li id="n-FAQ"><a href="/wiki/Static:FAQ">FAQ</a></li>
+              <li id="n-Tickets">
+                <a href="https://tickets.zeteco.ch/" rel="nofollow">Tickets</a>
+              </li>
+              <li id="n-Travel"><a href="/wiki/Static:Travel">Travel</a></li>
+              <li id="n-Impressum">
+                <a href="/wiki/Static:Impressum">Impressum</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Vor_dem_Camp"
+          aria-labelledby="p-Vor_dem_Camp-label"
+        >
+          <h3 id="p-Vor_dem_Camp-label">Vor dem Camp</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-Teams"><a href="/wiki/Team">Teams</a></li>
+              <li id="n-Camp-Projekte">
+                <a href="/wiki/CampProjekte">Camp Projekte</a>
+              </li>
+              <li id="n-Camp-Villages">
+                <a href="/wiki/CampVillages">Camp Villages</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Wiki"
+          aria-labelledby="p-Wiki-label"
+        >
+          <h3 id="p-Wiki-label">Wiki</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-recentchanges">
+                <a
+                  href="/wiki/Special:RecentChanges"
+                  title="A list of recent changes in the wiki [r]"
+                  accesskey="r"
+                  >Recent changes</a
+                >
+              </li>
+              <li id="n-randompage">
+                <a
+                  href="/wiki/Special:Random"
+                  title="Load a random page [x]"
+                  accesskey="x"
+                  >Random page</a
+                >
+              </li>
+              <li id="n-help">
+                <a
+                  href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents"
+                  title="The place to find out"
+                  >Help</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Wiki_Development"
+          aria-labelledby="p-Wiki_Development-label"
+        >
+          <h3 id="p-Wiki_Development-label">Wiki Development</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-Cargo-Data">
+                <a href="/wiki/Special:CargoTables">Cargo Data</a>
+              </li>
+              <li id="n-Templates">
+                <a href="/wiki/Special:Templates">Templates</a>
+              </li>
+              <li id="n-List-of-Projects">
+                <a href="/wiki/Project">List of Projects</a>
+              </li>
+              <li id="n-Create-Orga-Project">
+                <a href="/wiki/Form:OrgaProject">Create Orga Project</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-tb"
+          aria-labelledby="p-tb-label"
+        >
+          <h3 id="p-tb-label">Tools</h3>
+
+          <div class="body">
+            <ul>
+              <li id="t-upload">
+                <a
+                  href="/wiki/Special:UploadWizard"
+                  title="Upload files [u]"
+                  accesskey="u"
+                  >Upload file</a
+                >
+              </li>
+              <li id="t-specialpages">
+                <a
+                  href="/wiki/Special:SpecialPages"
+                  title="A list of all special pages [q]"
+                  accesskey="q"
+                  >Special pages</a
+                >
+              </li>
+              <li id="t-print">
+                <a
+                  href="/index.php?title=Special:AllPages&amp;printable=yes"
+                  rel="alternate"
+                  title="Printable version of this page [p]"
+                  accesskey="p"
+                  >Printable version</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="/wiki/ZeTeCo:Privacy_policy" title="ZeTeCo:Privacy policy"
+            >Privacy policy</a
+          >
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/ZeTeCo:About" title="ZeTeCo:About">About ZeTeCo</a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a
+            href="/wiki/ZeTeCo:General_disclaimer"
+            title="ZeTeCo:General disclaimer"
+            >Disclaimers</a
+          >
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://creativecommons.org/publicdomain/zero/1.0/"
+            ><img
+              src="/resources/assets/licenses/cc-0.png"
+              alt="Creative Commons Zero (Public Domain)"
+              width="88"
+              height="31"
+          /></a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/"
+            ><img
+              src="/resources/assets/poweredby_mediawiki_88x31.png"
+              alt="Powered by MediaWiki"
+              srcset="
+                /resources/assets/poweredby_mediawiki_132x47.png 1.5x,
+                /resources/assets/poweredby_mediawiki_176x62.png 2x
+              "
+              width="88"
+              height="31"
+          /></a>
+        </li>
+      </ul>
+      <div style="clear: both"></div>
+    </div>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.loader.load([
+          "mediawiki.htmlform",
+          "site",
+          "mediawiki.user",
+          "mediawiki.hidpi",
+          "mediawiki.page.ready",
+          "mediawiki.searchSuggest",
+          "ext.Shariff",
+          "ext.uls.init",
+          "ext.uls.geoclient",
+          "ext.visualEditor.targetLoader",
+        ]);
+      });
+    </script>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.config.set({ wgBackendResponseTime: 0 });
+      });
+    </script>
+  </body>
+</html>

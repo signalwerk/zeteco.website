@@ -1,0 +1,1097 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Static:Hauptseite - ZeTeCo</title>
+    <script>
+      document.documentElement.className =
+        document.documentElement.className.replace(
+          /(^|\s)client-nojs(\s|$)/,
+          "$1client-js$2"
+        );
+    </script>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.config.set({
+          wgCanonicalNamespace: "Static",
+          wgCanonicalSpecialPageName: false,
+          wgNamespaceNumber: 142,
+          wgPageName: "Static:Hauptseite",
+          wgTitle: "Hauptseite",
+          wgCurRevisionId: 2104,
+          wgRevisionId: 2104,
+          wgArticleId: 307,
+          wgIsArticle: true,
+          wgIsRedirect: false,
+          wgAction: "view",
+          wgUserName: null,
+          wgUserGroups: ["*"],
+          wgCategories: [],
+          wgBreakFrames: false,
+          wgPageContentLanguage: "en",
+          wgPageContentModel: "wikitext",
+          wgSeparatorTransformTable: ["", ""],
+          wgDigitTransformTable: ["", ""],
+          wgDefaultDateFormat: "dmy",
+          wgMonthNames: [
+            "",
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+          ],
+          wgMonthNamesShort: [
+            "",
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ],
+          wgRelevantPageName: "Static:Hauptseite",
+          wgRelevantArticleId: 307,
+          wgRequestId: "",
+          wgIsProbablyEditable: false,
+          wgRestrictionEdit: [],
+          wgRestrictionMove: [],
+          wgWikiEditorEnabledModules: {
+            toolbar: false,
+            dialogs: false,
+            preview: false,
+            publish: false,
+          },
+          wgBetaFeaturesFeatures: [],
+          wgMediaViewerOnClick: true,
+          wgMediaViewerEnabledByDefault: true,
+          wgPageFormsAutocompleteValues: [],
+          wgPageFormsAutocompleteOnAllChars: false,
+          wgPageFormsFieldProperties: [],
+          wgPageFormsCargoFields: [],
+          wgPageFormsDependentFields: [],
+          wgPageFormsGridValues: [],
+          wgPageFormsGridParams: [],
+          wgPageFormsShowOnSelect: [],
+          wgPageFormsScriptPath: "/extensions/PageForms",
+          edgValues: null,
+          wgPageFormsEDSettings: null,
+          wgCargoMapClusteringMinimum: 80,
+          wgCargoMonthNames: [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December",
+          ],
+          wgCargoMonthNamesShort: [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ],
+          wgCargoWeekDays: [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+          ],
+          wgCargoWeekDaysShort: [
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+          ],
+          wgULSAcceptLanguageList: [],
+          wgULSCurrentAutonym: "English",
+          wgVisualEditor: {
+            pageLanguageCode: "en",
+            pageLanguageDir: "ltr",
+            usePageImages: false,
+            usePageDescriptions: false,
+          },
+          wgCategoryTreePageCategoryOptions:
+            '{"mode":0,"hideprefix":20,"showcount":true,"namespaces":false}',
+          wgVisualEditorToolbarScrollOffset: 0,
+          wgEditSubmitButtonLabelPublish: false,
+        });
+        mw.loader.state({
+          "site.styles": "ready",
+          noscript: "ready",
+          "user.styles": "ready",
+          "user.cssprefs": "ready",
+          user: "ready",
+          "user.options": "loading",
+          "user.tokens": "loading",
+          "ext.uls.pt": "ready",
+          "ext.visualEditor.desktopArticleTarget.noscript": "ready",
+          "mediawiki.legacy.shared": "ready",
+          "mediawiki.legacy.commonPrint": "ready",
+          "mediawiki.sectionAnchor": "ready",
+          "mediawiki.skinning.interface": "ready",
+          "skins.vector.styles": "ready",
+        });
+        mw.loader.implement(
+          "user.options@0j3lz3q",
+          function ($, jQuery, require, module) {
+            mw.user.options.set({ variant: "en" });
+          }
+        );
+        mw.loader.implement(
+          "user.tokens@0d8wvfv",
+          function ($, jQuery, require, module) {
+            mw.user.tokens.set({
+              editToken: "+\\",
+              patrolToken: "+\\",
+              watchToken: "+\\",
+              csrfToken: "+\\",
+            }); /*@nomin*/
+          }
+        );
+        mw.loader.load([
+          "mediawiki.page.startup",
+          "ext.uls.interface",
+          "ext.visualEditor.desktopArticleTarget.init",
+          "skins.vector.js",
+        ]);
+      });
+    </script>
+    <link
+      rel="stylesheet"
+      href="/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"
+    />
+    <script
+      async=""
+      src="/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"
+    ></script>
+    <meta name="ResourceLoaderDynamicStyles" content="" />
+    <link
+      rel="stylesheet"
+      href="/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"
+    />
+    <meta name="generator" content="MediaWiki 1.28.0" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link
+      rel="search"
+      type="application/opensearchdescription+xml"
+      href="/opensearch_desc.php"
+      title="ZeTeCo (en)"
+    />
+    <link
+      rel="EditURI"
+      type="application/rsd+xml"
+      href="http://localhost/api.php?action=rsd"
+    />
+    <link
+      rel="copyright"
+      href="https://creativecommons.org/publicdomain/zero/1.0/"
+    />
+    <link
+      rel="alternate"
+      type="application/atom+xml"
+      title="ZeTeCo Atom feed"
+      href="/index.php?title=Special:RecentChanges&amp;feed=atom"
+    />
+  </head>
+  <body
+    class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-142 ns-subject page-Static_Hauptseite rootpage-Static_Hauptseite skin-vector action-view"
+  >
+    <div id="mw-page-base" class="noprint"></div>
+    <div id="mw-head-base" class="noprint"></div>
+    <div id="content" class="mw-body" role="main">
+      <a id="top"></a>
+
+      <div class="mw-indicators"></div>
+      <h1 id="firstHeading" class="firstHeading" lang="en">
+        Static:Hauptseite
+      </h1>
+      <div id="bodyContent" class="mw-body-content">
+        <div id="siteSub">From ZeTeCo</div>
+        <div id="contentSub"></div>
+        <div id="jump-to-nav" class="mw-jump">
+          Jump to: <a href="#mw-head">navigation</a>,
+          <a href="#p-search">search</a>
+        </div>
+        <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+          <p><b>ZeTeCo</b></p>
+          <div class="iwell">
+            <dl>
+              <dd>21. bis 24. Juli 2017</dd>
+              <dd>
+                <a href="/wiki/Location" title="Location">
+                  Griesbach, Schaffhausen, Schweiz, Welt, Milchstrasse</a
+                >
+              </dd>
+            </dl>
+          </div>
+          <p>
+            Das
+            <b
+              ><span style="font-weight: bold"
+                >Zeltlager für Technik- und Computerfreunde</span
+              ></b
+            >
+            ist ein regionales 4-tägiges Camp. Zusammen mit dem Aufbau bieten
+            wir 6 Tage Open-Air Feeling und lockeres Beisammensein für
+            Erfindergeiste, Aktivisten, Bastler, Hacker, Künstler, Musiker,
+            Hobbyköche und Alle, die mit uns auskommen. Durch Vorträge, Kunst,
+            Musik, Villages, Grill und gemütlicher Lounge finden Alle -
+            Interessierte, Kinder und Partnerinnen und Partner - Spass und
+            Unterhaltung. Strom, Internet, Getränke und Essen, Sanitär und
+            genügend Platz für eure Zelte und Wohnwagen sind vorhanden. Mit
+            dieser Bühne freuen wir uns auf eure Beiträge und Ideen.
+          </p>
+          <p><br /></p>
+          <div style="float: left; width: 50%">
+            <div
+              style="
+                background-color: #ececeb;
+                padding: 1em;
+                margin: 12px 12px 0px 0px;
+                border-style: solid;
+                border-color: #efefee;
+              "
+            >
+              <h3>
+                <span class="mw-headline" id="Allgemeine_Infos"
+                  >Allgemeine Infos</span
+                >
+              </h3>
+              <ul>
+                <li>
+                  <a href="/wiki/Static:FAQ" title="Static:FAQ"> FAQ</a> –
+                  Häufig gestellte Fragen
+                </li>
+                <li>
+                  <a href="/wiki/Location" title="Location"> Gelände</a> –
+                  Griesbach, wo wir die Zelte aufschlagen werden
+                </li>
+                <li>
+                  <a
+                    rel="nofollow"
+                    class="external text"
+                    href="https://fahrplan.zeteco.ch/"
+                    >Fahrplan</a
+                  >
+                  – Die Talks, Workshops und alle anderen Events
+                  <ul>
+                    <li>
+                      Android
+                      <a
+                        rel="nofollow"
+                        class="external text"
+                        href="https://wiki.zeteco.ch/wiki/FahrplanApp"
+                        >Fahrplan-App</a
+                      >
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a
+                    rel="nofollow"
+                    class="external text"
+                    href="https://tickets.zeteco.ch"
+                    >Tickets</a
+                  >
+                  – Tickets
+                </li>
+                <li>
+                  <a href="/wiki/Verpflegung" title="Verpflegung">
+                    Verpflegung</a
+                  >
+                  – Essen und Trinken
+                </li>
+              </ul>
+            </div>
+            <div
+              style="
+                background-color: #e3d46a;
+                padding: 1em;
+                margin: 12px 12px 0px 0px;
+                border-style: solid;
+                border-color: #e3d46a;
+              "
+            >
+              <h3>
+                <span class="mw-headline" id="Mitmachen_und_Beitragen"
+                  >Mitmachen und Beitragen</span
+                >
+              </h3>
+              <ul>
+                <li>
+                  <b>Talks</b> – Ob kurz oder lang - dein Talk auf der
+                  ZeTeCo-Bühne!<br /><a
+                    rel="nofollow"
+                    class="external text"
+                    href="https://frab.zeteco.ch"
+                    >Registriere dich früh</a
+                  >, auch wenn deine Idee noch nicht ganz ausgereift ist.
+                </li>
+                <li>
+                  <b
+                    ><a href="/wiki/CampVillages" title="CampVillages"
+                      >Villages</a
+                    ></b
+                  >
+                  – Dein Zelt zu einem Thema, mit deinen Workshops, Vorträgen
+                  und Treffen
+                </li>
+                <li>
+                  <b
+                    ><a href="/wiki/CampProjekte" title="CampProjekte"
+                      >Projekte</a
+                    ></b
+                  >
+                  – Bring dein Projekt aufs Camp und komm voran!
+                </li>
+                <li>
+                  <b
+                    ><a href="/wiki/Mitmachen" title="Mitmachen">
+                      Freiwillige</a
+                    ></b
+                  >
+                  – Pack an, vor, während und nach dem Camp! Finde ein
+                  <a href="/wiki/Teams" class="mw-redirect" title="Teams">
+                    Team</a
+                  >, das dich interessiert!
+                </li>
+              </ul>
+              <h3>
+                <span class="mw-headline" id="In_Kontakt_bleiben"
+                  >In Kontakt bleiben</span
+                >
+              </h3>
+              <ul>
+                <li>
+                  <a
+                    rel="nofollow"
+                    class="external text"
+                    href="https://zeteco.slack.com/messages/general"
+                    >Das <b>ZeTeCo Slack</b></a
+                  >
+                  (ähnlich wie IRC, siehe auch
+                  <a href="/wiki/Slack-IRC_Howto" title="Slack-IRC Howto">
+                    wie geht Slack</a
+                  >)<br />(der <b>automatische Invite</b>
+                  <a
+                    rel="nofollow"
+                    class="external text"
+                    href="https://zeteco-slackin.herokuapp.com/"
+                    >gibt's hier</a
+                  >)
+                </li>
+                <li>
+                  <a
+                    rel="nofollow"
+                    class="external text"
+                    href="https://twitter.com/zetecoch"
+                    >Twitter</a
+                  >
+                </li>
+                <li>Orga-Treffs</li>
+                <li>
+                  oder ganz klassisch
+                  <a
+                    rel="nofollow"
+                    class="external text"
+                    href="mailto:info@zeteco.ch"
+                    >per Mail</a
+                  >.
+                </li>
+              </ul>
+            </div>
+            <div
+              style="
+                background-color: #c7baf6;
+                padding: 1em;
+                margin: 12px 12px 0px 0px;
+                border-style: solid;
+                border-color: #c7baf6;
+              "
+            >
+              <h3><span class="mw-headline" id="Weiteres">Weiteres</span></h3>
+              <ul>
+                <li>
+                  <a
+                    href="/index.php?title=Organisation&amp;action=edit&amp;redlink=1"
+                    class="new"
+                    title="Organisation (page does not exist)"
+                  >
+                    Organisation</a
+                  >
+                  – Wer ist wer und macht was bei ZeTeCo?
+                </li>
+                <li>
+                  <a href="/wiki/Handbook" title="Handbook"> Handbuch</a> – Ein
+                  paar Grundsätze, die ZeTeCo zusammen halten
+                </li>
+                <li>
+                  <a
+                    href="/index.php?title=Finances&amp;action=edit&amp;redlink=1"
+                    class="new"
+                    title="Finances (page does not exist)"
+                  >
+                    Finanzen</a
+                  >
+                  – Finanzen, Abrechnungsformular
+                </li>
+                <li>
+                  <a href="/wiki/Bank" title="Bank"> Bankverbindung</a> –
+                  Bankverbindung
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div style="float: right; width: 50%">
+            <div id="tickets" style="padding: 1em; margin: 1em 1em 0px 0px">
+              <div
+                style="
+                  background-color: #e6235d;
+                  padding: 1em;
+                  margin: 1em 5em 0px 2em;
+                  border-style: solid;
+                  border-color: #e6235d;
+                  width: 13em;
+                  box-shadow: 0.1em 0.1em 0.1em 0.1em #010000;
+                "
+              >
+                <h3><span class="mw-headline" id="Tickets">Tickets</span></h3>
+                <p>
+                  <b
+                    >–
+                    <a
+                      rel="nofollow"
+                      class="external text"
+                      href="https://tickets.zeteco.ch"
+                      >Ticket-Shop</a
+                    ></b
+                  >
+                </p>
+              </div>
+              <div
+                style="
+                  background-color: #e6235d;
+                  padding: 1em;
+                  margin: 2em 1em 0px 1em;
+                  border-style: solid;
+                  border-color: #e6235d;
+                  width: 13em;
+                  float: right;
+                  box-shadow: 0.1em 0.1em 0.1em 0.1em #010000;
+                "
+              >
+                <p>
+                  – Regular <b>128 CHF</b><br />
+                  – Regular U16 <b>48 CHF</b><br />
+                  – Regular U12 <b>0 CHF</b><br />
+                  – and other Tickets
+                </p>
+              </div>
+              <div style="clear: both"></div>
+            </div>
+            <div
+              style="
+                background-color: #ffa500;
+                padding: 1em;
+                margin: 12px 12px 0px 0px;
+                border-style: solid;
+                border-color: #ffa500;
+              "
+            >
+              <h3>
+                <span class="mw-headline" id="Einrichtungen"
+                  >Einrichtungen</span
+                >
+              </h3>
+              <ul>
+                <li>
+                  <a href="/wiki/Team:Infodesk" title="Team:Infodesk">
+                    Infodesk</a
+                  >
+                  – 42, die Antwort auf Alles. Für die, die ihn suchen, ist er
+                  auch der Himmel.
+                </li>
+                <li>
+                  <a href="/wiki/Team:CERT" title="Team:CERT"> CERT</a> – Chaos
+                  Emergency Response Team
+                </li>
+                <li>
+                  <a href="/wiki/Team:POC" title="Team:POC"> DECT</a> –
+                  DECT-Telefon-Netz
+                </li>
+                <li>
+                  <a href="/wiki/Team:NOC" title="Team:NOC"> Netzwerk</a> –
+                  Fragen, Informationen und Hilfe rund um's LAN und WLAN
+                </li>
+                <li>
+                  <a href="/wiki/Team:Sanit%C3%A4r" title="Team:Sanitär">
+                    Sanitär</a
+                  >
+                  – Alles zu Frischwasser, WC, Duschen und Abfall-Entsorgung
+                </li>
+                <li>
+                  <a href="/wiki/Team:Power" title="Team:Power"> Strom</a> –
+                  Strom für Alle!
+                </li>
+                <li>
+                  <a href="/wiki/Team:Gastro" title="Team:Gastro"> Gastro</a> –
+                  Mittagessen, Zmorgenbuffet, Znacht und Grill-Village
+                </li>
+                <li>
+                  <a href="/wiki/Team:Lounge" title="Team:Lounge"> Lounge</a>
+                  und <a href="/wiki/Team:Bar" title="Team:Bar"> Bar</a> –
+                  Drinks in der Lounge, mit Musik
+                </li>
+              </ul>
+            </div>
+            <div
+              style="
+                background-color: #27d99f;
+                padding: 1em;
+                margin: 12px 12px 0px 0px;
+                border-style: solid;
+                border-color: #27d99f;
+              "
+            >
+              <h3><span class="mw-headline" id="Anreise">Anreise</span></h3>
+              <ul>
+                <li>
+                  <a href="/wiki/HowtoGetThere" title="HowtoGetThere">
+                    Anreise</a
+                  >
+                  – Alles zur Anreise mit Zug, Auto, Camper, Flugzeug etc.
+                </li>
+                <li>
+                  <a
+                    href="/index.php?title=HowtoSurviveCamp&amp;action=edit&amp;redlink=1"
+                    class="new"
+                    title="HowtoSurviveCamp (page does not exist)"
+                  >
+                    Überleben</a
+                  >
+                  – Alles was es braucht, um das Camp zu überleben.
+                </li>
+                <li>
+                  <a href="/wiki/HowtoPack" title="HowtoPack"> Packliste</a> –
+                  Eine ausgiebige Gedankenstütze für's Packen.
+                </li>
+              </ul>
+            </div>
+          </div>
+          <p>
+            <br clear="all" />
+            <br />
+          </p>
+          <p><br /></p>
+        </div>
+        <div class="printfooter">
+          Retrieved from "<a
+            dir="ltr"
+            href="http://localhost/index.php?title=Static:Hauptseite&amp;oldid=2104"
+            >http://localhost/index.php?title=Static:Hauptseite&amp;oldid=2104</a
+          >"
+        </div>
+        <div
+          id="catlinks"
+          class="catlinks catlinks-allhidden"
+          data-mw="interface"
+        ></div>
+        <div class="visualClear"></div>
+      </div>
+    </div>
+    <div id="mw-navigation">
+      <h2>Navigation menu</h2>
+
+      <div id="mw-head">
+        <div
+          id="p-personal"
+          role="navigation"
+          class=""
+          aria-labelledby="p-personal-label"
+        >
+          <h3 id="p-personal-label">Personal tools</h3>
+          <ul>
+            <li id="pt-uls" class="active">
+              <a href="#" class="uls-trigger autonym">English</a>
+            </li>
+            <li id="pt-anonuserpage">Not logged in</li>
+            <li id="pt-anontalk">
+              <a
+                href="/wiki/Special:MyTalk"
+                title="Discussion about edits from this IP address [n]"
+                accesskey="n"
+                >Talk</a
+              >
+            </li>
+            <li id="pt-anoncontribs">
+              <a
+                href="/wiki/Special:MyContributions"
+                title="A list of edits made from this IP address [y]"
+                accesskey="y"
+                >Contributions</a
+              >
+            </li>
+            <li id="pt-createaccount">
+              <a
+                href="/index.php?title=Special:CreateAccount&amp;returnto=Static%3AHauptseite"
+                title="You are encouraged to create an account and log in; however, it is not mandatory"
+                >Create account</a
+              >
+            </li>
+            <li id="pt-login">
+              <a
+                href="/index.php?title=Special:UserLogin&amp;returnto=Static%3AHauptseite"
+                title="You are encouraged to log in; however, it is not mandatory [o]"
+                accesskey="o"
+                >Log in</a
+              >
+            </li>
+          </ul>
+        </div>
+        <div id="left-navigation">
+          <div
+            id="p-namespaces"
+            role="navigation"
+            class="vectorTabs"
+            aria-labelledby="p-namespaces-label"
+          >
+            <h3 id="p-namespaces-label">Namespaces</h3>
+            <ul>
+              <li id="ca-nstab-static" class="selected">
+                <span><a href="/wiki/Static:Hauptseite">Static</a></span>
+              </li>
+              <li id="ca-talk" class="new">
+                <span
+                  ><a
+                    href="/index.php?title=Static_talk:Hauptseite&amp;action=edit&amp;redlink=1"
+                    title="Discussion about the content page [t]"
+                    accesskey="t"
+                    rel="discussion"
+                    >Discussion</a
+                  ></span
+                >
+              </li>
+            </ul>
+          </div>
+          <div
+            id="p-variants"
+            role="navigation"
+            class="vectorMenu emptyPortlet"
+            aria-labelledby="p-variants-label"
+          >
+            <h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+            <div class="menu">
+              <ul></ul>
+            </div>
+          </div>
+        </div>
+        <div id="right-navigation">
+          <div
+            id="p-views"
+            role="navigation"
+            class="vectorTabs"
+            aria-labelledby="p-views-label"
+          >
+            <h3 id="p-views-label">Views</h3>
+            <ul>
+              <li id="ca-view" class="selected">
+                <span><a href="/wiki/Static:Hauptseite">Read</a></span>
+              </li>
+              <li id="ca-viewsource">
+                <span
+                  ><a
+                    href="/index.php?title=Static:Hauptseite&amp;action=edit"
+                    title="This page is protected.
+You can view its source [e]"
+                    accesskey="e"
+                    >View source</a
+                  ></span
+                >
+              </li>
+              <li id="ca-history" class="collapsible">
+                <span
+                  ><a
+                    href="/index.php?title=Static:Hauptseite&amp;action=history"
+                    title="Past revisions of this page [h]"
+                    accesskey="h"
+                    >View history</a
+                  ></span
+                >
+              </li>
+            </ul>
+          </div>
+          <div
+            id="p-cactions"
+            role="navigation"
+            class="vectorMenu emptyPortlet"
+            aria-labelledby="p-cactions-label"
+          >
+            <h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+            <div class="menu">
+              <ul></ul>
+            </div>
+          </div>
+          <div id="p-search" role="search">
+            <h3>
+              <label for="searchInput">Search</label>
+            </h3>
+
+            <form action="/index.php" id="searchform">
+              <div id="simpleSearch">
+                <input
+                  type="search"
+                  name="search"
+                  placeholder="Search ZeTeCo"
+                  title="Search ZeTeCo [f]"
+                  accesskey="f"
+                  id="searchInput"
+                /><input
+                  type="hidden"
+                  value="Special:Search"
+                  name="title"
+                /><input
+                  type="submit"
+                  name="fulltext"
+                  value="Search"
+                  title="Search the pages for this text"
+                  id="mw-searchButton"
+                  class="searchButton mw-fallbackSearchButton"
+                /><input
+                  type="submit"
+                  name="go"
+                  value="Go"
+                  title="Go to a page with this exact name if it exists"
+                  id="searchButton"
+                  class="searchButton"
+                />
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div id="mw-panel">
+        <div id="p-logo" role="banner">
+          <a
+            class="mw-wiki-logo"
+            href="/wiki/Main_Page"
+            title="Visit the main page"
+          ></a>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-navigation"
+          aria-labelledby="p-navigation-label"
+        >
+          <h3 id="p-navigation-label">Navigation</h3>
+
+          <div class="body">
+            <ul></ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-ZeTeCo"
+          aria-labelledby="p-ZeTeCo-label"
+        >
+          <h3 id="p-ZeTeCo-label">ZeTeCo</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-mainpage-description">
+                <a
+                  href="/wiki/Main_Page"
+                  title="Visit the main page [z]"
+                  accesskey="z"
+                  >Main page</a
+                >
+              </li>
+              <li id="n-FAQ"><a href="/wiki/Static:FAQ">FAQ</a></li>
+              <li id="n-Tickets">
+                <a href="https://tickets.zeteco.ch/" rel="nofollow">Tickets</a>
+              </li>
+              <li id="n-Travel"><a href="/wiki/Static:Travel">Travel</a></li>
+              <li id="n-Impressum">
+                <a href="/wiki/Static:Impressum">Impressum</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Vor_dem_Camp"
+          aria-labelledby="p-Vor_dem_Camp-label"
+        >
+          <h3 id="p-Vor_dem_Camp-label">Vor dem Camp</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-Teams"><a href="/wiki/Team">Teams</a></li>
+              <li id="n-Camp-Projekte">
+                <a href="/wiki/CampProjekte">Camp Projekte</a>
+              </li>
+              <li id="n-Camp-Villages">
+                <a href="/wiki/CampVillages">Camp Villages</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Wiki"
+          aria-labelledby="p-Wiki-label"
+        >
+          <h3 id="p-Wiki-label">Wiki</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-recentchanges">
+                <a
+                  href="/wiki/Special:RecentChanges"
+                  title="A list of recent changes in the wiki [r]"
+                  accesskey="r"
+                  >Recent changes</a
+                >
+              </li>
+              <li id="n-randompage">
+                <a
+                  href="/wiki/Special:Random"
+                  title="Load a random page [x]"
+                  accesskey="x"
+                  >Random page</a
+                >
+              </li>
+              <li id="n-help">
+                <a
+                  href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents"
+                  title="The place to find out"
+                  >Help</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-Wiki_Development"
+          aria-labelledby="p-Wiki_Development-label"
+        >
+          <h3 id="p-Wiki_Development-label">Wiki Development</h3>
+
+          <div class="body">
+            <ul>
+              <li id="n-Cargo-Data">
+                <a href="/wiki/Special:CargoTables">Cargo Data</a>
+              </li>
+              <li id="n-Templates">
+                <a href="/wiki/Special:Templates">Templates</a>
+              </li>
+              <li id="n-List-of-Projects">
+                <a href="/wiki/Project">List of Projects</a>
+              </li>
+              <li id="n-Create-Orga-Project">
+                <a href="/wiki/Form:OrgaProject">Create Orga Project</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div
+          class="portal"
+          role="navigation"
+          id="p-tb"
+          aria-labelledby="p-tb-label"
+        >
+          <h3 id="p-tb-label">Tools</h3>
+
+          <div class="body">
+            <ul>
+              <li id="t-whatlinkshere">
+                <a
+                  href="/wiki/Special:WhatLinksHere/Static:Hauptseite"
+                  title="A list of all wiki pages that link here [j]"
+                  accesskey="j"
+                  >What links here</a
+                >
+              </li>
+              <li id="t-recentchangeslinked">
+                <a
+                  href="/wiki/Special:RecentChangesLinked/Static:Hauptseite"
+                  rel="nofollow"
+                  title="Recent changes in pages linked from this page [k]"
+                  accesskey="k"
+                  >Related changes</a
+                >
+              </li>
+              <li id="t-upload">
+                <a
+                  href="/wiki/Special:UploadWizard"
+                  title="Upload files [u]"
+                  accesskey="u"
+                  >Upload file</a
+                >
+              </li>
+              <li id="t-specialpages">
+                <a
+                  href="/wiki/Special:SpecialPages"
+                  title="A list of all special pages [q]"
+                  accesskey="q"
+                  >Special pages</a
+                >
+              </li>
+              <li id="t-print">
+                <a
+                  href="/index.php?title=Static:Hauptseite&amp;printable=yes"
+                  rel="alternate"
+                  title="Printable version of this page [p]"
+                  accesskey="p"
+                  >Printable version</a
+                >
+              </li>
+              <li id="t-permalink">
+                <a
+                  href="/index.php?title=Static:Hauptseite&amp;oldid=2104"
+                  title="Permanent link to this revision of the page"
+                  >Permanent link</a
+                >
+              </li>
+              <li id="t-info">
+                <a
+                  href="/index.php?title=Static:Hauptseite&amp;action=info"
+                  title="More information about this page"
+                  >Page information</a
+                >
+              </li>
+              <li id="t-cargopagevalueslink">
+                <a
+                  href="/index.php?title=Static:Hauptseite&amp;action=pagevalues"
+                  rel="cargo-pagevalues"
+                  >Page values</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer" role="contentinfo">
+      <ul id="footer-info">
+        <li id="footer-info-lastmod">
+          This page was last modified on 22 July 2017, at 19:34.
+        </li>
+        <li id="footer-info-copyright">
+          Content is available under
+          <a
+            class="external"
+            rel="nofollow"
+            href="https://creativecommons.org/publicdomain/zero/1.0/"
+            >Creative Commons Zero (Public Domain)</a
+          >
+          unless otherwise noted.
+        </li>
+      </ul>
+      <ul id="footer-places">
+        <li id="footer-places-privacy">
+          <a href="/wiki/ZeTeCo:Privacy_policy" title="ZeTeCo:Privacy policy"
+            >Privacy policy</a
+          >
+        </li>
+        <li id="footer-places-about">
+          <a href="/wiki/ZeTeCo:About" title="ZeTeCo:About">About ZeTeCo</a>
+        </li>
+        <li id="footer-places-disclaimer">
+          <a
+            href="/wiki/ZeTeCo:General_disclaimer"
+            title="ZeTeCo:General disclaimer"
+            >Disclaimers</a
+          >
+        </li>
+      </ul>
+      <ul id="footer-icons" class="noprint">
+        <li id="footer-copyrightico">
+          <a href="https://creativecommons.org/publicdomain/zero/1.0/"
+            ><img
+              src="/resources/assets/licenses/cc-0.png"
+              alt="Creative Commons Zero (Public Domain)"
+              width="88"
+              height="31"
+          /></a>
+        </li>
+        <li id="footer-poweredbyico">
+          <a href="//www.mediawiki.org/"
+            ><img
+              src="/resources/assets/poweredby_mediawiki_88x31.png"
+              alt="Powered by MediaWiki"
+              srcset="
+                /resources/assets/poweredby_mediawiki_132x47.png 1.5x,
+                /resources/assets/poweredby_mediawiki_176x62.png 2x
+              "
+              width="88"
+              height="31"
+          /></a>
+        </li>
+      </ul>
+      <div style="clear: both"></div>
+    </div>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.loader.load([
+          "mediawiki.action.view.postEdit",
+          "site",
+          "mediawiki.user",
+          "mediawiki.hidpi",
+          "mediawiki.page.ready",
+          "mediawiki.searchSuggest",
+          "ext.Shariff",
+          "ext.uls.init",
+          "ext.uls.geoclient",
+          "ext.visualEditor.targetLoader",
+        ]);
+      });
+    </script>
+    <script>
+      (window.RLQ = window.RLQ || []).push(function () {
+        mw.config.set({ wgBackendResponseTime: 0 });
+      });
+    </script>
+  </body>
+</html>
