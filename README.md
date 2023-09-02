@@ -3,6 +3,11 @@
 This repository contains the backup of the ZeTeCo website. It is used to generate the static pages.
 You can see the result under [zeteco2017.signalwerk.ch](https://zeteco2017.signalwerk.ch).
 
+## Todo
+
+- Clean up Links to localhost
+- Integrate fahrplan.zeteco.ch
+
 ## Backup instructions
 
 ```sh
